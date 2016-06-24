@@ -1,0 +1,6853 @@
+epi_week,disease,number_of_cases
+2012-W01,Acute Viral hepatitis B,0
+2012-W01,Acute Viral hepatitis C,0
+2012-W01,Avian Influenza,0
+2012-W01,Campylobacterenterosis,6
+2012-W01,Chikungunya Fever,0
+2012-W01,Cholera,0
+2012-W01,Dengue Fever,74
+2012-W01,Dengue Haemorrhagic Fever,0
+2012-W01,Diphtheria,0
+2012-W01,Encephalitis,0
+2012-W01,Haemophilus influenzae type b,0
+2012-W01,"Hand, Foot Mouth Disease",326
+2012-W01,Legionellosis,0
+2012-W01,Malaria,1
+2012-W01,Measles,2
+2012-W01,Melioidosis,0
+2012-W01,Meningococcal Infection,0
+2012-W01,Mumps,11
+2012-W01,Nipah virus infection,0
+2012-W01,Paratyphoid,1
+2012-W01,Pertussis,2
+2012-W01,Plague,0
+2012-W01,Pneumococcal Disease (invasive),3
+2012-W01,Poliomyelitis,0
+2012-W01,Rubella,1
+2012-W01,Salmonellosis(non-enteric fevers),26
+2012-W01,SARS,0
+2012-W01,Typhoid,6
+2012-W01,Viral Hepatitis A,1
+2012-W01,Viral Hepatitis E,3
+2012-W01,Yellow Fever,0
+2012-W02,Acute Viral hepatitis B,0
+2012-W02,Acute Viral hepatitis C,0
+2012-W02,Avian Influenza,0
+2012-W02,Campylobacterenterosis,7
+2012-W02,Chikungunya Fever,1
+2012-W02,Cholera,0
+2012-W02,Dengue Fever,64
+2012-W02,Dengue Haemorrhagic Fever,2
+2012-W02,Diphtheria,0
+2012-W02,Encephalitis,0
+2012-W02,Haemophilus influenzae type b,0
+2012-W02,"Hand, Foot Mouth Disease",346
+2012-W02,Legionellosis,0
+2012-W02,Malaria,2
+2012-W02,Measles,1
+2012-W02,Melioidosis,1
+2012-W02,Meningococcal Infection,0
+2012-W02,Mumps,10
+2012-W02,Nipah virus infection,0
+2012-W02,Paratyphoid,1
+2012-W02,Pertussis,0
+2012-W02,Plague,0
+2012-W02,Pneumococcal Disease (invasive),3
+2012-W02,Poliomyelitis,0
+2012-W02,Rubella,2
+2012-W02,Salmonellosis(non-enteric fevers),24
+2012-W02,SARS,0
+2012-W02,Typhoid,3
+2012-W02,Viral Hepatitis A,2
+2012-W02,Viral Hepatitis E,0
+2012-W02,Yellow Fever,0
+2012-W03,Acute Viral hepatitis B,0
+2012-W03,Acute Viral hepatitis C,0
+2012-W03,Avian Influenza,0
+2012-W03,Campylobacterenterosis,9
+2012-W03,Chikungunya Fever,1
+2012-W03,Cholera,0
+2012-W03,Dengue Fever,60
+2012-W03,Dengue Haemorrhagic Fever,1
+2012-W03,Diphtheria,0
+2012-W03,Encephalitis,3
+2012-W03,Haemophilus influenzae type b,0
+2012-W03,"Hand, Foot Mouth Disease",463
+2012-W03,Legionellosis,0
+2012-W03,Malaria,2
+2012-W03,Measles,2
+2012-W03,Melioidosis,1
+2012-W03,Meningococcal Infection,0
+2012-W03,Mumps,15
+2012-W03,Nipah virus infection,0
+2012-W03,Paratyphoid,1
+2012-W03,Pertussis,5
+2012-W03,Plague,0
+2012-W03,Pneumococcal Disease (invasive),3
+2012-W03,Poliomyelitis,0
+2012-W03,Rubella,4
+2012-W03,Salmonellosis(non-enteric fevers),21
+2012-W03,SARS,0
+2012-W03,Typhoid,5
+2012-W03,Viral Hepatitis A,3
+2012-W03,Viral Hepatitis E,0
+2012-W03,Yellow Fever,0
+2012-W04,Acute Viral hepatitis B,1
+2012-W04,Acute Viral hepatitis C,0
+2012-W04,Avian Influenza,0
+2012-W04,Campylobacterenterosis,8
+2012-W04,Chikungunya Fever,0
+2012-W04,Cholera,0
+2012-W04,Dengue Fever,50
+2012-W04,Dengue Haemorrhagic Fever,2
+2012-W04,Diphtheria,0
+2012-W04,Encephalitis,1
+2012-W04,Haemophilus influenzae type b,0
+2012-W04,"Hand, Foot Mouth Disease",372
+2012-W04,Legionellosis,1
+2012-W04,Malaria,3
+2012-W04,Measles,0
+2012-W04,Melioidosis,1
+2012-W04,Meningococcal Infection,0
+2012-W04,Mumps,8
+2012-W04,Nipah virus infection,0
+2012-W04,Paratyphoid,1
+2012-W04,Pertussis,0
+2012-W04,Plague,0
+2012-W04,Pneumococcal Disease (invasive),2
+2012-W04,Poliomyelitis,0
+2012-W04,Rubella,2
+2012-W04,Salmonellosis(non-enteric fevers),12
+2012-W04,SARS,0
+2012-W04,Typhoid,1
+2012-W04,Viral Hepatitis A,3
+2012-W04,Viral Hepatitis E,2
+2012-W04,Yellow Fever,0
+2012-W05,Acute Viral hepatitis B,1
+2012-W05,Acute Viral hepatitis C,0
+2012-W05,Avian Influenza,0
+2012-W05,Campylobacterenterosis,8
+2012-W05,Chikungunya Fever,0
+2012-W05,Cholera,0
+2012-W05,Dengue Fever,84
+2012-W05,Dengue Haemorrhagic Fever,1
+2012-W05,Diphtheria,0
+2012-W05,Encephalitis,0
+2012-W05,Haemophilus influenzae type b,0
+2012-W05,"Hand, Foot Mouth Disease",444
+2012-W05,Legionellosis,0
+2012-W05,Malaria,1
+2012-W05,Measles,2
+2012-W05,Melioidosis,0
+2012-W05,Meningococcal Infection,0
+2012-W05,Mumps,12
+2012-W05,Nipah virus infection,0
+2012-W05,Paratyphoid,3
+2012-W05,Pertussis,1
+2012-W05,Plague,0
+2012-W05,Pneumococcal Disease (invasive),5
+2012-W05,Poliomyelitis,0
+2012-W05,Rubella,0
+2012-W05,Salmonellosis(non-enteric fevers),37
+2012-W05,SARS,0
+2012-W05,Typhoid,5
+2012-W05,Viral Hepatitis A,2
+2012-W05,Viral Hepatitis E,0
+2012-W05,Yellow Fever,0
+2012-W06,Acute Viral hepatitis B,1
+2012-W06,Acute Viral hepatitis C,0
+2012-W06,Avian Influenza,0
+2012-W06,Campylobacterenterosis,5
+2012-W06,Chikungunya Fever,0
+2012-W06,Cholera,0
+2012-W06,Dengue Fever,87
+2012-W06,Dengue Haemorrhagic Fever,0
+2012-W06,Diphtheria,0
+2012-W06,Encephalitis,2
+2012-W06,Haemophilus influenzae type b,0
+2012-W06,"Hand, Foot Mouth Disease",683
+2012-W06,Legionellosis,1
+2012-W06,Malaria,2
+2012-W06,Measles,4
+2012-W06,Melioidosis,1
+2012-W06,Meningococcal Infection,0
+2012-W06,Mumps,12
+2012-W06,Nipah virus infection,0
+2012-W06,Paratyphoid,2
+2012-W06,Pertussis,0
+2012-W06,Plague,0
+2012-W06,Pneumococcal Disease (invasive),4
+2012-W06,Poliomyelitis,0
+2012-W06,Rubella,2
+2012-W06,Salmonellosis(non-enteric fevers),40
+2012-W06,SARS,0
+2012-W06,Typhoid,0
+2012-W06,Viral Hepatitis A,0
+2012-W06,Viral Hepatitis E,4
+2012-W06,Yellow Fever,0
+2012-W07,Acute Viral hepatitis B,0
+2012-W07,Acute Viral hepatitis C,0
+2012-W07,Avian Influenza,0
+2012-W07,Campylobacterenterosis,8
+2012-W07,Chikungunya Fever,0
+2012-W07,Cholera,0
+2012-W07,Dengue Fever,65
+2012-W07,Dengue Haemorrhagic Fever,0
+2012-W07,Diphtheria,0
+2012-W07,Encephalitis,0
+2012-W07,Haemophilus influenzae type b,0
+2012-W07,"Hand, Foot Mouth Disease",810
+2012-W07,Legionellosis,0
+2012-W07,Malaria,1
+2012-W07,Measles,1
+2012-W07,Melioidosis,0
+2012-W07,Meningococcal Infection,0
+2012-W07,Mumps,12
+2012-W07,Nipah virus infection,0
+2012-W07,Paratyphoid,1
+2012-W07,Pertussis,0
+2012-W07,Plague,0
+2012-W07,Pneumococcal Disease (invasive),3
+2012-W07,Poliomyelitis,0
+2012-W07,Rubella,4
+2012-W07,Salmonellosis(non-enteric fevers),29
+2012-W07,SARS,0
+2012-W07,Typhoid,2
+2012-W07,Viral Hepatitis A,0
+2012-W07,Viral Hepatitis E,2
+2012-W07,Yellow Fever,0
+2012-W08,Acute Viral hepatitis B,0
+2012-W08,Acute Viral hepatitis C,0
+2012-W08,Avian Influenza,0
+2012-W08,Campylobacterenterosis,8
+2012-W08,Chikungunya Fever,1
+2012-W08,Cholera,0
+2012-W08,Dengue Fever,50
+2012-W08,Dengue Haemorrhagic Fever,1
+2012-W08,Diphtheria,0
+2012-W08,Encephalitis,0
+2012-W08,Haemophilus influenzae type b,0
+2012-W08,"Hand, Foot Mouth Disease",989
+2012-W08,Legionellosis,0
+2012-W08,Malaria,0
+2012-W08,Measles,2
+2012-W08,Melioidosis,1
+2012-W08,Meningococcal Infection,0
+2012-W08,Mumps,18
+2012-W08,Nipah virus infection,0
+2012-W08,Paratyphoid,4
+2012-W08,Pertussis,0
+2012-W08,Plague,0
+2012-W08,Pneumococcal Disease (invasive),3
+2012-W08,Poliomyelitis,0
+2012-W08,Rubella,0
+2012-W08,Salmonellosis(non-enteric fevers),12
+2012-W08,SARS,0
+2012-W08,Typhoid,3
+2012-W08,Viral Hepatitis A,0
+2012-W08,Viral Hepatitis E,3
+2012-W08,Yellow Fever,0
+2012-W09,Acute Viral hepatitis B,2
+2012-W09,Acute Viral hepatitis C,0
+2012-W09,Avian Influenza,0
+2012-W09,Campylobacterenterosis,6
+2012-W09,Chikungunya Fever,1
+2012-W09,Cholera,0
+2012-W09,Dengue Fever,55
+2012-W09,Dengue Haemorrhagic Fever,0
+2012-W09,Diphtheria,0
+2012-W09,Encephalitis,0
+2012-W09,Haemophilus influenzae type b,0
+2012-W09,"Hand, Foot Mouth Disease",1115
+2012-W09,Legionellosis,1
+2012-W09,Malaria,0
+2012-W09,Measles,1
+2012-W09,Melioidosis,1
+2012-W09,Meningococcal Infection,0
+2012-W09,Mumps,10
+2012-W09,Nipah virus infection,0
+2012-W09,Paratyphoid,4
+2012-W09,Pertussis,3
+2012-W09,Plague,0
+2012-W09,Pneumococcal Disease (invasive),2
+2012-W09,Poliomyelitis,0
+2012-W09,Rubella,2
+2012-W09,Salmonellosis(non-enteric fevers),27
+2012-W09,SARS,0
+2012-W09,Typhoid,1
+2012-W09,Viral Hepatitis A,2
+2012-W09,Viral Hepatitis E,0
+2012-W09,Yellow Fever,0
+2012-W10,Acute Viral hepatitis B,3
+2012-W10,Acute Viral hepatitis C,1
+2012-W10,Avian Influenza,0
+2012-W10,Campylobacterenterosis,12
+2012-W10,Chikungunya Fever,2
+2012-W10,Cholera,0
+2012-W10,Dengue Fever,45
+2012-W10,Dengue Haemorrhagic Fever,1
+2012-W10,Diphtheria,0
+2012-W10,Encephalitis,1
+2012-W10,Haemophilus influenzae type b,0
+2012-W10,"Hand, Foot Mouth Disease",1139
+2012-W10,Legionellosis,1
+2012-W10,Malaria,4
+2012-W10,Measles,0
+2012-W10,Melioidosis,0
+2012-W10,Meningococcal Infection,0
+2012-W10,Mumps,16
+2012-W10,Nipah virus infection,0
+2012-W10,Paratyphoid,2
+2012-W10,Pertussis,0
+2012-W10,Plague,0
+2012-W10,Pneumococcal Disease (invasive),9
+2012-W10,Poliomyelitis,0
+2012-W10,Rubella,0
+2012-W10,Salmonellosis(non-enteric fevers),28
+2012-W10,SARS,0
+2012-W10,Typhoid,1
+2012-W10,Viral Hepatitis A,2
+2012-W10,Viral Hepatitis E,3
+2012-W10,Yellow Fever,0
+2012-W11,Acute Viral hepatitis B,0
+2012-W11,Acute Viral hepatitis C,0
+2012-W11,Avian Influenza,0
+2012-W11,Campylobacterenterosis,10
+2012-W11,Chikungunya Fever,0
+2012-W11,Cholera,0
+2012-W11,Dengue Fever,64
+2012-W11,Dengue Haemorrhagic Fever,0
+2012-W11,Diphtheria,0
+2012-W11,Encephalitis,1
+2012-W11,Haemophilus influenzae type b,0
+2012-W11,"Hand, Foot Mouth Disease",1011
+2012-W11,Legionellosis,1
+2012-W11,Malaria,2
+2012-W11,Measles,1
+2012-W11,Melioidosis,1
+2012-W11,Meningococcal Infection,0
+2012-W11,Mumps,8
+2012-W11,Nipah virus infection,0
+2012-W11,Paratyphoid,2
+2012-W11,Pertussis,0
+2012-W11,Plague,0
+2012-W11,Pneumococcal Disease (invasive),2
+2012-W11,Poliomyelitis,0
+2012-W11,Rubella,1
+2012-W11,Salmonellosis(non-enteric fevers),36
+2012-W11,SARS,0
+2012-W11,Typhoid,1
+2012-W11,Viral Hepatitis A,1
+2012-W11,Viral Hepatitis E,2
+2012-W11,Yellow Fever,0
+2012-W12,Acute Viral hepatitis B,1
+2012-W12,Acute Viral hepatitis C,0
+2012-W12,Avian Influenza,0
+2012-W12,Campylobacterenterosis,5
+2012-W12,Chikungunya Fever,0
+2012-W12,Cholera,0
+2012-W12,Dengue Fever,72
+2012-W12,Dengue Haemorrhagic Fever,1
+2012-W12,Diphtheria,0
+2012-W12,Encephalitis,2
+2012-W12,Haemophilus influenzae type b,0
+2012-W12,"Hand, Foot Mouth Disease",1018
+2012-W12,Legionellosis,1
+2012-W12,Malaria,2
+2012-W12,Measles,1
+2012-W12,Melioidosis,0
+2012-W12,Meningococcal Infection,0
+2012-W12,Mumps,11
+2012-W12,Nipah virus infection,0
+2012-W12,Paratyphoid,1
+2012-W12,Pertussis,3
+2012-W12,Plague,0
+2012-W12,Pneumococcal Disease (invasive),3
+2012-W12,Poliomyelitis,0
+2012-W12,Rubella,0
+2012-W12,Salmonellosis(non-enteric fevers),26
+2012-W12,SARS,0
+2012-W12,Typhoid,1
+2012-W12,Viral Hepatitis A,0
+2012-W12,Viral Hepatitis E,2
+2012-W12,Yellow Fever,0
+2012-W13,Acute Viral hepatitis B,2
+2012-W13,Acute Viral hepatitis C,0
+2012-W13,Avian Influenza,0
+2012-W13,Campylobacterenterosis,14
+2012-W13,Chikungunya Fever,0
+2012-W13,Cholera,0
+2012-W13,Dengue Fever,48
+2012-W13,Dengue Haemorrhagic Fever,0
+2012-W13,Diphtheria,0
+2012-W13,Encephalitis,0
+2012-W13,Haemophilus influenzae type b,0
+2012-W13,"Hand, Foot Mouth Disease",1017
+2012-W13,Legionellosis,2
+2012-W13,Malaria,4
+2012-W13,Measles,0
+2012-W13,Melioidosis,0
+2012-W13,Meningococcal Infection,0
+2012-W13,Mumps,15
+2012-W13,Nipah virus infection,0
+2012-W13,Paratyphoid,0
+2012-W13,Pertussis,1
+2012-W13,Plague,0
+2012-W13,Pneumococcal Disease (invasive),0
+2012-W13,Poliomyelitis,0
+2012-W13,Rubella,2
+2012-W13,Salmonellosis(non-enteric fevers),27
+2012-W13,SARS,0
+2012-W13,Typhoid,2
+2012-W13,Viral Hepatitis A,1
+2012-W13,Viral Hepatitis E,2
+2012-W13,Yellow Fever,0
+2012-W14,Acute Viral hepatitis B,0
+2012-W14,Acute Viral hepatitis C,0
+2012-W14,Avian Influenza,0
+2012-W14,Campylobacterenterosis,2
+2012-W14,Chikungunya Fever,0
+2012-W14,Cholera,0
+2012-W14,Dengue Fever,52
+2012-W14,Dengue Haemorrhagic Fever,0
+2012-W14,Diphtheria,0
+2012-W14,Encephalitis,0
+2012-W14,Haemophilus influenzae type b,0
+2012-W14,"Hand, Foot Mouth Disease",952
+2012-W14,Legionellosis,0
+2012-W14,Malaria,2
+2012-W14,Measles,0
+2012-W14,Melioidosis,0
+2012-W14,Meningococcal Infection,0
+2012-W14,Mumps,6
+2012-W14,Nipah virus infection,0
+2012-W14,Paratyphoid,0
+2012-W14,Pertussis,1
+2012-W14,Plague,0
+2012-W14,Pneumococcal Disease (invasive),1
+2012-W14,Poliomyelitis,0
+2012-W14,Rubella,2
+2012-W14,Salmonellosis(non-enteric fevers),27
+2012-W14,SARS,0
+2012-W14,Typhoid,1
+2012-W14,Viral Hepatitis A,0
+2012-W14,Viral Hepatitis E,2
+2012-W14,Yellow Fever,0
+2012-W15,Acute Viral hepatitis B,0
+2012-W15,Acute Viral hepatitis C,0
+2012-W15,Avian Influenza,0
+2012-W15,Campylobacterenterosis,12
+2012-W15,Chikungunya Fever,1
+2012-W15,Cholera,0
+2012-W15,Dengue Fever,81
+2012-W15,Dengue Haemorrhagic Fever,1
+2012-W15,Diphtheria,0
+2012-W15,Encephalitis,0
+2012-W15,Haemophilus influenzae type b,0
+2012-W15,"Hand, Foot Mouth Disease",1167
+2012-W15,Legionellosis,2
+2012-W15,Malaria,2
+2012-W15,Measles,0
+2012-W15,Melioidosis,1
+2012-W15,Meningococcal Infection,0
+2012-W15,Mumps,13
+2012-W15,Nipah virus infection,0
+2012-W15,Paratyphoid,2
+2012-W15,Pertussis,0
+2012-W15,Plague,0
+2012-W15,Pneumococcal Disease (invasive),1
+2012-W15,Poliomyelitis,0
+2012-W15,Rubella,2
+2012-W15,Salmonellosis(non-enteric fevers),25
+2012-W15,SARS,0
+2012-W15,Typhoid,2
+2012-W15,Viral Hepatitis A,0
+2012-W15,Viral Hepatitis E,0
+2012-W15,Yellow Fever,0
+2012-W16,Acute Viral hepatitis B,0
+2012-W16,Acute Viral hepatitis C,0
+2012-W16,Avian Influenza,0
+2012-W16,Campylobacterenterosis,6
+2012-W16,Chikungunya Fever,1
+2012-W16,Cholera,0
+2012-W16,Dengue Fever,77
+2012-W16,Dengue Haemorrhagic Fever,0
+2012-W16,Diphtheria,0
+2012-W16,Encephalitis,0
+2012-W16,Haemophilus influenzae type b,0
+2012-W16,"Hand, Foot Mouth Disease",1387
+2012-W16,Legionellosis,1
+2012-W16,Malaria,4
+2012-W16,Measles,0
+2012-W16,Melioidosis,1
+2012-W16,Meningococcal Infection,0
+2012-W16,Mumps,15
+2012-W16,Nipah virus infection,0
+2012-W16,Paratyphoid,0
+2012-W16,Pertussis,0
+2012-W16,Plague,0
+2012-W16,Pneumococcal Disease (invasive),2
+2012-W16,Poliomyelitis,0
+2012-W16,Rubella,2
+2012-W16,Salmonellosis(non-enteric fevers),36
+2012-W16,SARS,0
+2012-W16,Typhoid,0
+2012-W16,Viral Hepatitis A,4
+2012-W16,Viral Hepatitis E,2
+2012-W16,Yellow Fever,0
+2012-W17,Acute Viral hepatitis B,0
+2012-W17,Acute Viral hepatitis C,0
+2012-W17,Avian Influenza,0
+2012-W17,Campylobacterenterosis,14
+2012-W17,Chikungunya Fever,0
+2012-W17,Cholera,0
+2012-W17,Dengue Fever,64
+2012-W17,Dengue Haemorrhagic Fever,0
+2012-W17,Diphtheria,0
+2012-W17,Encephalitis,1
+2012-W17,Haemophilus influenzae type b,0
+2012-W17,"Hand, Foot Mouth Disease",1581
+2012-W17,Legionellosis,0
+2012-W17,Malaria,2
+2012-W17,Measles,1
+2012-W17,Melioidosis,1
+2012-W17,Meningococcal Infection,0
+2012-W17,Mumps,13
+2012-W17,Nipah virus infection,0
+2012-W17,Paratyphoid,2
+2012-W17,Pertussis,0
+2012-W17,Plague,0
+2012-W17,Pneumococcal Disease (invasive),7
+2012-W17,Poliomyelitis,0
+2012-W17,Rubella,3
+2012-W17,Salmonellosis(non-enteric fevers),27
+2012-W17,SARS,0
+2012-W17,Typhoid,1
+2012-W17,Viral Hepatitis A,1
+2012-W17,Viral Hepatitis E,1
+2012-W17,Yellow Fever,0
+2012-W18,Acute Viral hepatitis B,3
+2012-W18,Acute Viral hepatitis C,0
+2012-W18,Avian Influenza,0
+2012-W18,Campylobacterenterosis,2
+2012-W18,Chikungunya Fever,0
+2012-W18,Cholera,0
+2012-W18,Dengue Fever,86
+2012-W18,Dengue Haemorrhagic Fever,2
+2012-W18,Diphtheria,0
+2012-W18,Encephalitis,0
+2012-W18,Haemophilus influenzae type b,0
+2012-W18,"Hand, Foot Mouth Disease",1462
+2012-W18,Legionellosis,0
+2012-W18,Malaria,2
+2012-W18,Measles,1
+2012-W18,Melioidosis,1
+2012-W18,Meningococcal Infection,0
+2012-W18,Mumps,13
+2012-W18,Nipah virus infection,0
+2012-W18,Paratyphoid,1
+2012-W18,Pertussis,0
+2012-W18,Plague,0
+2012-W18,Pneumococcal Disease (invasive),3
+2012-W18,Poliomyelitis,0
+2012-W18,Rubella,2
+2012-W18,Salmonellosis(non-enteric fevers),21
+2012-W18,SARS,0
+2012-W18,Typhoid,3
+2012-W18,Viral Hepatitis A,0
+2012-W18,Viral Hepatitis E,3
+2012-W18,Yellow Fever,0
+2012-W19,Acute Viral hepatitis B,0
+2012-W19,Acute Viral hepatitis C,0
+2012-W19,Avian Influenza,0
+2012-W19,Campylobacterenterosis,12
+2012-W19,Chikungunya Fever,1
+2012-W19,Cholera,0
+2012-W19,Dengue Fever,96
+2012-W19,Dengue Haemorrhagic Fever,1
+2012-W19,Diphtheria,0
+2012-W19,Encephalitis,0
+2012-W19,Haemophilus influenzae type b,0
+2012-W19,"Hand, Foot Mouth Disease",1607
+2012-W19,Legionellosis,0
+2012-W19,Malaria,1
+2012-W19,Measles,1
+2012-W19,Melioidosis,0
+2012-W19,Meningococcal Infection,0
+2012-W19,Mumps,19
+2012-W19,Nipah virus infection,0
+2012-W19,Paratyphoid,0
+2012-W19,Pertussis,0
+2012-W19,Plague,0
+2012-W19,Pneumococcal Disease (invasive),1
+2012-W19,Poliomyelitis,0
+2012-W19,Rubella,2
+2012-W19,Salmonellosis(non-enteric fevers),34
+2012-W19,SARS,0
+2012-W19,Typhoid,2
+2012-W19,Viral Hepatitis A,1
+2012-W19,Viral Hepatitis E,5
+2012-W19,Yellow Fever,0
+2012-W20,Acute Viral hepatitis B,1
+2012-W20,Acute Viral hepatitis C,0
+2012-W20,Avian Influenza,0
+2012-W20,Campylobacterenterosis,7
+2012-W20,Chikungunya Fever,0
+2012-W20,Cholera,0
+2012-W20,Dengue Fever,80
+2012-W20,Dengue Haemorrhagic Fever,0
+2012-W20,Diphtheria,0
+2012-W20,Encephalitis,0
+2012-W20,Haemophilus influenzae type b,0
+2012-W20,"Hand, Foot Mouth Disease",1682
+2012-W20,Legionellosis,0
+2012-W20,Malaria,2
+2012-W20,Measles,0
+2012-W20,Melioidosis,2
+2012-W20,Meningococcal Infection,0
+2012-W20,Mumps,11
+2012-W20,Nipah virus infection,0
+2012-W20,Paratyphoid,3
+2012-W20,Pertussis,1
+2012-W20,Plague,0
+2012-W20,Pneumococcal Disease (invasive),2
+2012-W20,Poliomyelitis,0
+2012-W20,Rubella,0
+2012-W20,Salmonellosis(non-enteric fevers),28
+2012-W20,SARS,0
+2012-W20,Typhoid,2
+2012-W20,Viral Hepatitis A,2
+2012-W20,Viral Hepatitis E,4
+2012-W20,Yellow Fever,0
+2012-W21,Acute Viral hepatitis B,1
+2012-W21,Acute Viral hepatitis C,0
+2012-W21,Avian Influenza,0
+2012-W21,Campylobacterenterosis,6
+2012-W21,Chikungunya Fever,0
+2012-W21,Cholera,1
+2012-W21,Dengue Fever,80
+2012-W21,Dengue Haemorrhagic Fever,0
+2012-W21,Diphtheria,0
+2012-W21,Encephalitis,0
+2012-W21,Haemophilus influenzae type b,0
+2012-W21,"Hand, Foot Mouth Disease",1458
+2012-W21,Legionellosis,0
+2012-W21,Malaria,1
+2012-W21,Measles,0
+2012-W21,Melioidosis,0
+2012-W21,Meningococcal Infection,0
+2012-W21,Mumps,10
+2012-W21,Nipah virus infection,0
+2012-W21,Paratyphoid,0
+2012-W21,Pertussis,0
+2012-W21,Plague,0
+2012-W21,Pneumococcal Disease (invasive),3
+2012-W21,Poliomyelitis,0
+2012-W21,Rubella,1
+2012-W21,Salmonellosis(non-enteric fevers),32
+2012-W21,SARS,0
+2012-W21,Typhoid,3
+2012-W21,Viral Hepatitis A,2
+2012-W21,Viral Hepatitis E,2
+2012-W21,Yellow Fever,0
+2012-W22,Acute Viral hepatitis B,3
+2012-W22,Acute Viral hepatitis C,0
+2012-W22,Avian Influenza,0
+2012-W22,Campylobacterenterosis,7
+2012-W22,Chikungunya Fever,0
+2012-W22,Cholera,0
+2012-W22,Dengue Fever,81
+2012-W22,Dengue Haemorrhagic Fever,0
+2012-W22,Diphtheria,0
+2012-W22,Encephalitis,0
+2012-W22,Haemophilus influenzae type b,0
+2012-W22,"Hand, Foot Mouth Disease",1105
+2012-W22,Legionellosis,1
+2012-W22,Malaria,2
+2012-W22,Measles,1
+2012-W22,Melioidosis,1
+2012-W22,Meningococcal Infection,0
+2012-W22,Mumps,5
+2012-W22,Nipah virus infection,0
+2012-W22,Paratyphoid,1
+2012-W22,Pertussis,1
+2012-W22,Plague,0
+2012-W22,Pneumococcal Disease (invasive),3
+2012-W22,Poliomyelitis,0
+2012-W22,Rubella,1
+2012-W22,Salmonellosis(non-enteric fevers),30
+2012-W22,SARS,0
+2012-W22,Typhoid,1
+2012-W22,Viral Hepatitis A,3
+2012-W22,Viral Hepatitis E,2
+2012-W22,Yellow Fever,0
+2012-W23,Acute Viral hepatitis B,2
+2012-W23,Acute Viral hepatitis C,0
+2012-W23,Avian Influenza,0
+2012-W23,Campylobacterenterosis,7
+2012-W23,Chikungunya Fever,0
+2012-W23,Cholera,0
+2012-W23,Dengue Fever,99
+2012-W23,Dengue Haemorrhagic Fever,1
+2012-W23,Diphtheria,0
+2012-W23,Encephalitis,0
+2012-W23,Haemophilus influenzae type b,0
+2012-W23,"Hand, Foot Mouth Disease",981
+2012-W23,Legionellosis,0
+2012-W23,Malaria,3
+2012-W23,Measles,0
+2012-W23,Melioidosis,0
+2012-W23,Meningococcal Infection,0
+2012-W23,Mumps,9
+2012-W23,Nipah virus infection,0
+2012-W23,Paratyphoid,1
+2012-W23,Pertussis,1
+2012-W23,Plague,0
+2012-W23,Pneumococcal Disease (invasive),2
+2012-W23,Poliomyelitis,0
+2012-W23,Rubella,1
+2012-W23,Salmonellosis(non-enteric fevers),37
+2012-W23,SARS,0
+2012-W23,Typhoid,2
+2012-W23,Viral Hepatitis A,2
+2012-W23,Viral Hepatitis E,0
+2012-W23,Yellow Fever,0
+2012-W24,Acute Viral hepatitis B,0
+2012-W24,Acute Viral hepatitis C,0
+2012-W24,Avian Influenza,0
+2012-W24,Campylobacterenterosis,5
+2012-W24,Chikungunya Fever,0
+2012-W24,Cholera,0
+2012-W24,Dengue Fever,87
+2012-W24,Dengue Haemorrhagic Fever,1
+2012-W24,Diphtheria,0
+2012-W24,Encephalitis,0
+2012-W24,Haemophilus influenzae type b,0
+2012-W24,"Hand, Foot Mouth Disease",906
+2012-W24,Legionellosis,2
+2012-W24,Malaria,3
+2012-W24,Measles,1
+2012-W24,Melioidosis,1
+2012-W24,Meningococcal Infection,0
+2012-W24,Mumps,11
+2012-W24,Nipah virus infection,0
+2012-W24,Paratyphoid,0
+2012-W24,Pertussis,0
+2012-W24,Plague,0
+2012-W24,Pneumococcal Disease (invasive),6
+2012-W24,Poliomyelitis,0
+2012-W24,Rubella,1
+2012-W24,Salmonellosis(non-enteric fevers),27
+2012-W24,SARS,0
+2012-W24,Typhoid,2
+2012-W24,Viral Hepatitis A,2
+2012-W24,Viral Hepatitis E,3
+2012-W24,Yellow Fever,0
+2012-W25,Acute Viral hepatitis B,0
+2012-W25,Acute Viral hepatitis C,0
+2012-W25,Avian Influenza,0
+2012-W25,Campylobacterenterosis,11
+2012-W25,Chikungunya Fever,0
+2012-W25,Cholera,0
+2012-W25,Dengue Fever,128
+2012-W25,Dengue Haemorrhagic Fever,1
+2012-W25,Diphtheria,0
+2012-W25,Encephalitis,1
+2012-W25,Haemophilus influenzae type b,0
+2012-W25,"Hand, Foot Mouth Disease",794
+2012-W25,Legionellosis,1
+2012-W25,Malaria,5
+2012-W25,Measles,1
+2012-W25,Melioidosis,0
+2012-W25,Meningococcal Infection,0
+2012-W25,Mumps,7
+2012-W25,Nipah virus infection,0
+2012-W25,Paratyphoid,4
+2012-W25,Pertussis,1
+2012-W25,Plague,0
+2012-W25,Pneumococcal Disease (invasive),4
+2012-W25,Poliomyelitis,0
+2012-W25,Rubella,0
+2012-W25,Salmonellosis(non-enteric fevers),32
+2012-W25,SARS,0
+2012-W25,Typhoid,2
+2012-W25,Viral Hepatitis A,2
+2012-W25,Viral Hepatitis E,0
+2012-W25,Yellow Fever,0
+2012-W26,Acute Viral hepatitis B,1
+2012-W26,Acute Viral hepatitis C,0
+2012-W26,Avian Influenza,0
+2012-W26,Campylobacterenterosis,4
+2012-W26,Chikungunya Fever,0
+2012-W26,Cholera,0
+2012-W26,Dengue Fever,151
+2012-W26,Dengue Haemorrhagic Fever,0
+2012-W26,Diphtheria,0
+2012-W26,Encephalitis,0
+2012-W26,Haemophilus influenzae type b,0
+2012-W26,"Hand, Foot Mouth Disease",728
+2012-W26,Legionellosis,0
+2012-W26,Malaria,7
+2012-W26,Measles,0
+2012-W26,Melioidosis,0
+2012-W26,Meningococcal Infection,0
+2012-W26,Mumps,11
+2012-W26,Nipah virus infection,0
+2012-W26,Paratyphoid,3
+2012-W26,Pertussis,0
+2012-W26,Plague,0
+2012-W26,Pneumococcal Disease (invasive),2
+2012-W26,Poliomyelitis,0
+2012-W26,Rubella,2
+2012-W26,Salmonellosis(non-enteric fevers),23
+2012-W26,SARS,0
+2012-W26,Typhoid,1
+2012-W26,Viral Hepatitis A,0
+2012-W26,Viral Hepatitis E,2
+2012-W26,Yellow Fever,0
+2012-W27,Acute Viral hepatitis B,1
+2012-W27,Acute Viral hepatitis C,0
+2012-W27,Avian Influenza,0
+2012-W27,Campylobacterenterosis,9
+2012-W27,Chikungunya Fever,0
+2012-W27,Cholera,0
+2012-W27,Dengue Fever,140
+2012-W27,Dengue Haemorrhagic Fever,0
+2012-W27,Diphtheria,0
+2012-W27,Encephalitis,0
+2012-W27,Haemophilus influenzae type b,0
+2012-W27,"Hand, Foot Mouth Disease",686
+2012-W27,Legionellosis,0
+2012-W27,Malaria,4
+2012-W27,Measles,1
+2012-W27,Melioidosis,0
+2012-W27,Meningococcal Infection,0
+2012-W27,Mumps,8
+2012-W27,Nipah virus infection,0
+2012-W27,Paratyphoid,3
+2012-W27,Pertussis,1
+2012-W27,Plague,0
+2012-W27,Pneumococcal Disease (invasive),6
+2012-W27,Poliomyelitis,0
+2012-W27,Rubella,1
+2012-W27,Salmonellosis(non-enteric fevers),27
+2012-W27,SARS,0
+2012-W27,Typhoid,3
+2012-W27,Viral Hepatitis A,3
+2012-W27,Viral Hepatitis E,4
+2012-W27,Yellow Fever,0
+2012-W28,Acute Viral hepatitis B,1
+2012-W28,Acute Viral hepatitis C,0
+2012-W28,Avian Influenza,0
+2012-W28,Campylobacterenterosis,10
+2012-W28,Chikungunya Fever,0
+2012-W28,Cholera,1
+2012-W28,Dengue Fever,131
+2012-W28,Dengue Haemorrhagic Fever,1
+2012-W28,Diphtheria,0
+2012-W28,Encephalitis,0
+2012-W28,Haemophilus influenzae type b,1
+2012-W28,"Hand, Foot Mouth Disease",681
+2012-W28,Legionellosis,0
+2012-W28,Malaria,6
+2012-W28,Measles,0
+2012-W28,Melioidosis,0
+2012-W28,Meningococcal Infection,0
+2012-W28,Mumps,12
+2012-W28,Nipah virus infection,0
+2012-W28,Paratyphoid,1
+2012-W28,Pertussis,1
+2012-W28,Plague,0
+2012-W28,Pneumococcal Disease (invasive),2
+2012-W28,Poliomyelitis,0
+2012-W28,Rubella,5
+2012-W28,Salmonellosis(non-enteric fevers),17
+2012-W28,SARS,0
+2012-W28,Typhoid,0
+2012-W28,Viral Hepatitis A,2
+2012-W28,Viral Hepatitis E,5
+2012-W28,Yellow Fever,0
+2012-W29,Acute Viral hepatitis B,1
+2012-W29,Acute Viral hepatitis C,0
+2012-W29,Avian Influenza,0
+2012-W29,Campylobacterenterosis,4
+2012-W29,Chikungunya Fever,0
+2012-W29,Cholera,0
+2012-W29,Dengue Fever,124
+2012-W29,Dengue Haemorrhagic Fever,1
+2012-W29,Diphtheria,0
+2012-W29,Encephalitis,0
+2012-W29,Haemophilus influenzae type b,0
+2012-W29,"Hand, Foot Mouth Disease",754
+2012-W29,Legionellosis,1
+2012-W29,Malaria,9
+2012-W29,Measles,1
+2012-W29,Melioidosis,0
+2012-W29,Meningococcal Infection,0
+2012-W29,Mumps,9
+2012-W29,Nipah virus infection,0
+2012-W29,Paratyphoid,1
+2012-W29,Pertussis,0
+2012-W29,Plague,0
+2012-W29,Pneumococcal Disease (invasive),3
+2012-W29,Poliomyelitis,0
+2012-W29,Rubella,0
+2012-W29,Salmonellosis(non-enteric fevers),25
+2012-W29,SARS,0
+2012-W29,Typhoid,2
+2012-W29,Viral Hepatitis A,4
+2012-W29,Viral Hepatitis E,4
+2012-W29,Yellow Fever,0
+2012-W30,Acute Viral hepatitis B,0
+2012-W30,Acute Viral hepatitis C,0
+2012-W30,Avian Influenza,0
+2012-W30,Campylobacterenterosis,11
+2012-W30,Chikungunya Fever,0
+2012-W30,Cholera,0
+2012-W30,Dengue Fever,110
+2012-W30,Dengue Haemorrhagic Fever,0
+2012-W30,Diphtheria,0
+2012-W30,Encephalitis,0
+2012-W30,Haemophilus influenzae type b,0
+2012-W30,"Hand, Foot Mouth Disease",868
+2012-W30,Legionellosis,2
+2012-W30,Malaria,2
+2012-W30,Measles,0
+2012-W30,Melioidosis,0
+2012-W30,Meningococcal Infection,0
+2012-W30,Mumps,7
+2012-W30,Nipah virus infection,0
+2012-W30,Paratyphoid,1
+2012-W30,Pertussis,0
+2012-W30,Plague,0
+2012-W30,Pneumococcal Disease (invasive),4
+2012-W30,Poliomyelitis,0
+2012-W30,Rubella,1
+2012-W30,Salmonellosis(non-enteric fevers),28
+2012-W30,SARS,0
+2012-W30,Typhoid,0
+2012-W30,Viral Hepatitis A,2
+2012-W30,Viral Hepatitis E,0
+2012-W30,Yellow Fever,0
+2012-W31,Acute Viral hepatitis B,0
+2012-W31,Acute Viral hepatitis C,0
+2012-W31,Avian Influenza,0
+2012-W31,Campylobacterenterosis,7
+2012-W31,Chikungunya Fever,0
+2012-W31,Cholera,0
+2012-W31,Dengue Fever,94
+2012-W31,Dengue Haemorrhagic Fever,0
+2012-W31,Diphtheria,0
+2012-W31,Encephalitis,0
+2012-W31,Haemophilus influenzae type b,0
+2012-W31,"Hand, Foot Mouth Disease",748
+2012-W31,Legionellosis,1
+2012-W31,Malaria,5
+2012-W31,Measles,0
+2012-W31,Melioidosis,0
+2012-W31,Meningococcal Infection,0
+2012-W31,Mumps,11
+2012-W31,Nipah virus infection,0
+2012-W31,Paratyphoid,1
+2012-W31,Pertussis,0
+2012-W31,Plague,0
+2012-W31,Pneumococcal Disease (invasive),2
+2012-W31,Poliomyelitis,0
+2012-W31,Rubella,0
+2012-W31,Salmonellosis(non-enteric fevers),39
+2012-W31,SARS,0
+2012-W31,Typhoid,0
+2012-W31,Viral Hepatitis A,4
+2012-W31,Viral Hepatitis E,1
+2012-W31,Yellow Fever,0
+2012-W32,Acute Viral hepatitis B,2
+2012-W32,Acute Viral hepatitis C,0
+2012-W32,Avian Influenza,0
+2012-W32,Campylobacterenterosis,1
+2012-W32,Chikungunya Fever,0
+2012-W32,Cholera,0
+2012-W32,Dengue Fever,127
+2012-W32,Dengue Haemorrhagic Fever,0
+2012-W32,Diphtheria,0
+2012-W32,Encephalitis,0
+2012-W32,Haemophilus influenzae type b,0
+2012-W32,"Hand, Foot Mouth Disease",628
+2012-W32,Legionellosis,2
+2012-W32,Malaria,4
+2012-W32,Measles,1
+2012-W32,Melioidosis,0
+2012-W32,Meningococcal Infection,0
+2012-W32,Mumps,11
+2012-W32,Nipah virus infection,0
+2012-W32,Paratyphoid,0
+2012-W32,Pertussis,0
+2012-W32,Plague,0
+2012-W32,Pneumococcal Disease (invasive),6
+2012-W32,Poliomyelitis,0
+2012-W32,Rubella,1
+2012-W32,Salmonellosis(non-enteric fevers),28
+2012-W32,SARS,0
+2012-W32,Typhoid,1
+2012-W32,Viral Hepatitis A,3
+2012-W32,Viral Hepatitis E,0
+2012-W32,Yellow Fever,0
+2012-W33,Acute Viral hepatitis B,1
+2012-W33,Acute Viral hepatitis C,0
+2012-W33,Avian Influenza,0
+2012-W33,Campylobacterenterosis,10
+2012-W33,Chikungunya Fever,0
+2012-W33,Cholera,0
+2012-W33,Dengue Fever,115
+2012-W33,Dengue Haemorrhagic Fever,0
+2012-W33,Diphtheria,0
+2012-W33,Encephalitis,0
+2012-W33,Haemophilus influenzae type b,0
+2012-W33,"Hand, Foot Mouth Disease",573
+2012-W33,Legionellosis,0
+2012-W33,Malaria,4
+2012-W33,Measles,0
+2012-W33,Melioidosis,2
+2012-W33,Meningococcal Infection,0
+2012-W33,Mumps,7
+2012-W33,Nipah virus infection,0
+2012-W33,Paratyphoid,1
+2012-W33,Pertussis,0
+2012-W33,Plague,0
+2012-W33,Pneumococcal Disease (invasive),4
+2012-W33,Poliomyelitis,0
+2012-W33,Rubella,2
+2012-W33,Salmonellosis(non-enteric fevers),33
+2012-W33,SARS,0
+2012-W33,Typhoid,3
+2012-W33,Viral Hepatitis A,4
+2012-W33,Viral Hepatitis E,5
+2012-W33,Yellow Fever,0
+2012-W34,Acute Viral hepatitis B,1
+2012-W34,Acute Viral hepatitis C,0
+2012-W34,Avian Influenza,0
+2012-W34,Campylobacterenterosis,7
+2012-W34,Chikungunya Fever,0
+2012-W34,Cholera,0
+2012-W34,Dengue Fever,92
+2012-W34,Dengue Haemorrhagic Fever,0
+2012-W34,Diphtheria,0
+2012-W34,Encephalitis,1
+2012-W34,Haemophilus influenzae type b,0
+2012-W34,"Hand, Foot Mouth Disease",497
+2012-W34,Legionellosis,0
+2012-W34,Malaria,4
+2012-W34,Measles,1
+2012-W34,Melioidosis,2
+2012-W34,Meningococcal Infection,0
+2012-W34,Mumps,15
+2012-W34,Nipah virus infection,0
+2012-W34,Paratyphoid,2
+2012-W34,Pertussis,1
+2012-W34,Plague,0
+2012-W34,Pneumococcal Disease (invasive),3
+2012-W34,Poliomyelitis,0
+2012-W34,Rubella,0
+2012-W34,Salmonellosis(non-enteric fevers),25
+2012-W34,SARS,0
+2012-W34,Typhoid,1
+2012-W34,Viral Hepatitis A,2
+2012-W34,Viral Hepatitis E,1
+2012-W34,Yellow Fever,0
+2012-W35,Acute Viral hepatitis B,2
+2012-W35,Acute Viral hepatitis C,0
+2012-W35,Avian Influenza,0
+2012-W35,Campylobacterenterosis,11
+2012-W35,Chikungunya Fever,0
+2012-W35,Cholera,0
+2012-W35,Dengue Fever,102
+2012-W35,Dengue Haemorrhagic Fever,0
+2012-W35,Diphtheria,0
+2012-W35,Encephalitis,0
+2012-W35,Haemophilus influenzae type b,0
+2012-W35,"Hand, Foot Mouth Disease",501
+2012-W35,Legionellosis,0
+2012-W35,Malaria,1
+2012-W35,Measles,1
+2012-W35,Melioidosis,0
+2012-W35,Meningococcal Infection,0
+2012-W35,Mumps,13
+2012-W35,Nipah virus infection,0
+2012-W35,Paratyphoid,2
+2012-W35,Pertussis,0
+2012-W35,Plague,0
+2012-W35,Pneumococcal Disease (invasive),5
+2012-W35,Poliomyelitis,0
+2012-W35,Rubella,3
+2012-W35,Salmonellosis(non-enteric fevers),42
+2012-W35,SARS,0
+2012-W35,Typhoid,1
+2012-W35,Viral Hepatitis A,3
+2012-W35,Viral Hepatitis E,0
+2012-W35,Yellow Fever,0
+2012-W36,Acute Viral hepatitis B,1
+2012-W36,Acute Viral hepatitis C,0
+2012-W36,Avian Influenza,0
+2012-W36,Campylobacterenterosis,9
+2012-W36,Chikungunya Fever,0
+2012-W36,Cholera,0
+2012-W36,Dengue Fever,75
+2012-W36,Dengue Haemorrhagic Fever,1
+2012-W36,Diphtheria,0
+2012-W36,Encephalitis,0
+2012-W36,Haemophilus influenzae type b,0
+2012-W36,"Hand, Foot Mouth Disease",540
+2012-W36,Legionellosis,0
+2012-W36,Malaria,1
+2012-W36,Measles,0
+2012-W36,Melioidosis,2
+2012-W36,Meningococcal Infection,0
+2012-W36,Mumps,7
+2012-W36,Nipah virus infection,0
+2012-W36,Paratyphoid,1
+2012-W36,Pertussis,0
+2012-W36,Plague,0
+2012-W36,Pneumococcal Disease (invasive),0
+2012-W36,Poliomyelitis,0
+2012-W36,Rubella,0
+2012-W36,Salmonellosis(non-enteric fevers),28
+2012-W36,SARS,0
+2012-W36,Typhoid,0
+2012-W36,Viral Hepatitis A,3
+2012-W36,Viral Hepatitis E,1
+2012-W36,Yellow Fever,0
+2012-W37,Acute Viral hepatitis B,1
+2012-W37,Acute Viral hepatitis C,0
+2012-W37,Avian Influenza,0
+2012-W37,Campylobacterenterosis,13
+2012-W37,Chikungunya Fever,0
+2012-W37,Cholera,0
+2012-W37,Dengue Fever,73
+2012-W37,Dengue Haemorrhagic Fever,1
+2012-W37,Diphtheria,0
+2012-W37,Encephalitis,0
+2012-W37,Haemophilus influenzae type b,0
+2012-W37,"Hand, Foot Mouth Disease",567
+2012-W37,Legionellosis,1
+2012-W37,Malaria,1
+2012-W37,Measles,0
+2012-W37,Melioidosis,0
+2012-W37,Meningococcal Infection,0
+2012-W37,Mumps,10
+2012-W37,Nipah virus infection,0
+2012-W37,Paratyphoid,0
+2012-W37,Pertussis,0
+2012-W37,Plague,0
+2012-W37,Pneumococcal Disease (invasive),3
+2012-W37,Poliomyelitis,0
+2012-W37,Rubella,0
+2012-W37,Salmonellosis(non-enteric fevers),38
+2012-W37,SARS,0
+2012-W37,Typhoid,2
+2012-W37,Viral Hepatitis A,3
+2012-W37,Viral Hepatitis E,7
+2012-W37,Yellow Fever,0
+2012-W38,Acute Viral hepatitis B,4
+2012-W38,Acute Viral hepatitis C,0
+2012-W38,Avian Influenza,0
+2012-W38,Campylobacterenterosis,15
+2012-W38,Chikungunya Fever,0
+2012-W38,Cholera,0
+2012-W38,Dengue Fever,72
+2012-W38,Dengue Haemorrhagic Fever,0
+2012-W38,Diphtheria,0
+2012-W38,Encephalitis,2
+2012-W38,Haemophilus influenzae type b,0
+2012-W38,"Hand, Foot Mouth Disease",582
+2012-W38,Legionellosis,2
+2012-W38,Malaria,5
+2012-W38,Measles,1
+2012-W38,Melioidosis,1
+2012-W38,Meningococcal Infection,0
+2012-W38,Mumps,9
+2012-W38,Nipah virus infection,0
+2012-W38,Paratyphoid,0
+2012-W38,Pertussis,0
+2012-W38,Plague,0
+2012-W38,Pneumococcal Disease (invasive),4
+2012-W38,Poliomyelitis,0
+2012-W38,Rubella,0
+2012-W38,Salmonellosis(non-enteric fevers),37
+2012-W38,SARS,0
+2012-W38,Typhoid,1
+2012-W38,Viral Hepatitis A,5
+2012-W38,Viral Hepatitis E,2
+2012-W38,Yellow Fever,0
+2012-W39,Acute Viral hepatitis B,1
+2012-W39,Acute Viral hepatitis C,0
+2012-W39,Avian Influenza,0
+2012-W39,Campylobacterenterosis,10
+2012-W39,Chikungunya Fever,0
+2012-W39,Cholera,0
+2012-W39,Dengue Fever,99
+2012-W39,Dengue Haemorrhagic Fever,1
+2012-W39,Diphtheria,0
+2012-W39,Encephalitis,2
+2012-W39,Haemophilus influenzae type b,0
+2012-W39,"Hand, Foot Mouth Disease",482
+2012-W39,Legionellosis,0
+2012-W39,Malaria,4
+2012-W39,Measles,2
+2012-W39,Melioidosis,1
+2012-W39,Meningococcal Infection,0
+2012-W39,Mumps,7
+2012-W39,Nipah virus infection,0
+2012-W39,Paratyphoid,1
+2012-W39,Pertussis,0
+2012-W39,Plague,0
+2012-W39,Pneumococcal Disease (invasive),3
+2012-W39,Poliomyelitis,0
+2012-W39,Rubella,1
+2012-W39,Salmonellosis(non-enteric fevers),35
+2012-W39,SARS,0
+2012-W39,Typhoid,0
+2012-W39,Viral Hepatitis A,4
+2012-W39,Viral Hepatitis E,2
+2012-W39,Yellow Fever,0
+2012-W40,Acute Viral hepatitis B,0
+2012-W40,Acute Viral hepatitis C,1
+2012-W40,Avian Influenza,0
+2012-W40,Campylobacterenterosis,14
+2012-W40,Chikungunya Fever,1
+2012-W40,Cholera,0
+2012-W40,Dengue Fever,103
+2012-W40,Dengue Haemorrhagic Fever,1
+2012-W40,Diphtheria,0
+2012-W40,Encephalitis,2
+2012-W40,Haemophilus influenzae type b,0
+2012-W40,"Hand, Foot Mouth Disease",437
+2012-W40,Legionellosis,0
+2012-W40,Malaria,3
+2012-W40,Measles,0
+2012-W40,Melioidosis,2
+2012-W40,Meningococcal Infection,0
+2012-W40,Mumps,10
+2012-W40,Nipah virus infection,0
+2012-W40,Paratyphoid,0
+2012-W40,Pertussis,0
+2012-W40,Plague,0
+2012-W40,Pneumococcal Disease (invasive),4
+2012-W40,Poliomyelitis,0
+2012-W40,Rubella,0
+2012-W40,Salmonellosis(non-enteric fevers),31
+2012-W40,SARS,0
+2012-W40,Typhoid,2
+2012-W40,Viral Hepatitis A,1
+2012-W40,Viral Hepatitis E,2
+2012-W40,Yellow Fever,0
+2012-W41,Acute Viral hepatitis B,2
+2012-W41,Acute Viral hepatitis C,0
+2012-W41,Avian Influenza,0
+2012-W41,Campylobacterenterosis,12
+2012-W41,Chikungunya Fever,1
+2012-W41,Cholera,0
+2012-W41,Dengue Fever,122
+2012-W41,Dengue Haemorrhagic Fever,1
+2012-W41,Diphtheria,0
+2012-W41,Encephalitis,1
+2012-W41,Haemophilus influenzae type b,0
+2012-W41,"Hand, Foot Mouth Disease",376
+2012-W41,Legionellosis,0
+2012-W41,Malaria,3
+2012-W41,Measles,0
+2012-W41,Melioidosis,0
+2012-W41,Meningococcal Infection,0
+2012-W41,Mumps,7
+2012-W41,Nipah virus infection,0
+2012-W41,Paratyphoid,0
+2012-W41,Pertussis,0
+2012-W41,Plague,0
+2012-W41,Pneumococcal Disease (invasive),2
+2012-W41,Poliomyelitis,0
+2012-W41,Rubella,0
+2012-W41,Salmonellosis(non-enteric fevers),23
+2012-W41,SARS,0
+2012-W41,Typhoid,1
+2012-W41,Viral Hepatitis A,4
+2012-W41,Viral Hepatitis E,2
+2012-W41,Yellow Fever,0
+2012-W42,Acute Viral hepatitis B,3
+2012-W42,Acute Viral hepatitis C,0
+2012-W42,Avian Influenza,0
+2012-W42,Campylobacterenterosis,10
+2012-W42,Chikungunya Fever,2
+2012-W42,Cholera,0
+2012-W42,Dengue Fever,105
+2012-W42,Dengue Haemorrhagic Fever,0
+2012-W42,Diphtheria,0
+2012-W42,Encephalitis,0
+2012-W42,Haemophilus influenzae type b,0
+2012-W42,"Hand, Foot Mouth Disease",341
+2012-W42,Legionellosis,0
+2012-W42,Malaria,5
+2012-W42,Measles,0
+2012-W42,Melioidosis,1
+2012-W42,Meningococcal Infection,0
+2012-W42,Mumps,5
+2012-W42,Nipah virus infection,0
+2012-W42,Paratyphoid,1
+2012-W42,Pertussis,0
+2012-W42,Plague,0
+2012-W42,Pneumococcal Disease (invasive),2
+2012-W42,Poliomyelitis,0
+2012-W42,Rubella,1
+2012-W42,Salmonellosis(non-enteric fevers),24
+2012-W42,SARS,0
+2012-W42,Typhoid,1
+2012-W42,Viral Hepatitis A,1
+2012-W42,Viral Hepatitis E,1
+2012-W42,Yellow Fever,0
+2012-W43,Acute Viral hepatitis B,1
+2012-W43,Acute Viral hepatitis C,0
+2012-W43,Avian Influenza,0
+2012-W43,Campylobacterenterosis,12
+2012-W43,Chikungunya Fever,1
+2012-W43,Cholera,0
+2012-W43,Dengue Fever,84
+2012-W43,Dengue Haemorrhagic Fever,0
+2012-W43,Diphtheria,0
+2012-W43,Encephalitis,1
+2012-W43,Haemophilus influenzae type b,0
+2012-W43,"Hand, Foot Mouth Disease",325
+2012-W43,Legionellosis,0
+2012-W43,Malaria,5
+2012-W43,Measles,0
+2012-W43,Melioidosis,2
+2012-W43,Meningococcal Infection,0
+2012-W43,Mumps,7
+2012-W43,Nipah virus infection,0
+2012-W43,Paratyphoid,0
+2012-W43,Pertussis,0
+2012-W43,Plague,0
+2012-W43,Pneumococcal Disease (invasive),2
+2012-W43,Poliomyelitis,0
+2012-W43,Rubella,2
+2012-W43,Salmonellosis(non-enteric fevers),26
+2012-W43,SARS,0
+2012-W43,Typhoid,1
+2012-W43,Viral Hepatitis A,3
+2012-W43,Viral Hepatitis E,1
+2012-W43,Yellow Fever,0
+2012-W44,Acute Viral hepatitis B,1
+2012-W44,Acute Viral hepatitis C,0
+2012-W44,Avian Influenza,0
+2012-W44,Campylobacterenterosis,13
+2012-W44,Chikungunya Fever,1
+2012-W44,Cholera,0
+2012-W44,Dengue Fever,104
+2012-W44,Dengue Haemorrhagic Fever,0
+2012-W44,Diphtheria,0
+2012-W44,Encephalitis,1
+2012-W44,Haemophilus influenzae type b,0
+2012-W44,"Hand, Foot Mouth Disease",265
+2012-W44,Legionellosis,0
+2012-W44,Malaria,1
+2012-W44,Measles,2
+2012-W44,Melioidosis,0
+2012-W44,Meningococcal Infection,0
+2012-W44,Mumps,11
+2012-W44,Nipah virus infection,0
+2012-W44,Paratyphoid,0
+2012-W44,Pertussis,0
+2012-W44,Plague,0
+2012-W44,Pneumococcal Disease (invasive),7
+2012-W44,Poliomyelitis,0
+2012-W44,Rubella,2
+2012-W44,Salmonellosis(non-enteric fevers),27
+2012-W44,SARS,0
+2012-W44,Typhoid,0
+2012-W44,Viral Hepatitis A,2
+2012-W44,Viral Hepatitis E,1
+2012-W44,Yellow Fever,0
+2012-W45,Acute Viral hepatitis B,0
+2012-W45,Acute Viral hepatitis C,0
+2012-W45,Avian Influenza,0
+2012-W45,Campylobacterenterosis,10
+2012-W45,Chikungunya Fever,0
+2012-W45,Cholera,0
+2012-W45,Dengue Fever,99
+2012-W45,Dengue Haemorrhagic Fever,1
+2012-W45,Diphtheria,0
+2012-W45,Encephalitis,0
+2012-W45,Haemophilus influenzae type b,0
+2012-W45,"Hand, Foot Mouth Disease",237
+2012-W45,Legionellosis,0
+2012-W45,Malaria,1
+2012-W45,Measles,3
+2012-W45,Melioidosis,0
+2012-W45,Meningococcal Infection,0
+2012-W45,Mumps,11
+2012-W45,Nipah virus infection,0
+2012-W45,Paratyphoid,0
+2012-W45,Pertussis,0
+2012-W45,Plague,0
+2012-W45,Pneumococcal Disease (invasive),3
+2012-W45,Poliomyelitis,0
+2012-W45,Rubella,2
+2012-W45,Salmonellosis(non-enteric fevers),33
+2012-W45,SARS,0
+2012-W45,Typhoid,3
+2012-W45,Viral Hepatitis A,3
+2012-W45,Viral Hepatitis E,3
+2012-W45,Yellow Fever,0
+2012-W46,Acute Viral hepatitis B,0
+2012-W46,Acute Viral hepatitis C,0
+2012-W46,Avian Influenza,0
+2012-W46,Campylobacterenterosis,5
+2012-W46,Chikungunya Fever,1
+2012-W46,Cholera,0
+2012-W46,Dengue Fever,87
+2012-W46,Dengue Haemorrhagic Fever,1
+2012-W46,Diphtheria,0
+2012-W46,Encephalitis,1
+2012-W46,Haemophilus influenzae type b,0
+2012-W46,"Hand, Foot Mouth Disease",238
+2012-W46,Legionellosis,0
+2012-W46,Malaria,1
+2012-W46,Measles,1
+2012-W46,Melioidosis,0
+2012-W46,Meningococcal Infection,0
+2012-W46,Mumps,5
+2012-W46,Nipah virus infection,0
+2012-W46,Paratyphoid,0
+2012-W46,Pertussis,1
+2012-W46,Plague,0
+2012-W46,Pneumococcal Disease (invasive),1
+2012-W46,Poliomyelitis,0
+2012-W46,Rubella,1
+2012-W46,Salmonellosis(non-enteric fevers),32
+2012-W46,SARS,0
+2012-W46,Typhoid,0
+2012-W46,Viral Hepatitis A,2
+2012-W46,Viral Hepatitis E,1
+2012-W46,Yellow Fever,0
+2012-W47,Acute Viral hepatitis B,1
+2012-W47,Acute Viral hepatitis C,0
+2012-W47,Avian Influenza,0
+2012-W47,Campylobacterenterosis,8
+2012-W47,Chikungunya Fever,0
+2012-W47,Cholera,0
+2012-W47,Dengue Fever,99
+2012-W47,Dengue Haemorrhagic Fever,1
+2012-W47,Diphtheria,0
+2012-W47,Encephalitis,1
+2012-W47,Haemophilus influenzae type b,0
+2012-W47,"Hand, Foot Mouth Disease",283
+2012-W47,Legionellosis,5
+2012-W47,Malaria,1
+2012-W47,Measles,1
+2012-W47,Melioidosis,2
+2012-W47,Meningococcal Infection,0
+2012-W47,Mumps,6
+2012-W47,Nipah virus infection,0
+2012-W47,Paratyphoid,0
+2012-W47,Pertussis,0
+2012-W47,Plague,0
+2012-W47,Pneumococcal Disease (invasive),3
+2012-W47,Poliomyelitis,0
+2012-W47,Rubella,0
+2012-W47,Salmonellosis(non-enteric fevers),24
+2012-W47,SARS,0
+2012-W47,Typhoid,0
+2012-W47,Viral Hepatitis A,2
+2012-W47,Viral Hepatitis E,2
+2012-W47,Yellow Fever,0
+2012-W48,Acute Viral hepatitis B,5
+2012-W48,Acute Viral hepatitis C,0
+2012-W48,Avian Influenza,0
+2012-W48,Campylobacterenterosis,9
+2012-W48,Chikungunya Fever,0
+2012-W48,Cholera,0
+2012-W48,Dengue Fever,80
+2012-W48,Dengue Haemorrhagic Fever,0
+2012-W48,Diphtheria,0
+2012-W48,Encephalitis,0
+2012-W48,Haemophilus influenzae type b,0
+2012-W48,"Hand, Foot Mouth Disease",219
+2012-W48,Legionellosis,1
+2012-W48,Malaria,3
+2012-W48,Measles,0
+2012-W48,Melioidosis,0
+2012-W48,Meningococcal Infection,0
+2012-W48,Mumps,13
+2012-W48,Nipah virus infection,0
+2012-W48,Paratyphoid,0
+2012-W48,Pertussis,0
+2012-W48,Plague,0
+2012-W48,Pneumococcal Disease (invasive),6
+2012-W48,Poliomyelitis,0
+2012-W48,Rubella,1
+2012-W48,Salmonellosis(non-enteric fevers),35
+2012-W48,SARS,0
+2012-W48,Typhoid,2
+2012-W48,Viral Hepatitis A,5
+2012-W48,Viral Hepatitis E,5
+2012-W48,Yellow Fever,0
+2012-W49,Acute Viral hepatitis B,1
+2012-W49,Acute Viral hepatitis C,0
+2012-W49,Avian Influenza,0
+2012-W49,Campylobacterenterosis,9
+2012-W49,Chikungunya Fever,3
+2012-W49,Cholera,0
+2012-W49,Dengue Fever,78
+2012-W49,Dengue Haemorrhagic Fever,0
+2012-W49,Diphtheria,0
+2012-W49,Encephalitis,0
+2012-W49,Haemophilus influenzae type b,0
+2012-W49,"Hand, Foot Mouth Disease",217
+2012-W49,Legionellosis,0
+2012-W49,Malaria,3
+2012-W49,Measles,0
+2012-W49,Melioidosis,0
+2012-W49,Meningococcal Infection,0
+2012-W49,Mumps,7
+2012-W49,Nipah virus infection,0
+2012-W49,Paratyphoid,1
+2012-W49,Pertussis,0
+2012-W49,Plague,0
+2012-W49,Pneumococcal Disease (invasive),2
+2012-W49,Poliomyelitis,0
+2012-W49,Rubella,2
+2012-W49,Salmonellosis(non-enteric fevers),35
+2012-W49,SARS,0
+2012-W49,Typhoid,2
+2012-W49,Viral Hepatitis A,0
+2012-W49,Viral Hepatitis E,0
+2012-W49,Yellow Fever,0
+2012-W50,Acute Viral hepatitis B,2
+2012-W50,Acute Viral hepatitis C,0
+2012-W50,Avian Influenza,0
+2012-W50,Campylobacterenterosis,11
+2012-W50,Chikungunya Fever,0
+2012-W50,Cholera,0
+2012-W50,Dengue Fever,104
+2012-W50,Dengue Haemorrhagic Fever,1
+2012-W50,Diphtheria,0
+2012-W50,Encephalitis,0
+2012-W50,Haemophilus influenzae type b,0
+2012-W50,"Hand, Foot Mouth Disease",198
+2012-W50,Legionellosis,0
+2012-W50,Malaria,2
+2012-W50,Measles,0
+2012-W50,Melioidosis,1
+2012-W50,Meningococcal Infection,0
+2012-W50,Mumps,7
+2012-W50,Nipah virus infection,0
+2012-W50,Paratyphoid,1
+2012-W50,Pertussis,0
+2012-W50,Plague,0
+2012-W50,Pneumococcal Disease (invasive),3
+2012-W50,Poliomyelitis,0
+2012-W50,Rubella,0
+2012-W50,Salmonellosis(non-enteric fevers),23
+2012-W50,SARS,0
+2012-W50,Typhoid,2
+2012-W50,Viral Hepatitis A,1
+2012-W50,Viral Hepatitis E,1
+2012-W50,Yellow Fever,0
+2012-W51,Acute Viral hepatitis B,2
+2012-W51,Acute Viral hepatitis C,0
+2012-W51,Avian Influenza,0
+2012-W51,Campylobacterenterosis,9
+2012-W51,Chikungunya Fever,3
+2012-W51,Cholera,0
+2012-W51,Dengue Fever,92
+2012-W51,Dengue Haemorrhagic Fever,2
+2012-W51,Diphtheria,0
+2012-W51,Encephalitis,3
+2012-W51,Haemophilus influenzae type b,0
+2012-W51,"Hand, Foot Mouth Disease",185
+2012-W51,Legionellosis,1
+2012-W51,Malaria,0
+2012-W51,Measles,0
+2012-W51,Melioidosis,0
+2012-W51,Meningococcal Infection,0
+2012-W51,Mumps,2
+2012-W51,Nipah virus infection,0
+2012-W51,Paratyphoid,0
+2012-W51,Pertussis,0
+2012-W51,Plague,0
+2012-W51,Pneumococcal Disease (invasive),3
+2012-W51,Poliomyelitis,0
+2012-W51,Rubella,0
+2012-W51,Salmonellosis(non-enteric fevers),34
+2012-W51,SARS,0
+2012-W51,Typhoid,3
+2012-W51,Viral Hepatitis A,1
+2012-W51,Viral Hepatitis E,3
+2012-W51,Yellow Fever,0
+2012-W52,Acute Viral hepatitis B,2
+2012-W52,Acute Viral hepatitis C,0
+2012-W52,Avian Influenza,0
+2012-W52,Campylobacterenterosis,3
+2012-W52,Chikungunya Fever,0
+2012-W52,Cholera,0
+2012-W52,Dengue Fever,111
+2012-W52,Dengue Haemorrhagic Fever,1
+2012-W52,Diphtheria,0
+2012-W52,Encephalitis,0
+2012-W52,Haemophilus influenzae type b,0
+2012-W52,"Hand, Foot Mouth Disease",154
+2012-W52,Legionellosis,0
+2012-W52,Malaria,5
+2012-W52,Measles,0
+2012-W52,Melioidosis,0
+2012-W52,Meningococcal Infection,0
+2012-W52,Mumps,3
+2012-W52,Nipah virus infection,0
+2012-W52,Paratyphoid,0
+2012-W52,Pertussis,0
+2012-W52,Plague,0
+2012-W52,Pneumococcal Disease (invasive),1
+2012-W52,Poliomyelitis,0
+2012-W52,Rubella,0
+2012-W52,Salmonellosis(non-enteric fevers),26
+2012-W52,SARS,0
+2012-W52,Typhoid,0
+2012-W52,Viral Hepatitis A,5
+2012-W52,Viral Hepatitis E,1
+2012-W52,Yellow Fever,0
+2013-W01,Acute Viral hepatitis B,0
+2013-W01,Acute Viral hepatitis C,0
+2013-W01,Avian Influenza,0
+2013-W01,Campylobacterenterosis,13
+2013-W01,Chikungunya Fever,0
+2013-W01,Cholera,0
+2013-W01,Dengue Fever,132
+2013-W01,Dengue Haemorrhagic Fever,2
+2013-W01,Diphtheria,0
+2013-W01,Encephalitis,1
+2013-W01,Haemophilus influenzae type b,0
+2013-W01,"Hand, Foot Mouth Disease",148
+2013-W01,Legionellosis,0
+2013-W01,Malaria,1
+2013-W01,Measles,0
+2013-W01,Melioidosis,4
+2013-W01,Meningococcal Infection,0
+2013-W01,Mumps,10
+2013-W01,Nipah virus infection,0
+2013-W01,Paratyphoid,0
+2013-W01,Pertussis,1
+2013-W01,Plague,0
+2013-W01,Pneumococcal Disease (invasive),7
+2013-W01,Poliomyelitis,0
+2013-W01,Rubella,0
+2013-W01,Salmonellosis(non-enteric fevers),26
+2013-W01,SARS,0
+2013-W01,Typhoid,1
+2013-W01,Viral Hepatitis A,4
+2013-W01,Viral Hepatitis E,3
+2013-W01,Yellow Fever,0
+2013-W02,Acute Viral hepatitis B,0
+2013-W02,Acute Viral hepatitis C,0
+2013-W02,Avian Influenza,0
+2013-W02,Campylobacterenterosis,15
+2013-W02,Chikungunya Fever,1
+2013-W02,Cholera,0
+2013-W02,Dengue Fever,204
+2013-W02,Dengue Haemorrhagic Fever,1
+2013-W02,Diphtheria,0
+2013-W02,Encephalitis,2
+2013-W02,Haemophilus influenzae type b,0
+2013-W02,"Hand, Foot Mouth Disease",191
+2013-W02,Legionellosis,1
+2013-W02,Malaria,1
+2013-W02,Measles,1
+2013-W02,Melioidosis,0
+2013-W02,Meningococcal Infection,0
+2013-W02,Mumps,13
+2013-W02,Nipah virus infection,0
+2013-W02,Paratyphoid,1
+2013-W02,Pertussis,0
+2013-W02,Plague,0
+2013-W02,Pneumococcal Disease (invasive),2
+2013-W02,Poliomyelitis,0
+2013-W02,Rubella,1
+2013-W02,Salmonellosis(non-enteric fevers),26
+2013-W02,SARS,0
+2013-W02,Typhoid,3
+2013-W02,Viral Hepatitis A,1
+2013-W02,Viral Hepatitis E,3
+2013-W02,Yellow Fever,0
+2013-W03,Acute Viral hepatitis B,1
+2013-W03,Acute Viral hepatitis C,0
+2013-W03,Avian Influenza,0
+2013-W03,Campylobacterenterosis,5
+2013-W03,Chikungunya Fever,1
+2013-W03,Cholera,0
+2013-W03,Dengue Fever,219
+2013-W03,Dengue Haemorrhagic Fever,0
+2013-W03,Diphtheria,0
+2013-W03,Encephalitis,1
+2013-W03,Haemophilus influenzae type b,0
+2013-W03,"Hand, Foot Mouth Disease",171
+2013-W03,Legionellosis,0
+2013-W03,Malaria,1
+2013-W03,Measles,0
+2013-W03,Melioidosis,2
+2013-W03,Meningococcal Infection,0
+2013-W03,Mumps,14
+2013-W03,Nipah virus infection,0
+2013-W03,Paratyphoid,2
+2013-W03,Pertussis,1
+2013-W03,Plague,0
+2013-W03,Pneumococcal Disease (invasive),4
+2013-W03,Poliomyelitis,0
+2013-W03,Rubella,1
+2013-W03,Salmonellosis(non-enteric fevers),26
+2013-W03,SARS,0
+2013-W03,Typhoid,4
+2013-W03,Viral Hepatitis A,2
+2013-W03,Viral Hepatitis E,0
+2013-W03,Yellow Fever,0
+2013-W04,Acute Viral hepatitis B,1
+2013-W04,Acute Viral hepatitis C,0
+2013-W04,Avian Influenza,0
+2013-W04,Campylobacterenterosis,5
+2013-W04,Chikungunya Fever,1
+2013-W04,Cholera,0
+2013-W04,Dengue Fever,264
+2013-W04,Dengue Haemorrhagic Fever,3
+2013-W04,Diphtheria,0
+2013-W04,Encephalitis,1
+2013-W04,Haemophilus influenzae type b,0
+2013-W04,"Hand, Foot Mouth Disease",172
+2013-W04,Legionellosis,2
+2013-W04,Malaria,0
+2013-W04,Measles,0
+2013-W04,Melioidosis,1
+2013-W04,Meningococcal Infection,0
+2013-W04,Mumps,13
+2013-W04,Nipah virus infection,0
+2013-W04,Paratyphoid,3
+2013-W04,Pertussis,2
+2013-W04,Plague,0
+2013-W04,Pneumococcal Disease (invasive),1
+2013-W04,Poliomyelitis,0
+2013-W04,Rubella,2
+2013-W04,Salmonellosis(non-enteric fevers),32
+2013-W04,SARS,0
+2013-W04,Typhoid,4
+2013-W04,Viral Hepatitis A,0
+2013-W04,Viral Hepatitis E,1
+2013-W04,Yellow Fever,0
+2013-W05,Acute Viral hepatitis B,1
+2013-W05,Acute Viral hepatitis C,0
+2013-W05,Avian Influenza,0
+2013-W05,Campylobacterenterosis,7
+2013-W05,Chikungunya Fever,0
+2013-W05,Cholera,0
+2013-W05,Dengue Fever,292
+2013-W05,Dengue Haemorrhagic Fever,1
+2013-W05,Diphtheria,0
+2013-W05,Encephalitis,1
+2013-W05,Haemophilus influenzae type b,0
+2013-W05,"Hand, Foot Mouth Disease",185
+2013-W05,Legionellosis,0
+2013-W05,Malaria,0
+2013-W05,Measles,0
+2013-W05,Melioidosis,0
+2013-W05,Meningococcal Infection,0
+2013-W05,Mumps,11
+2013-W05,Nipah virus infection,0
+2013-W05,Paratyphoid,1
+2013-W05,Pertussis,0
+2013-W05,Plague,0
+2013-W05,Pneumococcal Disease (invasive),5
+2013-W05,Poliomyelitis,0
+2013-W05,Rubella,1
+2013-W05,Salmonellosis(non-enteric fevers),30
+2013-W05,SARS,0
+2013-W05,Typhoid,1
+2013-W05,Viral Hepatitis A,2
+2013-W05,Viral Hepatitis E,1
+2013-W05,Yellow Fever,0
+2013-W06,Acute Viral hepatitis B,1
+2013-W06,Acute Viral hepatitis C,0
+2013-W06,Avian Influenza,0
+2013-W06,Campylobacterenterosis,9
+2013-W06,Chikungunya Fever,2
+2013-W06,Cholera,0
+2013-W06,Dengue Fever,322
+2013-W06,Dengue Haemorrhagic Fever,0
+2013-W06,Diphtheria,0
+2013-W06,Encephalitis,1
+2013-W06,Haemophilus influenzae type b,0
+2013-W06,"Hand, Foot Mouth Disease",164
+2013-W06,Legionellosis,0
+2013-W06,Malaria,2
+2013-W06,Measles,0
+2013-W06,Melioidosis,1
+2013-W06,Meningococcal Infection,1
+2013-W06,Mumps,9
+2013-W06,Nipah virus infection,0
+2013-W06,Paratyphoid,0
+2013-W06,Pertussis,0
+2013-W06,Plague,0
+2013-W06,Pneumococcal Disease (invasive),2
+2013-W06,Poliomyelitis,0
+2013-W06,Rubella,1
+2013-W06,Salmonellosis(non-enteric fevers),28
+2013-W06,SARS,0
+2013-W06,Typhoid,2
+2013-W06,Viral Hepatitis A,6
+2013-W06,Viral Hepatitis E,1
+2013-W06,Yellow Fever,0
+2013-W07,Acute Viral hepatitis B,0
+2013-W07,Acute Viral hepatitis C,0
+2013-W07,Avian Influenza,0
+2013-W07,Campylobacterenterosis,5
+2013-W07,Chikungunya Fever,0
+2013-W07,Cholera,0
+2013-W07,Dengue Fever,246
+2013-W07,Dengue Haemorrhagic Fever,1
+2013-W07,Diphtheria,0
+2013-W07,Encephalitis,1
+2013-W07,Haemophilus influenzae type b,0
+2013-W07,"Hand, Foot Mouth Disease",181
+2013-W07,Legionellosis,0
+2013-W07,Malaria,0
+2013-W07,Measles,0
+2013-W07,Melioidosis,1
+2013-W07,Meningococcal Infection,0
+2013-W07,Mumps,3
+2013-W07,Nipah virus infection,0
+2013-W07,Paratyphoid,1
+2013-W07,Pertussis,0
+2013-W07,Plague,0
+2013-W07,Pneumococcal Disease (invasive),3
+2013-W07,Poliomyelitis,0
+2013-W07,Rubella,2
+2013-W07,Salmonellosis(non-enteric fevers),20
+2013-W07,SARS,0
+2013-W07,Typhoid,2
+2013-W07,Viral Hepatitis A,1
+2013-W07,Viral Hepatitis E,1
+2013-W07,Yellow Fever,0
+2013-W08,Acute Viral hepatitis B,1
+2013-W08,Acute Viral hepatitis C,0
+2013-W08,Avian Influenza,0
+2013-W08,Campylobacterenterosis,13
+2013-W08,Chikungunya Fever,0
+2013-W08,Cholera,0
+2013-W08,Dengue Fever,294
+2013-W08,Dengue Haemorrhagic Fever,2
+2013-W08,Diphtheria,0
+2013-W08,Encephalitis,2
+2013-W08,Haemophilus influenzae type b,0
+2013-W08,"Hand, Foot Mouth Disease",265
+2013-W08,Legionellosis,0
+2013-W08,Malaria,1
+2013-W08,Measles,0
+2013-W08,Melioidosis,1
+2013-W08,Meningococcal Infection,0
+2013-W08,Mumps,8
+2013-W08,Nipah virus infection,0
+2013-W08,Paratyphoid,0
+2013-W08,Pertussis,0
+2013-W08,Plague,0
+2013-W08,Pneumococcal Disease (invasive),4
+2013-W08,Poliomyelitis,0
+2013-W08,Rubella,1
+2013-W08,Salmonellosis(non-enteric fevers),26
+2013-W08,SARS,0
+2013-W08,Typhoid,1
+2013-W08,Viral Hepatitis A,1
+2013-W08,Viral Hepatitis E,2
+2013-W08,Yellow Fever,0
+2013-W09,Acute Viral hepatitis B,0
+2013-W09,Acute Viral hepatitis C,0
+2013-W09,Avian Influenza,0
+2013-W09,Campylobacterenterosis,8
+2013-W09,Chikungunya Fever,2
+2013-W09,Cholera,0
+2013-W09,Dengue Fever,247
+2013-W09,Dengue Haemorrhagic Fever,2
+2013-W09,Diphtheria,0
+2013-W09,Encephalitis,1
+2013-W09,Haemophilus influenzae type b,0
+2013-W09,"Hand, Foot Mouth Disease",388
+2013-W09,Legionellosis,1
+2013-W09,Malaria,0
+2013-W09,Measles,0
+2013-W09,Melioidosis,0
+2013-W09,Meningococcal Infection,0
+2013-W09,Mumps,11
+2013-W09,Nipah virus infection,0
+2013-W09,Paratyphoid,1
+2013-W09,Pertussis,0
+2013-W09,Plague,0
+2013-W09,Pneumococcal Disease (invasive),1
+2013-W09,Poliomyelitis,0
+2013-W09,Rubella,1
+2013-W09,Salmonellosis(non-enteric fevers),32
+2013-W09,SARS,0
+2013-W09,Typhoid,2
+2013-W09,Viral Hepatitis A,2
+2013-W09,Viral Hepatitis E,0
+2013-W09,Yellow Fever,0
+2013-W10,Acute Viral hepatitis B,0
+2013-W10,Acute Viral hepatitis C,0
+2013-W10,Avian Influenza,0
+2013-W10,Campylobacterenterosis,7
+2013-W10,Chikungunya Fever,14
+2013-W10,Cholera,0
+2013-W10,Dengue Fever,272
+2013-W10,Dengue Haemorrhagic Fever,1
+2013-W10,Diphtheria,0
+2013-W10,Encephalitis,1
+2013-W10,Haemophilus influenzae type b,1
+2013-W10,"Hand, Foot Mouth Disease",478
+2013-W10,Legionellosis,0
+2013-W10,Malaria,1
+2013-W10,Measles,0
+2013-W10,Melioidosis,0
+2013-W10,Meningococcal Infection,0
+2013-W10,Mumps,10
+2013-W10,Nipah virus infection,0
+2013-W10,Paratyphoid,0
+2013-W10,Pertussis,0
+2013-W10,Plague,0
+2013-W10,Pneumococcal Disease (invasive),3
+2013-W10,Poliomyelitis,0
+2013-W10,Rubella,2
+2013-W10,Salmonellosis(non-enteric fevers),28
+2013-W10,SARS,0
+2013-W10,Typhoid,1
+2013-W10,Viral Hepatitis A,0
+2013-W10,Viral Hepatitis E,2
+2013-W10,Yellow Fever,0
+2013-W11,Acute Viral hepatitis B,0
+2013-W11,Acute Viral hepatitis C,0
+2013-W11,Avian Influenza,0
+2013-W11,Campylobacterenterosis,7
+2013-W11,Chikungunya Fever,1
+2013-W11,Cholera,0
+2013-W11,Dengue Fever,307
+2013-W11,Dengue Haemorrhagic Fever,1
+2013-W11,Diphtheria,0
+2013-W11,Encephalitis,0
+2013-W11,Haemophilus influenzae type b,0
+2013-W11,"Hand, Foot Mouth Disease",465
+2013-W11,Legionellosis,1
+2013-W11,Malaria,2
+2013-W11,Measles,0
+2013-W11,Melioidosis,0
+2013-W11,Meningococcal Infection,0
+2013-W11,Mumps,9
+2013-W11,Nipah virus infection,0
+2013-W11,Paratyphoid,0
+2013-W11,Pertussis,0
+2013-W11,Plague,0
+2013-W11,Pneumococcal Disease (invasive),0
+2013-W11,Poliomyelitis,0
+2013-W11,Rubella,0
+2013-W11,Salmonellosis(non-enteric fevers),32
+2013-W11,SARS,0
+2013-W11,Typhoid,1
+2013-W11,Viral Hepatitis A,1
+2013-W11,Viral Hepatitis E,3
+2013-W11,Yellow Fever,0
+2013-W12,Acute Viral hepatitis B,2
+2013-W12,Acute Viral hepatitis C,0
+2013-W12,Avian Influenza,0
+2013-W12,Campylobacterenterosis,4
+2013-W12,Chikungunya Fever,3
+2013-W12,Cholera,0
+2013-W12,Dengue Fever,305
+2013-W12,Dengue Haemorrhagic Fever,2
+2013-W12,Diphtheria,0
+2013-W12,Encephalitis,0
+2013-W12,Haemophilus influenzae type b,0
+2013-W12,"Hand, Foot Mouth Disease",351
+2013-W12,Legionellosis,0
+2013-W12,Malaria,1
+2013-W12,Measles,0
+2013-W12,Melioidosis,0
+2013-W12,Meningococcal Infection,0
+2013-W12,Mumps,11
+2013-W12,Nipah virus infection,0
+2013-W12,Paratyphoid,0
+2013-W12,Pertussis,0
+2013-W12,Plague,0
+2013-W12,Pneumococcal Disease (invasive),0
+2013-W12,Poliomyelitis,0
+2013-W12,Rubella,0
+2013-W12,Salmonellosis(non-enteric fevers),31
+2013-W12,SARS,0
+2013-W12,Typhoid,0
+2013-W12,Viral Hepatitis A,1
+2013-W12,Viral Hepatitis E,1
+2013-W12,Yellow Fever,0
+2013-W13,Acute Viral hepatitis B,4
+2013-W13,Acute Viral hepatitis C,0
+2013-W13,Avian Influenza,0
+2013-W13,Campylobacterenterosis,1
+2013-W13,Chikungunya Fever,3
+2013-W13,Cholera,0
+2013-W13,Dengue Fever,314
+2013-W13,Dengue Haemorrhagic Fever,2
+2013-W13,Diphtheria,0
+2013-W13,Encephalitis,0
+2013-W13,Haemophilus influenzae type b,0
+2013-W13,"Hand, Foot Mouth Disease",350
+2013-W13,Legionellosis,0
+2013-W13,Malaria,1
+2013-W13,Measles,0
+2013-W13,Melioidosis,2
+2013-W13,Meningococcal Infection,0
+2013-W13,Mumps,9
+2013-W13,Nipah virus infection,0
+2013-W13,Paratyphoid,0
+2013-W13,Pertussis,0
+2013-W13,Plague,0
+2013-W13,Pneumococcal Disease (invasive),8
+2013-W13,Poliomyelitis,0
+2013-W13,Rubella,1
+2013-W13,Salmonellosis(non-enteric fevers),22
+2013-W13,SARS,0
+2013-W13,Typhoid,4
+2013-W13,Viral Hepatitis A,5
+2013-W13,Viral Hepatitis E,1
+2013-W13,Yellow Fever,0
+2013-W14,Acute Viral hepatitis B,1
+2013-W14,Acute Viral hepatitis C,0
+2013-W14,Avian Influenza,0
+2013-W14,Campylobacterenterosis,8
+2013-W14,Chikungunya Fever,6
+2013-W14,Cholera,0
+2013-W14,Dengue Fever,402
+2013-W14,Dengue Haemorrhagic Fever,4
+2013-W14,Diphtheria,0
+2013-W14,Encephalitis,1
+2013-W14,Haemophilus influenzae type b,0
+2013-W14,"Hand, Foot Mouth Disease",438
+2013-W14,Legionellosis,0
+2013-W14,Malaria,3
+2013-W14,Measles,1
+2013-W14,Melioidosis,3
+2013-W14,Meningococcal Infection,0
+2013-W14,Mumps,11
+2013-W14,Nipah virus infection,0
+2013-W14,Paratyphoid,2
+2013-W14,Pertussis,0
+2013-W14,Plague,0
+2013-W14,Pneumococcal Disease (invasive),2
+2013-W14,Poliomyelitis,0
+2013-W14,Rubella,1
+2013-W14,Salmonellosis(non-enteric fevers),39
+2013-W14,SARS,0
+2013-W14,Typhoid,1
+2013-W14,Viral Hepatitis A,1
+2013-W14,Viral Hepatitis E,1
+2013-W14,Yellow Fever,0
+2013-W15,Acute Viral hepatitis B,1
+2013-W15,Acute Viral hepatitis C,0
+2013-W15,Avian Influenza,0
+2013-W15,Campylobacterenterosis,18
+2013-W15,Chikungunya Fever,14
+2013-W15,Cholera,0
+2013-W15,Dengue Fever,491
+2013-W15,Dengue Haemorrhagic Fever,1
+2013-W15,Diphtheria,0
+2013-W15,Encephalitis,0
+2013-W15,Haemophilus influenzae type b,0
+2013-W15,"Hand, Foot Mouth Disease",461
+2013-W15,Legionellosis,1
+2013-W15,Malaria,4
+2013-W15,Measles,0
+2013-W15,Melioidosis,0
+2013-W15,Meningococcal Infection,0
+2013-W15,Mumps,14
+2013-W15,Nipah virus infection,0
+2013-W15,Paratyphoid,0
+2013-W15,Pertussis,0
+2013-W15,Plague,0
+2013-W15,Pneumococcal Disease (invasive),1
+2013-W15,Poliomyelitis,0
+2013-W15,Rubella,2
+2013-W15,Salmonellosis(non-enteric fevers),32
+2013-W15,SARS,0
+2013-W15,Typhoid,1
+2013-W15,Viral Hepatitis A,2
+2013-W15,Viral Hepatitis E,1
+2013-W15,Yellow Fever,0
+2013-W16,Acute Viral hepatitis B,1
+2013-W16,Acute Viral hepatitis C,0
+2013-W16,Avian Influenza,0
+2013-W16,Campylobacterenterosis,13
+2013-W16,Chikungunya Fever,35
+2013-W16,Cholera,0
+2013-W16,Dengue Fever,505
+2013-W16,Dengue Haemorrhagic Fever,4
+2013-W16,Diphtheria,0
+2013-W16,Encephalitis,3
+2013-W16,Haemophilus influenzae type b,0
+2013-W16,"Hand, Foot Mouth Disease",504
+2013-W16,Legionellosis,0
+2013-W16,Malaria,4
+2013-W16,Measles,1
+2013-W16,Melioidosis,0
+2013-W16,Meningococcal Infection,0
+2013-W16,Mumps,17
+2013-W16,Nipah virus infection,0
+2013-W16,Paratyphoid,0
+2013-W16,Pertussis,0
+2013-W16,Plague,0
+2013-W16,Pneumococcal Disease (invasive),2
+2013-W16,Poliomyelitis,0
+2013-W16,Rubella,2
+2013-W16,Salmonellosis(non-enteric fevers),30
+2013-W16,SARS,0
+2013-W16,Typhoid,1
+2013-W16,Viral Hepatitis A,1
+2013-W16,Viral Hepatitis E,1
+2013-W16,Yellow Fever,0
+2013-W17,Acute Viral hepatitis B,1
+2013-W17,Acute Viral hepatitis C,0
+2013-W17,Avian Influenza,0
+2013-W17,Campylobacterenterosis,7
+2013-W17,Chikungunya Fever,24
+2013-W17,Cholera,0
+2013-W17,Dengue Fever,536
+2013-W17,Dengue Haemorrhagic Fever,2
+2013-W17,Diphtheria,0
+2013-W17,Encephalitis,0
+2013-W17,Haemophilus influenzae type b,0
+2013-W17,"Hand, Foot Mouth Disease",572
+2013-W17,Legionellosis,0
+2013-W17,Malaria,2
+2013-W17,Measles,0
+2013-W17,Melioidosis,0
+2013-W17,Meningococcal Infection,0
+2013-W17,Mumps,15
+2013-W17,Nipah virus infection,0
+2013-W17,Paratyphoid,1
+2013-W17,Pertussis,0
+2013-W17,Plague,0
+2013-W17,Pneumococcal Disease (invasive),6
+2013-W17,Poliomyelitis,0
+2013-W17,Rubella,0
+2013-W17,Salmonellosis(non-enteric fevers),51
+2013-W17,SARS,0
+2013-W17,Typhoid,1
+2013-W17,Viral Hepatitis A,4
+2013-W17,Viral Hepatitis E,2
+2013-W17,Yellow Fever,0
+2013-W18,Acute Viral hepatitis B,1
+2013-W18,Acute Viral hepatitis C,0
+2013-W18,Avian Influenza,0
+2013-W18,Campylobacterenterosis,8
+2013-W18,Chikungunya Fever,19
+2013-W18,Cholera,0
+2013-W18,Dengue Fever,547
+2013-W18,Dengue Haemorrhagic Fever,0
+2013-W18,Diphtheria,0
+2013-W18,Encephalitis,0
+2013-W18,Haemophilus influenzae type b,0
+2013-W18,"Hand, Foot Mouth Disease",595
+2013-W18,Legionellosis,0
+2013-W18,Malaria,4
+2013-W18,Measles,2
+2013-W18,Melioidosis,0
+2013-W18,Meningococcal Infection,0
+2013-W18,Mumps,10
+2013-W18,Nipah virus infection,0
+2013-W18,Paratyphoid,0
+2013-W18,Pertussis,0
+2013-W18,Plague,0
+2013-W18,Pneumococcal Disease (invasive),6
+2013-W18,Poliomyelitis,0
+2013-W18,Rubella,0
+2013-W18,Salmonellosis(non-enteric fevers),25
+2013-W18,SARS,0
+2013-W18,Typhoid,2
+2013-W18,Viral Hepatitis A,3
+2013-W18,Viral Hepatitis E,0
+2013-W18,Yellow Fever,0
+2013-W19,Acute Viral hepatitis B,4
+2013-W19,Acute Viral hepatitis C,0
+2013-W19,Avian Influenza,0
+2013-W19,Campylobacterenterosis,5
+2013-W19,Chikungunya Fever,29
+2013-W19,Cholera,0
+2013-W19,Dengue Fever,556
+2013-W19,Dengue Haemorrhagic Fever,2
+2013-W19,Diphtheria,0
+2013-W19,Encephalitis,0
+2013-W19,Haemophilus influenzae type b,0
+2013-W19,"Hand, Foot Mouth Disease",627
+2013-W19,Legionellosis,1
+2013-W19,Malaria,5
+2013-W19,Measles,2
+2013-W19,Melioidosis,0
+2013-W19,Meningococcal Infection,0
+2013-W19,Mumps,11
+2013-W19,Nipah virus infection,0
+2013-W19,Paratyphoid,0
+2013-W19,Pertussis,0
+2013-W19,Plague,0
+2013-W19,Pneumococcal Disease (invasive),0
+2013-W19,Poliomyelitis,0
+2013-W19,Rubella,1
+2013-W19,Salmonellosis(non-enteric fevers),30
+2013-W19,SARS,0
+2013-W19,Typhoid,2
+2013-W19,Viral Hepatitis A,3
+2013-W19,Viral Hepatitis E,0
+2013-W19,Yellow Fever,0
+2013-W20,Acute Viral hepatitis B,2
+2013-W20,Acute Viral hepatitis C,0
+2013-W20,Avian Influenza,0
+2013-W20,Campylobacterenterosis,8
+2013-W20,Chikungunya Fever,28
+2013-W20,Cholera,0
+2013-W20,Dengue Fever,611
+2013-W20,Dengue Haemorrhagic Fever,0
+2013-W20,Diphtheria,0
+2013-W20,Encephalitis,0
+2013-W20,Haemophilus influenzae type b,1
+2013-W20,"Hand, Foot Mouth Disease",697
+2013-W20,Legionellosis,0
+2013-W20,Malaria,2
+2013-W20,Measles,1
+2013-W20,Melioidosis,1
+2013-W20,Meningococcal Infection,0
+2013-W20,Mumps,10
+2013-W20,Nipah virus infection,0
+2013-W20,Paratyphoid,1
+2013-W20,Pertussis,0
+2013-W20,Plague,0
+2013-W20,Pneumococcal Disease (invasive),11
+2013-W20,Poliomyelitis,0
+2013-W20,Rubella,1
+2013-W20,Salmonellosis(non-enteric fevers),45
+2013-W20,SARS,0
+2013-W20,Typhoid,4
+2013-W20,Viral Hepatitis A,2
+2013-W20,Viral Hepatitis E,3
+2013-W20,Yellow Fever,0
+2013-W21,Acute Viral hepatitis B,2
+2013-W21,Acute Viral hepatitis C,0
+2013-W21,Avian Influenza,0
+2013-W21,Campylobacterenterosis,13
+2013-W21,Chikungunya Fever,15
+2013-W21,Cholera,0
+2013-W21,Dengue Fever,637
+2013-W21,Dengue Haemorrhagic Fever,3
+2013-W21,Diphtheria,0
+2013-W21,Encephalitis,0
+2013-W21,Haemophilus influenzae type b,0
+2013-W21,"Hand, Foot Mouth Disease",662
+2013-W21,Legionellosis,0
+2013-W21,Malaria,7
+2013-W21,Measles,1
+2013-W21,Melioidosis,0
+2013-W21,Meningococcal Infection,0
+2013-W21,Mumps,5
+2013-W21,Nipah virus infection,0
+2013-W21,Paratyphoid,0
+2013-W21,Pertussis,0
+2013-W21,Plague,0
+2013-W21,Pneumococcal Disease (invasive),2
+2013-W21,Poliomyelitis,0
+2013-W21,Rubella,2
+2013-W21,Salmonellosis(non-enteric fevers),27
+2013-W21,SARS,0
+2013-W21,Typhoid,3
+2013-W21,Viral Hepatitis A,0
+2013-W21,Viral Hepatitis E,2
+2013-W21,Yellow Fever,0
+2013-W22,Acute Viral hepatitis B,2
+2013-W22,Acute Viral hepatitis C,0
+2013-W22,Avian Influenza,0
+2013-W22,Campylobacterenterosis,4
+2013-W22,Chikungunya Fever,31
+2013-W22,Cholera,0
+2013-W22,Dengue Fever,742
+2013-W22,Dengue Haemorrhagic Fever,4
+2013-W22,Diphtheria,0
+2013-W22,Encephalitis,1
+2013-W22,Haemophilus influenzae type b,0
+2013-W22,"Hand, Foot Mouth Disease",774
+2013-W22,Legionellosis,0
+2013-W22,Malaria,1
+2013-W22,Measles,0
+2013-W22,Melioidosis,0
+2013-W22,Meningococcal Infection,0
+2013-W22,Mumps,10
+2013-W22,Nipah virus infection,0
+2013-W22,Paratyphoid,1
+2013-W22,Pertussis,1
+2013-W22,Plague,0
+2013-W22,Pneumococcal Disease (invasive),3
+2013-W22,Poliomyelitis,0
+2013-W22,Rubella,0
+2013-W22,Salmonellosis(non-enteric fevers),42
+2013-W22,SARS,0
+2013-W22,Typhoid,1
+2013-W22,Viral Hepatitis A,0
+2013-W22,Viral Hepatitis E,1
+2013-W22,Yellow Fever,0
+2013-W23,Acute Viral hepatitis B,0
+2013-W23,Acute Viral hepatitis C,0
+2013-W23,Avian Influenza,0
+2013-W23,Campylobacterenterosis,11
+2013-W23,Chikungunya Fever,40
+2013-W23,Cholera,0
+2013-W23,Dengue Fever,813
+2013-W23,Dengue Haemorrhagic Fever,1
+2013-W23,Diphtheria,0
+2013-W23,Encephalitis,1
+2013-W23,Haemophilus influenzae type b,0
+2013-W23,"Hand, Foot Mouth Disease",697
+2013-W23,Legionellosis,1
+2013-W23,Malaria,1
+2013-W23,Measles,1
+2013-W23,Melioidosis,1
+2013-W23,Meningococcal Infection,0
+2013-W23,Mumps,14
+2013-W23,Nipah virus infection,0
+2013-W23,Paratyphoid,0
+2013-W23,Pertussis,0
+2013-W23,Plague,0
+2013-W23,Pneumococcal Disease (invasive),3
+2013-W23,Poliomyelitis,0
+2013-W23,Rubella,0
+2013-W23,Salmonellosis(non-enteric fevers),51
+2013-W23,SARS,0
+2013-W23,Typhoid,1
+2013-W23,Viral Hepatitis A,0
+2013-W23,Viral Hepatitis E,2
+2013-W23,Yellow Fever,0
+2013-W24,Acute Viral hepatitis B,2
+2013-W24,Acute Viral hepatitis C,0
+2013-W24,Avian Influenza,0
+2013-W24,Campylobacterenterosis,2
+2013-W24,Chikungunya Fever,39
+2013-W24,Cholera,0
+2013-W24,Dengue Fever,805
+2013-W24,Dengue Haemorrhagic Fever,4
+2013-W24,Diphtheria,0
+2013-W24,Encephalitis,1
+2013-W24,Haemophilus influenzae type b,1
+2013-W24,"Hand, Foot Mouth Disease",736
+2013-W24,Legionellosis,0
+2013-W24,Malaria,5
+2013-W24,Measles,0
+2013-W24,Melioidosis,0
+2013-W24,Meningococcal Infection,0
+2013-W24,Mumps,6
+2013-W24,Nipah virus infection,0
+2013-W24,Paratyphoid,0
+2013-W24,Pertussis,0
+2013-W24,Plague,0
+2013-W24,Pneumococcal Disease (invasive),3
+2013-W24,Poliomyelitis,0
+2013-W24,Rubella,2
+2013-W24,Salmonellosis(non-enteric fevers),32
+2013-W24,SARS,0
+2013-W24,Typhoid,5
+2013-W24,Viral Hepatitis A,3
+2013-W24,Viral Hepatitis E,2
+2013-W24,Yellow Fever,0
+2013-W25,Acute Viral hepatitis B,0
+2013-W25,Acute Viral hepatitis C,0
+2013-W25,Avian Influenza,0
+2013-W25,Campylobacterenterosis,6
+2013-W25,Chikungunya Fever,45
+2013-W25,Cholera,0
+2013-W25,Dengue Fever,838
+2013-W25,Dengue Haemorrhagic Fever,4
+2013-W25,Diphtheria,0
+2013-W25,Encephalitis,0
+2013-W25,Haemophilus influenzae type b,1
+2013-W25,"Hand, Foot Mouth Disease",581
+2013-W25,Legionellosis,0
+2013-W25,Malaria,0
+2013-W25,Measles,0
+2013-W25,Melioidosis,0
+2013-W25,Meningococcal Infection,0
+2013-W25,Mumps,10
+2013-W25,Nipah virus infection,0
+2013-W25,Paratyphoid,0
+2013-W25,Pertussis,2
+2013-W25,Plague,0
+2013-W25,Pneumococcal Disease (invasive),0
+2013-W25,Poliomyelitis,0
+2013-W25,Rubella,1
+2013-W25,Salmonellosis(non-enteric fevers),33
+2013-W25,SARS,0
+2013-W25,Typhoid,1
+2013-W25,Viral Hepatitis A,0
+2013-W25,Viral Hepatitis E,4
+2013-W25,Yellow Fever,0
+2013-W26,Acute Viral hepatitis B,3
+2013-W26,Acute Viral hepatitis C,1
+2013-W26,Avian Influenza,0
+2013-W26,Campylobacterenterosis,2
+2013-W26,Chikungunya Fever,24
+2013-W26,Cholera,0
+2013-W26,Dengue Fever,802
+2013-W26,Dengue Haemorrhagic Fever,4
+2013-W26,Diphtheria,0
+2013-W26,Encephalitis,0
+2013-W26,Haemophilus influenzae type b,1
+2013-W26,"Hand, Foot Mouth Disease",461
+2013-W26,Legionellosis,0
+2013-W26,Malaria,5
+2013-W26,Measles,0
+2013-W26,Melioidosis,3
+2013-W26,Meningococcal Infection,0
+2013-W26,Mumps,10
+2013-W26,Nipah virus infection,0
+2013-W26,Paratyphoid,0
+2013-W26,Pertussis,0
+2013-W26,Plague,0
+2013-W26,Pneumococcal Disease (invasive),4
+2013-W26,Poliomyelitis,0
+2013-W26,Rubella,2
+2013-W26,Salmonellosis(non-enteric fevers),32
+2013-W26,SARS,0
+2013-W26,Typhoid,1
+2013-W26,Viral Hepatitis A,2
+2013-W26,Viral Hepatitis E,1
+2013-W26,Yellow Fever,0
+2013-W27,Acute Viral hepatitis B,2
+2013-W27,Acute Viral hepatitis C,0
+2013-W27,Avian Influenza,0
+2013-W27,Campylobacterenterosis,7
+2013-W27,Chikungunya Fever,26
+2013-W27,Cholera,0
+2013-W27,Dengue Fever,676
+2013-W27,Dengue Haemorrhagic Fever,2
+2013-W27,Diphtheria,0
+2013-W27,Encephalitis,0
+2013-W27,Haemophilus influenzae type b,0
+2013-W27,"Hand, Foot Mouth Disease",441
+2013-W27,Legionellosis,0
+2013-W27,Malaria,1
+2013-W27,Measles,0
+2013-W27,Melioidosis,1
+2013-W27,Meningococcal Infection,0
+2013-W27,Mumps,16
+2013-W27,Nipah virus infection,0
+2013-W27,Paratyphoid,0
+2013-W27,Pertussis,1
+2013-W27,Plague,0
+2013-W27,Pneumococcal Disease (invasive),4
+2013-W27,Poliomyelitis,0
+2013-W27,Rubella,1
+2013-W27,Salmonellosis(non-enteric fevers),30
+2013-W27,SARS,0
+2013-W27,Typhoid,3
+2013-W27,Viral Hepatitis A,4
+2013-W27,Viral Hepatitis E,0
+2013-W27,Yellow Fever,0
+2013-W28,Acute Viral hepatitis B,0
+2013-W28,Acute Viral hepatitis C,0
+2013-W28,Avian Influenza,0
+2013-W28,Campylobacterenterosis,7
+2013-W28,Chikungunya Fever,26
+2013-W28,Cholera,0
+2013-W28,Dengue Fever,540
+2013-W28,Dengue Haemorrhagic Fever,1
+2013-W28,Diphtheria,0
+2013-W28,Encephalitis,1
+2013-W28,Haemophilus influenzae type b,1
+2013-W28,"Hand, Foot Mouth Disease",482
+2013-W28,Legionellosis,1
+2013-W28,Malaria,0
+2013-W28,Measles,0
+2013-W28,Melioidosis,0
+2013-W28,Meningococcal Infection,0
+2013-W28,Mumps,12
+2013-W28,Nipah virus infection,0
+2013-W28,Paratyphoid,0
+2013-W28,Pertussis,0
+2013-W28,Plague,0
+2013-W28,Pneumococcal Disease (invasive),2
+2013-W28,Poliomyelitis,0
+2013-W28,Rubella,0
+2013-W28,Salmonellosis(non-enteric fevers),44
+2013-W28,SARS,0
+2013-W28,Typhoid,1
+2013-W28,Viral Hepatitis A,1
+2013-W28,Viral Hepatitis E,1
+2013-W28,Yellow Fever,0
+2013-W29,Acute Viral hepatitis B,1
+2013-W29,Acute Viral hepatitis C,0
+2013-W29,Avian Influenza,0
+2013-W29,Campylobacterenterosis,10
+2013-W29,Chikungunya Fever,16
+2013-W29,Cholera,0
+2013-W29,Dengue Fever,389
+2013-W29,Dengue Haemorrhagic Fever,1
+2013-W29,Diphtheria,0
+2013-W29,Encephalitis,2
+2013-W29,Haemophilus influenzae type b,0
+2013-W29,"Hand, Foot Mouth Disease",578
+2013-W29,Legionellosis,0
+2013-W29,Malaria,7
+2013-W29,Measles,0
+2013-W29,Melioidosis,1
+2013-W29,Meningococcal Infection,1
+2013-W29,Mumps,16
+2013-W29,Nipah virus infection,0
+2013-W29,Paratyphoid,0
+2013-W29,Pertussis,0
+2013-W29,Plague,0
+2013-W29,Pneumococcal Disease (invasive),1
+2013-W29,Poliomyelitis,0
+2013-W29,Rubella,1
+2013-W29,Salmonellosis(non-enteric fevers),32
+2013-W29,SARS,0
+2013-W29,Typhoid,3
+2013-W29,Viral Hepatitis A,0
+2013-W29,Viral Hepatitis E,1
+2013-W29,Yellow Fever,0
+2013-W30,Acute Viral hepatitis B,1
+2013-W30,Acute Viral hepatitis C,1
+2013-W30,Avian Influenza,0
+2013-W30,Campylobacterenterosis,8
+2013-W30,Chikungunya Fever,20
+2013-W30,Cholera,0
+2013-W30,Dengue Fever,305
+2013-W30,Dengue Haemorrhagic Fever,1
+2013-W30,Diphtheria,0
+2013-W30,Encephalitis,1
+2013-W30,Haemophilus influenzae type b,0
+2013-W30,"Hand, Foot Mouth Disease",590
+2013-W30,Legionellosis,1
+2013-W30,Malaria,3
+2013-W30,Measles,1
+2013-W30,Melioidosis,1
+2013-W30,Meningococcal Infection,0
+2013-W30,Mumps,7
+2013-W30,Nipah virus infection,0
+2013-W30,Paratyphoid,0
+2013-W30,Pertussis,0
+2013-W30,Plague,0
+2013-W30,Pneumococcal Disease (invasive),0
+2013-W30,Poliomyelitis,0
+2013-W30,Rubella,2
+2013-W30,Salmonellosis(non-enteric fevers),30
+2013-W30,SARS,0
+2013-W30,Typhoid,2
+2013-W30,Viral Hepatitis A,2
+2013-W30,Viral Hepatitis E,0
+2013-W30,Yellow Fever,0
+2013-W31,Acute Viral hepatitis B,2
+2013-W31,Acute Viral hepatitis C,0
+2013-W31,Avian Influenza,0
+2013-W31,Campylobacterenterosis,8
+2013-W31,Chikungunya Fever,22
+2013-W31,Cholera,0
+2013-W31,Dengue Fever,288
+2013-W31,Dengue Haemorrhagic Fever,1
+2013-W31,Diphtheria,0
+2013-W31,Encephalitis,1
+2013-W31,Haemophilus influenzae type b,1
+2013-W31,"Hand, Foot Mouth Disease",659
+2013-W31,Legionellosis,0
+2013-W31,Malaria,1
+2013-W31,Measles,1
+2013-W31,Melioidosis,1
+2013-W31,Meningococcal Infection,0
+2013-W31,Mumps,17
+2013-W31,Nipah virus infection,0
+2013-W31,Paratyphoid,0
+2013-W31,Pertussis,0
+2013-W31,Plague,0
+2013-W31,Pneumococcal Disease (invasive),4
+2013-W31,Poliomyelitis,0
+2013-W31,Rubella,1
+2013-W31,Salmonellosis(non-enteric fevers),30
+2013-W31,SARS,0
+2013-W31,Typhoid,1
+2013-W31,Viral Hepatitis A,1
+2013-W31,Viral Hepatitis E,1
+2013-W31,Yellow Fever,0
+2013-W32,Acute Viral hepatitis B,0
+2013-W32,Acute Viral hepatitis C,0
+2013-W32,Avian Influenza,0
+2013-W32,Campylobacterenterosis,7
+2013-W32,Chikungunya Fever,7
+2013-W32,Cholera,0
+2013-W32,Dengue Fever,255
+2013-W32,Dengue Haemorrhagic Fever,1
+2013-W32,Diphtheria,0
+2013-W32,Encephalitis,1
+2013-W32,Haemophilus influenzae type b,0
+2013-W32,"Hand, Foot Mouth Disease",577
+2013-W32,Legionellosis,1
+2013-W32,Malaria,7
+2013-W32,Measles,0
+2013-W32,Melioidosis,1
+2013-W32,Meningococcal Infection,0
+2013-W32,Mumps,13
+2013-W32,Nipah virus infection,0
+2013-W32,Paratyphoid,1
+2013-W32,Pertussis,1
+2013-W32,Plague,0
+2013-W32,Pneumococcal Disease (invasive),2
+2013-W32,Poliomyelitis,0
+2013-W32,Rubella,0
+2013-W32,Salmonellosis(non-enteric fevers),18
+2013-W32,SARS,0
+2013-W32,Typhoid,0
+2013-W32,Viral Hepatitis A,1
+2013-W32,Viral Hepatitis E,0
+2013-W32,Yellow Fever,0
+2013-W33,Acute Viral hepatitis B,1
+2013-W33,Acute Viral hepatitis C,0
+2013-W33,Avian Influenza,0
+2013-W33,Campylobacterenterosis,3
+2013-W33,Chikungunya Fever,26
+2013-W33,Cholera,0
+2013-W33,Dengue Fever,378
+2013-W33,Dengue Haemorrhagic Fever,0
+2013-W33,Diphtheria,0
+2013-W33,Encephalitis,1
+2013-W33,Haemophilus influenzae type b,0
+2013-W33,"Hand, Foot Mouth Disease",743
+2013-W33,Legionellosis,1
+2013-W33,Malaria,5
+2013-W33,Measles,0
+2013-W33,Melioidosis,0
+2013-W33,Meningococcal Infection,0
+2013-W33,Mumps,9
+2013-W33,Nipah virus infection,0
+2013-W33,Paratyphoid,0
+2013-W33,Pertussis,0
+2013-W33,Plague,0
+2013-W33,Pneumococcal Disease (invasive),3
+2013-W33,Poliomyelitis,0
+2013-W33,Rubella,1
+2013-W33,Salmonellosis(non-enteric fevers),28
+2013-W33,SARS,0
+2013-W33,Typhoid,1
+2013-W33,Viral Hepatitis A,2
+2013-W33,Viral Hepatitis E,2
+2013-W33,Yellow Fever,0
+2013-W34,Acute Viral hepatitis B,1
+2013-W34,Acute Viral hepatitis C,0
+2013-W34,Avian Influenza,0
+2013-W34,Campylobacterenterosis,13
+2013-W34,Chikungunya Fever,15
+2013-W34,Cholera,0
+2013-W34,Dengue Fever,338
+2013-W34,Dengue Haemorrhagic Fever,3
+2013-W34,Diphtheria,0
+2013-W34,Encephalitis,2
+2013-W34,Haemophilus influenzae type b,0
+2013-W34,"Hand, Foot Mouth Disease",798
+2013-W34,Legionellosis,0
+2013-W34,Malaria,3
+2013-W34,Measles,2
+2013-W34,Melioidosis,1
+2013-W34,Meningococcal Infection,0
+2013-W34,Mumps,9
+2013-W34,Nipah virus infection,0
+2013-W34,Paratyphoid,0
+2013-W34,Pertussis,2
+2013-W34,Plague,0
+2013-W34,Pneumococcal Disease (invasive),3
+2013-W34,Poliomyelitis,0
+2013-W34,Rubella,1
+2013-W34,Salmonellosis(non-enteric fevers),21
+2013-W34,SARS,0
+2013-W34,Typhoid,1
+2013-W34,Viral Hepatitis A,0
+2013-W34,Viral Hepatitis E,0
+2013-W34,Yellow Fever,0
+2013-W35,Acute Viral hepatitis B,1
+2013-W35,Acute Viral hepatitis C,0
+2013-W35,Avian Influenza,0
+2013-W35,Campylobacterenterosis,4
+2013-W35,Chikungunya Fever,38
+2013-W35,Cholera,0
+2013-W35,Dengue Fever,382
+2013-W35,Dengue Haemorrhagic Fever,4
+2013-W35,Diphtheria,0
+2013-W35,Encephalitis,1
+2013-W35,Haemophilus influenzae type b,0
+2013-W35,"Hand, Foot Mouth Disease",887
+2013-W35,Legionellosis,0
+2013-W35,Malaria,2
+2013-W35,Measles,3
+2013-W35,Melioidosis,0
+2013-W35,Meningococcal Infection,0
+2013-W35,Mumps,12
+2013-W35,Nipah virus infection,0
+2013-W35,Paratyphoid,0
+2013-W35,Pertussis,0
+2013-W35,Plague,0
+2013-W35,Pneumococcal Disease (invasive),4
+2013-W35,Poliomyelitis,0
+2013-W35,Rubella,0
+2013-W35,Salmonellosis(non-enteric fevers),37
+2013-W35,SARS,0
+2013-W35,Typhoid,3
+2013-W35,Viral Hepatitis A,0
+2013-W35,Viral Hepatitis E,0
+2013-W35,Yellow Fever,0
+2013-W36,Acute Viral hepatitis B,0
+2013-W36,Acute Viral hepatitis C,0
+2013-W36,Avian Influenza,0
+2013-W36,Campylobacterenterosis,3
+2013-W36,Chikungunya Fever,42
+2013-W36,Cholera,0
+2013-W36,Dengue Fever,449
+2013-W36,Dengue Haemorrhagic Fever,3
+2013-W36,Diphtheria,0
+2013-W36,Encephalitis,1
+2013-W36,Haemophilus influenzae type b,0
+2013-W36,"Hand, Foot Mouth Disease",860
+2013-W36,Legionellosis,1
+2013-W36,Malaria,0
+2013-W36,Measles,1
+2013-W36,Melioidosis,0
+2013-W36,Meningococcal Infection,0
+2013-W36,Mumps,8
+2013-W36,Nipah virus infection,0
+2013-W36,Paratyphoid,0
+2013-W36,Pertussis,1
+2013-W36,Plague,0
+2013-W36,Pneumococcal Disease (invasive),2
+2013-W36,Poliomyelitis,0
+2013-W36,Rubella,0
+2013-W36,Salmonellosis(non-enteric fevers),38
+2013-W36,SARS,0
+2013-W36,Typhoid,2
+2013-W36,Viral Hepatitis A,2
+2013-W36,Viral Hepatitis E,0
+2013-W36,Yellow Fever,0
+2013-W37,Acute Viral hepatitis B,1
+2013-W37,Acute Viral hepatitis C,0
+2013-W37,Avian Influenza,0
+2013-W37,Campylobacterenterosis,8
+2013-W37,Chikungunya Fever,39
+2013-W37,Cholera,0
+2013-W37,Dengue Fever,337
+2013-W37,Dengue Haemorrhagic Fever,2
+2013-W37,Diphtheria,0
+2013-W37,Encephalitis,0
+2013-W37,Haemophilus influenzae type b,0
+2013-W37,"Hand, Foot Mouth Disease",960
+2013-W37,Legionellosis,1
+2013-W37,Malaria,3
+2013-W37,Measles,2
+2013-W37,Melioidosis,0
+2013-W37,Meningococcal Infection,0
+2013-W37,Mumps,4
+2013-W37,Nipah virus infection,0
+2013-W37,Paratyphoid,1
+2013-W37,Pertussis,0
+2013-W37,Plague,0
+2013-W37,Pneumococcal Disease (invasive),2
+2013-W37,Poliomyelitis,0
+2013-W37,Rubella,0
+2013-W37,Salmonellosis(non-enteric fevers),34
+2013-W37,SARS,0
+2013-W37,Typhoid,3
+2013-W37,Viral Hepatitis A,0
+2013-W37,Viral Hepatitis E,0
+2013-W37,Yellow Fever,0
+2013-W38,Acute Viral hepatitis B,0
+2013-W38,Acute Viral hepatitis C,0
+2013-W38,Avian Influenza,0
+2013-W38,Campylobacterenterosis,11
+2013-W38,Chikungunya Fever,49
+2013-W38,Cholera,0
+2013-W38,Dengue Fever,370
+2013-W38,Dengue Haemorrhagic Fever,6
+2013-W38,Diphtheria,0
+2013-W38,Encephalitis,0
+2013-W38,Haemophilus influenzae type b,0
+2013-W38,"Hand, Foot Mouth Disease",1062
+2013-W38,Legionellosis,1
+2013-W38,Malaria,3
+2013-W38,Measles,0
+2013-W38,Melioidosis,0
+2013-W38,Meningococcal Infection,0
+2013-W38,Mumps,7
+2013-W38,Nipah virus infection,0
+2013-W38,Paratyphoid,0
+2013-W38,Pertussis,0
+2013-W38,Plague,0
+2013-W38,Pneumococcal Disease (invasive),2
+2013-W38,Poliomyelitis,0
+2013-W38,Rubella,1
+2013-W38,Salmonellosis(non-enteric fevers),46
+2013-W38,SARS,0
+2013-W38,Typhoid,0
+2013-W38,Viral Hepatitis A,0
+2013-W38,Viral Hepatitis E,2
+2013-W38,Yellow Fever,0
+2013-W39,Acute Viral hepatitis B,1
+2013-W39,Acute Viral hepatitis C,0
+2013-W39,Avian Influenza,0
+2013-W39,Campylobacterenterosis,6
+2013-W39,Chikungunya Fever,32
+2013-W39,Cholera,0
+2013-W39,Dengue Fever,402
+2013-W39,Dengue Haemorrhagic Fever,4
+2013-W39,Diphtheria,0
+2013-W39,Encephalitis,0
+2013-W39,Haemophilus influenzae type b,0
+2013-W39,"Hand, Foot Mouth Disease",1108
+2013-W39,Legionellosis,0
+2013-W39,Malaria,5
+2013-W39,Measles,6
+2013-W39,Melioidosis,1
+2013-W39,Meningococcal Infection,0
+2013-W39,Mumps,2
+2013-W39,Nipah virus infection,0
+2013-W39,Paratyphoid,0
+2013-W39,Pertussis,2
+2013-W39,Plague,0
+2013-W39,Pneumococcal Disease (invasive),1
+2013-W39,Poliomyelitis,0
+2013-W39,Rubella,1
+2013-W39,Salmonellosis(non-enteric fevers),53
+2013-W39,SARS,0
+2013-W39,Typhoid,0
+2013-W39,Viral Hepatitis A,2
+2013-W39,Viral Hepatitis E,0
+2013-W39,Yellow Fever,0
+2013-W40,Acute Viral hepatitis B,2
+2013-W40,Acute Viral hepatitis C,0
+2013-W40,Avian Influenza,0
+2013-W40,Campylobacterenterosis,5
+2013-W40,Chikungunya Fever,17
+2013-W40,Cholera,1
+2013-W40,Dengue Fever,439
+2013-W40,Dengue Haemorrhagic Fever,2
+2013-W40,Diphtheria,0
+2013-W40,Encephalitis,0
+2013-W40,Haemophilus influenzae type b,0
+2013-W40,"Hand, Foot Mouth Disease",1077
+2013-W40,Legionellosis,0
+2013-W40,Malaria,2
+2013-W40,Measles,0
+2013-W40,Melioidosis,3
+2013-W40,Meningococcal Infection,0
+2013-W40,Mumps,4
+2013-W40,Nipah virus infection,0
+2013-W40,Paratyphoid,0
+2013-W40,Pertussis,2
+2013-W40,Plague,0
+2013-W40,Pneumococcal Disease (invasive),5
+2013-W40,Poliomyelitis,0
+2013-W40,Rubella,2
+2013-W40,Salmonellosis(non-enteric fevers),65
+2013-W40,SARS,0
+2013-W40,Typhoid,2
+2013-W40,Viral Hepatitis A,0
+2013-W40,Viral Hepatitis E,0
+2013-W40,Yellow Fever,0
+2013-W41,Acute Viral hepatitis B,1
+2013-W41,Acute Viral hepatitis C,0
+2013-W41,Avian Influenza,0
+2013-W41,Campylobacterenterosis,10
+2013-W41,Chikungunya Fever,23
+2013-W41,Cholera,0
+2013-W41,Dengue Fever,435
+2013-W41,Dengue Haemorrhagic Fever,3
+2013-W41,Diphtheria,0
+2013-W41,Encephalitis,0
+2013-W41,Haemophilus influenzae type b,0
+2013-W41,"Hand, Foot Mouth Disease",1247
+2013-W41,Legionellosis,0
+2013-W41,Malaria,0
+2013-W41,Measles,2
+2013-W41,Melioidosis,0
+2013-W41,Meningococcal Infection,0
+2013-W41,Mumps,9
+2013-W41,Nipah virus infection,0
+2013-W41,Paratyphoid,1
+2013-W41,Pertussis,0
+2013-W41,Plague,0
+2013-W41,Pneumococcal Disease (invasive),0
+2013-W41,Poliomyelitis,0
+2013-W41,Rubella,2
+2013-W41,Salmonellosis(non-enteric fevers),46
+2013-W41,SARS,0
+2013-W41,Typhoid,1
+2013-W41,Viral Hepatitis A,0
+2013-W41,Viral Hepatitis E,0
+2013-W41,Yellow Fever,0
+2013-W42,Acute Viral hepatitis B,2
+2013-W42,Acute Viral hepatitis C,0
+2013-W42,Avian Influenza,0
+2013-W42,Campylobacterenterosis,0
+2013-W42,Chikungunya Fever,16
+2013-W42,Cholera,0
+2013-W42,Dengue Fever,371
+2013-W42,Dengue Haemorrhagic Fever,3
+2013-W42,Diphtheria,0
+2013-W42,Encephalitis,1
+2013-W42,Haemophilus influenzae type b,2
+2013-W42,"Hand, Foot Mouth Disease",1147
+2013-W42,Legionellosis,0
+2013-W42,Malaria,0
+2013-W42,Measles,2
+2013-W42,Melioidosis,0
+2013-W42,Meningococcal Infection,0
+2013-W42,Mumps,4
+2013-W42,Nipah virus infection,0
+2013-W42,Paratyphoid,1
+2013-W42,Pertussis,0
+2013-W42,Plague,0
+2013-W42,Pneumococcal Disease (invasive),1
+2013-W42,Poliomyelitis,0
+2013-W42,Rubella,0
+2013-W42,Salmonellosis(non-enteric fevers),39
+2013-W42,SARS,0
+2013-W42,Typhoid,1
+2013-W42,Viral Hepatitis A,1
+2013-W42,Viral Hepatitis E,1
+2013-W42,Yellow Fever,0
+2013-W43,Acute Viral hepatitis B,0
+2013-W43,Acute Viral hepatitis C,0
+2013-W43,Avian Influenza,0
+2013-W43,Campylobacterenterosis,9
+2013-W43,Chikungunya Fever,21
+2013-W43,Cholera,1
+2013-W43,Dengue Fever,495
+2013-W43,Dengue Haemorrhagic Fever,0
+2013-W43,Diphtheria,0
+2013-W43,Encephalitis,0
+2013-W43,Haemophilus influenzae type b,0
+2013-W43,"Hand, Foot Mouth Disease",1029
+2013-W43,Legionellosis,1
+2013-W43,Malaria,1
+2013-W43,Measles,3
+2013-W43,Melioidosis,0
+2013-W43,Meningococcal Infection,0
+2013-W43,Mumps,3
+2013-W43,Nipah virus infection,0
+2013-W43,Paratyphoid,1
+2013-W43,Pertussis,0
+2013-W43,Plague,0
+2013-W43,Pneumococcal Disease (invasive),4
+2013-W43,Poliomyelitis,0
+2013-W43,Rubella,1
+2013-W43,Salmonellosis(non-enteric fevers),37
+2013-W43,SARS,0
+2013-W43,Typhoid,1
+2013-W43,Viral Hepatitis A,1
+2013-W43,Viral Hepatitis E,1
+2013-W43,Yellow Fever,0
+2013-W44,Acute Viral hepatitis B,2
+2013-W44,Acute Viral hepatitis C,0
+2013-W44,Avian Influenza,0
+2013-W44,Campylobacterenterosis,6
+2013-W44,Chikungunya Fever,22
+2013-W44,Cholera,0
+2013-W44,Dengue Fever,457
+2013-W44,Dengue Haemorrhagic Fever,1
+2013-W44,Diphtheria,0
+2013-W44,Encephalitis,2
+2013-W44,Haemophilus influenzae type b,0
+2013-W44,"Hand, Foot Mouth Disease",914
+2013-W44,Legionellosis,0
+2013-W44,Malaria,0
+2013-W44,Measles,2
+2013-W44,Melioidosis,1
+2013-W44,Meningococcal Infection,0
+2013-W44,Mumps,6
+2013-W44,Nipah virus infection,0
+2013-W44,Paratyphoid,0
+2013-W44,Pertussis,0
+2013-W44,Plague,0
+2013-W44,Pneumococcal Disease (invasive),4
+2013-W44,Poliomyelitis,0
+2013-W44,Rubella,1
+2013-W44,Salmonellosis(non-enteric fevers),27
+2013-W44,SARS,0
+2013-W44,Typhoid,0
+2013-W44,Viral Hepatitis A,7
+2013-W44,Viral Hepatitis E,0
+2013-W44,Yellow Fever,0
+2013-W45,Acute Viral hepatitis B,1
+2013-W45,Acute Viral hepatitis C,0
+2013-W45,Avian Influenza,0
+2013-W45,Campylobacterenterosis,7
+2013-W45,Chikungunya Fever,31
+2013-W45,Cholera,0
+2013-W45,Dengue Fever,401
+2013-W45,Dengue Haemorrhagic Fever,1
+2013-W45,Diphtheria,0
+2013-W45,Encephalitis,1
+2013-W45,Haemophilus influenzae type b,1
+2013-W45,"Hand, Foot Mouth Disease",1002
+2013-W45,Legionellosis,1
+2013-W45,Malaria,2
+2013-W45,Measles,4
+2013-W45,Melioidosis,1
+2013-W45,Meningococcal Infection,0
+2013-W45,Mumps,4
+2013-W45,Nipah virus infection,0
+2013-W45,Paratyphoid,1
+2013-W45,Pertussis,0
+2013-W45,Plague,0
+2013-W45,Pneumococcal Disease (invasive),3
+2013-W45,Poliomyelitis,0
+2013-W45,Rubella,1
+2013-W45,Salmonellosis(non-enteric fevers),46
+2013-W45,SARS,0
+2013-W45,Typhoid,0
+2013-W45,Viral Hepatitis A,2
+2013-W45,Viral Hepatitis E,0
+2013-W45,Yellow Fever,0
+2013-W46,Acute Viral hepatitis B,1
+2013-W46,Acute Viral hepatitis C,0
+2013-W46,Avian Influenza,0
+2013-W46,Campylobacterenterosis,12
+2013-W46,Chikungunya Fever,23
+2013-W46,Cholera,0
+2013-W46,Dengue Fever,442
+2013-W46,Dengue Haemorrhagic Fever,2
+2013-W46,Diphtheria,0
+2013-W46,Encephalitis,0
+2013-W46,Haemophilus influenzae type b,0
+2013-W46,"Hand, Foot Mouth Disease",849
+2013-W46,Legionellosis,0
+2013-W46,Malaria,1
+2013-W46,Measles,0
+2013-W46,Melioidosis,4
+2013-W46,Meningococcal Infection,0
+2013-W46,Mumps,10
+2013-W46,Nipah virus infection,0
+2013-W46,Paratyphoid,0
+2013-W46,Pertussis,1
+2013-W46,Plague,0
+2013-W46,Pneumococcal Disease (invasive),1
+2013-W46,Poliomyelitis,0
+2013-W46,Rubella,1
+2013-W46,Salmonellosis(non-enteric fevers),26
+2013-W46,SARS,0
+2013-W46,Typhoid,1
+2013-W46,Viral Hepatitis A,3
+2013-W46,Viral Hepatitis E,0
+2013-W46,Yellow Fever,0
+2013-W47,Acute Viral hepatitis B,2
+2013-W47,Acute Viral hepatitis C,0
+2013-W47,Avian Influenza,0
+2013-W47,Campylobacterenterosis,8
+2013-W47,Chikungunya Fever,36
+2013-W47,Cholera,0
+2013-W47,Dengue Fever,365
+2013-W47,Dengue Haemorrhagic Fever,0
+2013-W47,Diphtheria,0
+2013-W47,Encephalitis,1
+2013-W47,Haemophilus influenzae type b,0
+2013-W47,"Hand, Foot Mouth Disease",740
+2013-W47,Legionellosis,0
+2013-W47,Malaria,2
+2013-W47,Measles,1
+2013-W47,Melioidosis,0
+2013-W47,Meningococcal Infection,0
+2013-W47,Mumps,11
+2013-W47,Nipah virus infection,0
+2013-W47,Paratyphoid,0
+2013-W47,Pertussis,0
+2013-W47,Plague,0
+2013-W47,Pneumococcal Disease (invasive),9
+2013-W47,Poliomyelitis,0
+2013-W47,Rubella,1
+2013-W47,Salmonellosis(non-enteric fevers),29
+2013-W47,SARS,0
+2013-W47,Typhoid,1
+2013-W47,Viral Hepatitis A,1
+2013-W47,Viral Hepatitis E,3
+2013-W47,Yellow Fever,0
+2013-W48,Acute Viral hepatitis B,0
+2013-W48,Acute Viral hepatitis C,0
+2013-W48,Avian Influenza,0
+2013-W48,Campylobacterenterosis,6
+2013-W48,Chikungunya Fever,27
+2013-W48,Cholera,0
+2013-W48,Dengue Fever,372
+2013-W48,Dengue Haemorrhagic Fever,0
+2013-W48,Diphtheria,0
+2013-W48,Encephalitis,1
+2013-W48,Haemophilus influenzae type b,0
+2013-W48,"Hand, Foot Mouth Disease",607
+2013-W48,Legionellosis,0
+2013-W48,Malaria,3
+2013-W48,Measles,0
+2013-W48,Melioidosis,0
+2013-W48,Meningococcal Infection,0
+2013-W48,Mumps,6
+2013-W48,Nipah virus infection,0
+2013-W48,Paratyphoid,0
+2013-W48,Pertussis,0
+2013-W48,Plague,0
+2013-W48,Pneumococcal Disease (invasive),3
+2013-W48,Poliomyelitis,0
+2013-W48,Rubella,1
+2013-W48,Salmonellosis(non-enteric fevers),45
+2013-W48,SARS,0
+2013-W48,Typhoid,2
+2013-W48,Viral Hepatitis A,1
+2013-W48,Viral Hepatitis E,0
+2013-W48,Yellow Fever,0
+2013-W49,Acute Viral hepatitis B,1
+2013-W49,Acute Viral hepatitis C,0
+2013-W49,Avian Influenza,0
+2013-W49,Campylobacterenterosis,8
+2013-W49,Chikungunya Fever,32
+2013-W49,Cholera,0
+2013-W49,Dengue Fever,347
+2013-W49,Dengue Haemorrhagic Fever,0
+2013-W49,Diphtheria,0
+2013-W49,Encephalitis,2
+2013-W49,Haemophilus influenzae type b,0
+2013-W49,"Hand, Foot Mouth Disease",628
+2013-W49,Legionellosis,3
+2013-W49,Malaria,1
+2013-W49,Measles,1
+2013-W49,Melioidosis,0
+2013-W49,Meningococcal Infection,0
+2013-W49,Mumps,9
+2013-W49,Nipah virus infection,0
+2013-W49,Paratyphoid,0
+2013-W49,Pertussis,0
+2013-W49,Plague,0
+2013-W49,Pneumococcal Disease (invasive),7
+2013-W49,Poliomyelitis,0
+2013-W49,Rubella,2
+2013-W49,Salmonellosis(non-enteric fevers),27
+2013-W49,SARS,0
+2013-W49,Typhoid,1
+2013-W49,Viral Hepatitis A,4
+2013-W49,Viral Hepatitis E,2
+2013-W49,Yellow Fever,0
+2013-W50,Acute Viral hepatitis B,0
+2013-W50,Acute Viral hepatitis C,0
+2013-W50,Avian Influenza,0
+2013-W50,Campylobacterenterosis,8
+2013-W50,Chikungunya Fever,23
+2013-W50,Cholera,0
+2013-W50,Dengue Fever,380
+2013-W50,Dengue Haemorrhagic Fever,1
+2013-W50,Diphtheria,0
+2013-W50,Encephalitis,0
+2013-W50,Haemophilus influenzae type b,0
+2013-W50,"Hand, Foot Mouth Disease",575
+2013-W50,Legionellosis,2
+2013-W50,Malaria,1
+2013-W50,Measles,0
+2013-W50,Melioidosis,0
+2013-W50,Meningococcal Infection,1
+2013-W50,Mumps,4
+2013-W50,Nipah virus infection,0
+2013-W50,Paratyphoid,0
+2013-W50,Pertussis,0
+2013-W50,Plague,0
+2013-W50,Pneumococcal Disease (invasive),4
+2013-W50,Poliomyelitis,0
+2013-W50,Rubella,0
+2013-W50,Salmonellosis(non-enteric fevers),33
+2013-W50,SARS,0
+2013-W50,Typhoid,0
+2013-W50,Viral Hepatitis A,6
+2013-W50,Viral Hepatitis E,1
+2013-W50,Yellow Fever,0
+2013-W51,Acute Viral hepatitis B,2
+2013-W51,Acute Viral hepatitis C,0
+2013-W51,Avian Influenza,0
+2013-W51,Campylobacterenterosis,14
+2013-W51,Chikungunya Fever,33
+2013-W51,Cholera,0
+2013-W51,Dengue Fever,371
+2013-W51,Dengue Haemorrhagic Fever,0
+2013-W51,Diphtheria,0
+2013-W51,Encephalitis,0
+2013-W51,Haemophilus influenzae type b,0
+2013-W51,"Hand, Foot Mouth Disease",542
+2013-W51,Legionellosis,0
+2013-W51,Malaria,1
+2013-W51,Measles,2
+2013-W51,Melioidosis,0
+2013-W51,Meningococcal Infection,0
+2013-W51,Mumps,10
+2013-W51,Nipah virus infection,0
+2013-W51,Paratyphoid,2
+2013-W51,Pertussis,0
+2013-W51,Plague,0
+2013-W51,Pneumococcal Disease (invasive),4
+2013-W51,Poliomyelitis,0
+2013-W51,Rubella,0
+2013-W51,Salmonellosis(non-enteric fevers),28
+2013-W51,SARS,0
+2013-W51,Typhoid,1
+2013-W51,Viral Hepatitis A,0
+2013-W51,Viral Hepatitis E,0
+2013-W51,Yellow Fever,0
+2013-W52,Acute Viral hepatitis B,1
+2013-W52,Acute Viral hepatitis C,0
+2013-W52,Avian Influenza,0
+2013-W52,Campylobacterenterosis,6
+2013-W52,Chikungunya Fever,20
+2013-W52,Cholera,0
+2013-W52,Dengue Fever,414
+2013-W52,Dengue Haemorrhagic Fever,0
+2013-W52,Diphtheria,0
+2013-W52,Encephalitis,0
+2013-W52,Haemophilus influenzae type b,0
+2013-W52,"Hand, Foot Mouth Disease",363
+2013-W52,Legionellosis,2
+2013-W52,Malaria,3
+2013-W52,Measles,3
+2013-W52,Melioidosis,1
+2013-W52,Meningococcal Infection,0
+2013-W52,Mumps,9
+2013-W52,Nipah virus infection,0
+2013-W52,Paratyphoid,1
+2013-W52,Pertussis,0
+2013-W52,Plague,0
+2013-W52,Pneumococcal Disease (invasive),4
+2013-W52,Poliomyelitis,0
+2013-W52,Rubella,0
+2013-W52,Salmonellosis(non-enteric fevers),20
+2013-W52,SARS,0
+2013-W52,Typhoid,3
+2013-W52,Viral Hepatitis A,0
+2013-W52,Viral Hepatitis E,1
+2013-W52,Yellow Fever,0
+2014-W01,Acute Viral hepatitis B,0
+2014-W01,Acute Viral hepatitis C,0
+2014-W01,Avian Influenza,0
+2014-W01,Campylobacterenterosis,10
+2014-W01,Chikungunya Fever,19
+2014-W01,Cholera,0
+2014-W01,Dengue Fever,436
+2014-W01,Dengue Haemorrhagic Fever,1
+2014-W01,Diphtheria,0
+2014-W01,Encephalitis,0
+2014-W01,Haemophilus influenzae type b,0
+2014-W01,"Hand, Foot Mouth Disease",345
+2014-W01,Legionellosis,0
+2014-W01,Malaria,1
+2014-W01,Measles,5
+2014-W01,Melioidosis,1
+2014-W01,Meningococcal Infection,0
+2014-W01,Mumps,7
+2014-W01,Nipah virus infection,0
+2014-W01,Paratyphoid,0
+2014-W01,Pertussis,0
+2014-W01,Plague,0
+2014-W01,Pneumococcal Disease (invasive),3
+2014-W01,Poliomyelitis,0
+2014-W01,Rubella,0
+2014-W01,Salmonellosis(non-enteric fevers),22
+2014-W01,SARS,0
+2014-W01,Typhoid,4
+2014-W01,Viral Hepatitis A,1
+2014-W01,Viral Hepatitis E,2
+2014-W01,Yellow Fever,0
+2014-W02,Acute Viral hepatitis B,2
+2014-W02,Acute Viral hepatitis C,0
+2014-W02,Avian Influenza,0
+2014-W02,Campylobacterenterosis,10
+2014-W02,Chikungunya Fever,29
+2014-W02,Cholera,0
+2014-W02,Dengue Fever,479
+2014-W02,Dengue Haemorrhagic Fever,0
+2014-W02,Diphtheria,0
+2014-W02,Encephalitis,2
+2014-W02,Haemophilus influenzae type b,0
+2014-W02,"Hand, Foot Mouth Disease",346
+2014-W02,Legionellosis,2
+2014-W02,Malaria,1
+2014-W02,Measles,2
+2014-W02,Melioidosis,0
+2014-W02,Meningococcal Infection,0
+2014-W02,Mumps,14
+2014-W02,Nipah virus infection,0
+2014-W02,Paratyphoid,0
+2014-W02,Pertussis,1
+2014-W02,Plague,0
+2014-W02,Pneumococcal Disease (invasive),0
+2014-W02,Poliomyelitis,0
+2014-W02,Rubella,0
+2014-W02,Salmonellosis(non-enteric fevers),38
+2014-W02,SARS,0
+2014-W02,Typhoid,0
+2014-W02,Viral Hepatitis A,4
+2014-W02,Viral Hepatitis E,0
+2014-W02,Yellow Fever,0
+2014-W03,Acute Viral hepatitis B,0
+2014-W03,Acute Viral hepatitis C,0
+2014-W03,Avian Influenza,0
+2014-W03,Campylobacterenterosis,5
+2014-W03,Chikungunya Fever,20
+2014-W03,Cholera,0
+2014-W03,Dengue Fever,401
+2014-W03,Dengue Haemorrhagic Fever,0
+2014-W03,Diphtheria,0
+2014-W03,Encephalitis,0
+2014-W03,Haemophilus influenzae type b,0
+2014-W03,"Hand, Foot Mouth Disease",387
+2014-W03,Legionellosis,1
+2014-W03,Malaria,2
+2014-W03,Measles,15
+2014-W03,Melioidosis,1
+2014-W03,Meningococcal Infection,0
+2014-W03,Mumps,14
+2014-W03,Nipah virus infection,0
+2014-W03,Paratyphoid,0
+2014-W03,Pertussis,1
+2014-W03,Plague,0
+2014-W03,Pneumococcal Disease (invasive),3
+2014-W03,Poliomyelitis,0
+2014-W03,Rubella,0
+2014-W03,Salmonellosis(non-enteric fevers),27
+2014-W03,SARS,0
+2014-W03,Typhoid,2
+2014-W03,Viral Hepatitis A,5
+2014-W03,Viral Hepatitis E,0
+2014-W03,Yellow Fever,0
+2014-W04,Acute Viral hepatitis B,1
+2014-W04,Acute Viral hepatitis C,0
+2014-W04,Avian Influenza,0
+2014-W04,Campylobacterenterosis,5
+2014-W04,Chikungunya Fever,17
+2014-W04,Cholera,0
+2014-W04,Dengue Fever,336
+2014-W04,Dengue Haemorrhagic Fever,0
+2014-W04,Diphtheria,0
+2014-W04,Encephalitis,1
+2014-W04,Haemophilus influenzae type b,1
+2014-W04,"Hand, Foot Mouth Disease",366
+2014-W04,Legionellosis,0
+2014-W04,Malaria,1
+2014-W04,Measles,8
+2014-W04,Melioidosis,0
+2014-W04,Meningococcal Infection,0
+2014-W04,Mumps,10
+2014-W04,Nipah virus infection,0
+2014-W04,Paratyphoid,0
+2014-W04,Pertussis,0
+2014-W04,Plague,0
+2014-W04,Pneumococcal Disease (invasive),3
+2014-W04,Poliomyelitis,0
+2014-W04,Rubella,2
+2014-W04,Salmonellosis(non-enteric fevers),32
+2014-W04,SARS,0
+2014-W04,Typhoid,2
+2014-W04,Viral Hepatitis A,2
+2014-W04,Viral Hepatitis E,1
+2014-W04,Yellow Fever,0
+2014-W05,Acute Viral hepatitis B,1
+2014-W05,Acute Viral hepatitis C,0
+2014-W05,Avian Influenza,0
+2014-W05,Campylobacterenterosis,10
+2014-W05,Chikungunya Fever,13
+2014-W05,Cholera,0
+2014-W05,Dengue Fever,234
+2014-W05,Dengue Haemorrhagic Fever,0
+2014-W05,Diphtheria,0
+2014-W05,Encephalitis,0
+2014-W05,Haemophilus influenzae type b,0
+2014-W05,"Hand, Foot Mouth Disease",214
+2014-W05,Legionellosis,1
+2014-W05,Malaria,0
+2014-W05,Measles,3
+2014-W05,Melioidosis,0
+2014-W05,Meningococcal Infection,0
+2014-W05,Mumps,5
+2014-W05,Nipah virus infection,0
+2014-W05,Paratyphoid,1
+2014-W05,Pertussis,0
+2014-W05,Plague,0
+2014-W05,Pneumococcal Disease (invasive),3
+2014-W05,Poliomyelitis,0
+2014-W05,Rubella,0
+2014-W05,Salmonellosis(non-enteric fevers),25
+2014-W05,SARS,0
+2014-W05,Typhoid,1
+2014-W05,Viral Hepatitis A,2
+2014-W05,Viral Hepatitis E,0
+2014-W05,Yellow Fever,0
+2014-W06,Acute Viral hepatitis B,1
+2014-W06,Acute Viral hepatitis C,0
+2014-W06,Avian Influenza,0
+2014-W06,Campylobacterenterosis,8
+2014-W06,Chikungunya Fever,9
+2014-W06,Cholera,0
+2014-W06,Dengue Fever,273
+2014-W06,Dengue Haemorrhagic Fever,1
+2014-W06,Diphtheria,0
+2014-W06,Encephalitis,2
+2014-W06,Haemophilus influenzae type b,0
+2014-W06,"Hand, Foot Mouth Disease",312
+2014-W06,Legionellosis,0
+2014-W06,Malaria,0
+2014-W06,Measles,7
+2014-W06,Melioidosis,1
+2014-W06,Meningococcal Infection,1
+2014-W06,Mumps,12
+2014-W06,Nipah virus infection,0
+2014-W06,Paratyphoid,1
+2014-W06,Pertussis,0
+2014-W06,Plague,0
+2014-W06,Pneumococcal Disease (invasive),4
+2014-W06,Poliomyelitis,0
+2014-W06,Rubella,0
+2014-W06,Salmonellosis(non-enteric fevers),26
+2014-W06,SARS,0
+2014-W06,Typhoid,0
+2014-W06,Viral Hepatitis A,3
+2014-W06,Viral Hepatitis E,0
+2014-W06,Yellow Fever,0
+2014-W07,Acute Viral hepatitis B,0
+2014-W07,Acute Viral hepatitis C,1
+2014-W07,Avian Influenza,0
+2014-W07,Campylobacterenterosis,5
+2014-W07,Chikungunya Fever,9
+2014-W07,Cholera,0
+2014-W07,Dengue Fever,369
+2014-W07,Dengue Haemorrhagic Fever,0
+2014-W07,Diphtheria,0
+2014-W07,Encephalitis,3
+2014-W07,Haemophilus influenzae type b,1
+2014-W07,"Hand, Foot Mouth Disease",329
+2014-W07,Legionellosis,0
+2014-W07,Malaria,0
+2014-W07,Measles,6
+2014-W07,Melioidosis,0
+2014-W07,Meningococcal Infection,0
+2014-W07,Mumps,10
+2014-W07,Nipah virus infection,0
+2014-W07,Paratyphoid,0
+2014-W07,Pertussis,0
+2014-W07,Plague,0
+2014-W07,Pneumococcal Disease (invasive),3
+2014-W07,Poliomyelitis,0
+2014-W07,Rubella,0
+2014-W07,Salmonellosis(non-enteric fevers),30
+2014-W07,SARS,0
+2014-W07,Typhoid,1
+2014-W07,Viral Hepatitis A,3
+2014-W07,Viral Hepatitis E,1
+2014-W07,Yellow Fever,0
+2014-W08,Acute Viral hepatitis B,0
+2014-W08,Acute Viral hepatitis C,0
+2014-W08,Avian Influenza,0
+2014-W08,Campylobacterenterosis,9
+2014-W08,Chikungunya Fever,12
+2014-W08,Cholera,0
+2014-W08,Dengue Fever,193
+2014-W08,Dengue Haemorrhagic Fever,1
+2014-W08,Diphtheria,0
+2014-W08,Encephalitis,1
+2014-W08,Haemophilus influenzae type b,0
+2014-W08,"Hand, Foot Mouth Disease",371
+2014-W08,Legionellosis,1
+2014-W08,Malaria,0
+2014-W08,Measles,8
+2014-W08,Melioidosis,0
+2014-W08,Meningococcal Infection,0
+2014-W08,Mumps,11
+2014-W08,Nipah virus infection,0
+2014-W08,Paratyphoid,0
+2014-W08,Pertussis,0
+2014-W08,Plague,0
+2014-W08,Pneumococcal Disease (invasive),2
+2014-W08,Poliomyelitis,0
+2014-W08,Rubella,2
+2014-W08,Salmonellosis(non-enteric fevers),21
+2014-W08,SARS,0
+2014-W08,Typhoid,0
+2014-W08,Viral Hepatitis A,2
+2014-W08,Viral Hepatitis E,1
+2014-W08,Yellow Fever,0
+2014-W09,Acute Viral hepatitis B,3
+2014-W09,Acute Viral hepatitis C,0
+2014-W09,Avian Influenza,0
+2014-W09,Campylobacterenterosis,12
+2014-W09,Chikungunya Fever,3
+2014-W09,Cholera,0
+2014-W09,Dengue Fever,186
+2014-W09,Dengue Haemorrhagic Fever,1
+2014-W09,Diphtheria,0
+2014-W09,Encephalitis,1
+2014-W09,Haemophilus influenzae type b,1
+2014-W09,"Hand, Foot Mouth Disease",331
+2014-W09,Legionellosis,2
+2014-W09,Malaria,0
+2014-W09,Measles,8
+2014-W09,Melioidosis,0
+2014-W09,Meningococcal Infection,0
+2014-W09,Mumps,14
+2014-W09,Nipah virus infection,0
+2014-W09,Paratyphoid,0
+2014-W09,Pertussis,0
+2014-W09,Plague,0
+2014-W09,Pneumococcal Disease (invasive),4
+2014-W09,Poliomyelitis,0
+2014-W09,Rubella,0
+2014-W09,Salmonellosis(non-enteric fevers),23
+2014-W09,SARS,0
+2014-W09,Typhoid,2
+2014-W09,Viral Hepatitis A,2
+2014-W09,Viral Hepatitis E,1
+2014-W09,Yellow Fever,0
+2014-W10,Acute Viral hepatitis B,0
+2014-W10,Acute Viral hepatitis C,0
+2014-W10,Avian Influenza,0
+2014-W10,Campylobacterenterosis,3
+2014-W10,Chikungunya Fever,3
+2014-W10,Cholera,0
+2014-W10,Dengue Fever,209
+2014-W10,Dengue Haemorrhagic Fever,1
+2014-W10,Diphtheria,0
+2014-W10,Encephalitis,0
+2014-W10,Haemophilus influenzae type b,0
+2014-W10,"Hand, Foot Mouth Disease",321
+2014-W10,Legionellosis,0
+2014-W10,Malaria,0
+2014-W10,Measles,5
+2014-W10,Melioidosis,1
+2014-W10,Meningococcal Infection,0
+2014-W10,Mumps,2
+2014-W10,Nipah virus infection,0
+2014-W10,Paratyphoid,1
+2014-W10,Pertussis,0
+2014-W10,Plague,0
+2014-W10,Pneumococcal Disease (invasive),5
+2014-W10,Poliomyelitis,0
+2014-W10,Rubella,0
+2014-W10,Salmonellosis(non-enteric fevers),22
+2014-W10,SARS,0
+2014-W10,Typhoid,4
+2014-W10,Viral Hepatitis A,1
+2014-W10,Viral Hepatitis E,1
+2014-W10,Yellow Fever,0
+2014-W11,Acute Viral hepatitis B,1
+2014-W11,Acute Viral hepatitis C,0
+2014-W11,Avian Influenza,0
+2014-W11,Campylobacterenterosis,11
+2014-W11,Chikungunya Fever,5
+2014-W11,Cholera,0
+2014-W11,Dengue Fever,224
+2014-W11,Dengue Haemorrhagic Fever,1
+2014-W11,Diphtheria,0
+2014-W11,Encephalitis,0
+2014-W11,Haemophilus influenzae type b,0
+2014-W11,"Hand, Foot Mouth Disease",309
+2014-W11,Legionellosis,0
+2014-W11,Malaria,1
+2014-W11,Measles,5
+2014-W11,Melioidosis,0
+2014-W11,Meningococcal Infection,1
+2014-W11,Mumps,12
+2014-W11,Nipah virus infection,0
+2014-W11,Paratyphoid,2
+2014-W11,Pertussis,0
+2014-W11,Plague,0
+2014-W11,Pneumococcal Disease (invasive),2
+2014-W11,Poliomyelitis,0
+2014-W11,Rubella,1
+2014-W11,Salmonellosis(non-enteric fevers),36
+2014-W11,SARS,0
+2014-W11,Typhoid,1
+2014-W11,Viral Hepatitis A,0
+2014-W11,Viral Hepatitis E,1
+2014-W11,Yellow Fever,0
+2014-W12,Acute Viral hepatitis B,3
+2014-W12,Acute Viral hepatitis C,1
+2014-W12,Avian Influenza,0
+2014-W12,Campylobacterenterosis,11
+2014-W12,Chikungunya Fever,2
+2014-W12,Cholera,0
+2014-W12,Dengue Fever,210
+2014-W12,Dengue Haemorrhagic Fever,0
+2014-W12,Diphtheria,0
+2014-W12,Encephalitis,1
+2014-W12,Haemophilus influenzae type b,0
+2014-W12,"Hand, Foot Mouth Disease",247
+2014-W12,Legionellosis,0
+2014-W12,Malaria,2
+2014-W12,Measles,3
+2014-W12,Melioidosis,0
+2014-W12,Meningococcal Infection,0
+2014-W12,Mumps,7
+2014-W12,Nipah virus infection,0
+2014-W12,Paratyphoid,1
+2014-W12,Pertussis,0
+2014-W12,Plague,0
+2014-W12,Pneumococcal Disease (invasive),0
+2014-W12,Poliomyelitis,0
+2014-W12,Rubella,0
+2014-W12,Salmonellosis(non-enteric fevers),40
+2014-W12,SARS,0
+2014-W12,Typhoid,1
+2014-W12,Viral Hepatitis A,2
+2014-W12,Viral Hepatitis E,1
+2014-W12,Yellow Fever,0
+2014-W13,Acute Viral hepatitis B,3
+2014-W13,Acute Viral hepatitis C,2
+2014-W13,Avian Influenza,0
+2014-W13,Campylobacterenterosis,10
+2014-W13,Chikungunya Fever,1
+2014-W13,Cholera,0
+2014-W13,Dengue Fever,225
+2014-W13,Dengue Haemorrhagic Fever,0
+2014-W13,Diphtheria,0
+2014-W13,Encephalitis,0
+2014-W13,Haemophilus influenzae type b,0
+2014-W13,"Hand, Foot Mouth Disease",312
+2014-W13,Legionellosis,2
+2014-W13,Malaria,3
+2014-W13,Measles,2
+2014-W13,Melioidosis,0
+2014-W13,Meningococcal Infection,1
+2014-W13,Mumps,18
+2014-W13,Nipah virus infection,0
+2014-W13,Paratyphoid,0
+2014-W13,Pertussis,0
+2014-W13,Plague,0
+2014-W13,Pneumococcal Disease (invasive),2
+2014-W13,Poliomyelitis,0
+2014-W13,Rubella,3
+2014-W13,Salmonellosis(non-enteric fevers),42
+2014-W13,SARS,0
+2014-W13,Typhoid,2
+2014-W13,Viral Hepatitis A,1
+2014-W13,Viral Hepatitis E,1
+2014-W13,Yellow Fever,0
+2014-W14,Acute Viral hepatitis B,3
+2014-W14,Acute Viral hepatitis C,0
+2014-W14,Avian Influenza,0
+2014-W14,Campylobacterenterosis,14
+2014-W14,Chikungunya Fever,1
+2014-W14,Cholera,0
+2014-W14,Dengue Fever,240
+2014-W14,Dengue Haemorrhagic Fever,0
+2014-W14,Diphtheria,0
+2014-W14,Encephalitis,0
+2014-W14,Haemophilus influenzae type b,0
+2014-W14,"Hand, Foot Mouth Disease",341
+2014-W14,Legionellosis,0
+2014-W14,Malaria,0
+2014-W14,Measles,3
+2014-W14,Melioidosis,0
+2014-W14,Meningococcal Infection,0
+2014-W14,Mumps,9
+2014-W14,Nipah virus infection,0
+2014-W14,Paratyphoid,0
+2014-W14,Pertussis,1
+2014-W14,Plague,0
+2014-W14,Pneumococcal Disease (invasive),3
+2014-W14,Poliomyelitis,0
+2014-W14,Rubella,0
+2014-W14,Salmonellosis(non-enteric fevers),44
+2014-W14,SARS,0
+2014-W14,Typhoid,2
+2014-W14,Viral Hepatitis A,1
+2014-W14,Viral Hepatitis E,3
+2014-W14,Yellow Fever,0
+2014-W15,Acute Viral hepatitis B,4
+2014-W15,Acute Viral hepatitis C,1
+2014-W15,Avian Influenza,0
+2014-W15,Campylobacterenterosis,6
+2014-W15,Chikungunya Fever,1
+2014-W15,Cholera,0
+2014-W15,Dengue Fever,244
+2014-W15,Dengue Haemorrhagic Fever,1
+2014-W15,Diphtheria,0
+2014-W15,Encephalitis,1
+2014-W15,Haemophilus influenzae type b,0
+2014-W15,"Hand, Foot Mouth Disease",312
+2014-W15,Legionellosis,1
+2014-W15,Malaria,0
+2014-W15,Measles,3
+2014-W15,Melioidosis,0
+2014-W15,Meningococcal Infection,0
+2014-W15,Mumps,17
+2014-W15,Nipah virus infection,0
+2014-W15,Paratyphoid,0
+2014-W15,Pertussis,0
+2014-W15,Plague,0
+2014-W15,Pneumococcal Disease (invasive),2
+2014-W15,Poliomyelitis,0
+2014-W15,Rubella,0
+2014-W15,Salmonellosis(non-enteric fevers),41
+2014-W15,SARS,0
+2014-W15,Typhoid,1
+2014-W15,Viral Hepatitis A,1
+2014-W15,Viral Hepatitis E,2
+2014-W15,Yellow Fever,0
+2014-W16,Acute Viral hepatitis B,1
+2014-W16,Acute Viral hepatitis C,3
+2014-W16,Avian Influenza,0
+2014-W16,Campylobacterenterosis,6
+2014-W16,Chikungunya Fever,2
+2014-W16,Cholera,0
+2014-W16,Dengue Fever,235
+2014-W16,Dengue Haemorrhagic Fever,0
+2014-W16,Diphtheria,0
+2014-W16,Encephalitis,1
+2014-W16,Haemophilus influenzae type b,0
+2014-W16,"Hand, Foot Mouth Disease",348
+2014-W16,Legionellosis,1
+2014-W16,Malaria,4
+2014-W16,Measles,1
+2014-W16,Melioidosis,1
+2014-W16,Meningococcal Infection,0
+2014-W16,Mumps,6
+2014-W16,Nipah virus infection,0
+2014-W16,Paratyphoid,1
+2014-W16,Pertussis,1
+2014-W16,Plague,0
+2014-W16,Pneumococcal Disease (invasive),2
+2014-W16,Poliomyelitis,0
+2014-W16,Rubella,3
+2014-W16,Salmonellosis(non-enteric fevers),40
+2014-W16,SARS,0
+2014-W16,Typhoid,0
+2014-W16,Viral Hepatitis A,2
+2014-W16,Viral Hepatitis E,2
+2014-W16,Yellow Fever,0
+2014-W17,Acute Viral hepatitis B,1
+2014-W17,Acute Viral hepatitis C,5
+2014-W17,Avian Influenza,0
+2014-W17,Campylobacterenterosis,19
+2014-W17,Chikungunya Fever,2
+2014-W17,Cholera,0
+2014-W17,Dengue Fever,282
+2014-W17,Dengue Haemorrhagic Fever,0
+2014-W17,Diphtheria,0
+2014-W17,Encephalitis,0
+2014-W17,Haemophilus influenzae type b,0
+2014-W17,"Hand, Foot Mouth Disease",480
+2014-W17,Legionellosis,0
+2014-W17,Malaria,3
+2014-W17,Measles,8
+2014-W17,Melioidosis,0
+2014-W17,Meningococcal Infection,0
+2014-W17,Mumps,12
+2014-W17,Nipah virus infection,0
+2014-W17,Paratyphoid,3
+2014-W17,Pertussis,1
+2014-W17,Plague,0
+2014-W17,Pneumococcal Disease (invasive),0
+2014-W17,Poliomyelitis,0
+2014-W17,Rubella,1
+2014-W17,Salmonellosis(non-enteric fevers),42
+2014-W17,SARS,0
+2014-W17,Typhoid,2
+2014-W17,Viral Hepatitis A,3
+2014-W17,Viral Hepatitis E,3
+2014-W17,Yellow Fever,0
+2014-W18,Acute Viral hepatitis B,0
+2014-W18,Acute Viral hepatitis C,2
+2014-W18,Avian Influenza,0
+2014-W18,Campylobacterenterosis,14
+2014-W18,Chikungunya Fever,1
+2014-W18,Cholera,0
+2014-W18,Dengue Fever,251
+2014-W18,Dengue Haemorrhagic Fever,0
+2014-W18,Diphtheria,0
+2014-W18,Encephalitis,2
+2014-W18,Haemophilus influenzae type b,0
+2014-W18,"Hand, Foot Mouth Disease",557
+2014-W18,Legionellosis,0
+2014-W18,Malaria,1
+2014-W18,Measles,7
+2014-W18,Melioidosis,1
+2014-W18,Meningococcal Infection,1
+2014-W18,Mumps,9
+2014-W18,Nipah virus infection,0
+2014-W18,Paratyphoid,0
+2014-W18,Pertussis,0
+2014-W18,Plague,0
+2014-W18,Pneumococcal Disease (invasive),2
+2014-W18,Poliomyelitis,0
+2014-W18,Rubella,0
+2014-W18,Salmonellosis(non-enteric fevers),50
+2014-W18,SARS,0
+2014-W18,Typhoid,2
+2014-W18,Viral Hepatitis A,1
+2014-W18,Viral Hepatitis E,0
+2014-W18,Yellow Fever,0
+2014-W19,Acute Viral hepatitis B,3
+2014-W19,Acute Viral hepatitis C,1
+2014-W19,Avian Influenza,0
+2014-W19,Campylobacterenterosis,15
+2014-W19,Chikungunya Fever,1
+2014-W19,Cholera,0
+2014-W19,Dengue Fever,261
+2014-W19,Dengue Haemorrhagic Fever,0
+2014-W19,Diphtheria,0
+2014-W19,Encephalitis,1
+2014-W19,Haemophilus influenzae type b,0
+2014-W19,"Hand, Foot Mouth Disease",628
+2014-W19,Legionellosis,0
+2014-W19,Malaria,0
+2014-W19,Measles,3
+2014-W19,Melioidosis,3
+2014-W19,Meningococcal Infection,0
+2014-W19,Mumps,4
+2014-W19,Nipah virus infection,0
+2014-W19,Paratyphoid,0
+2014-W19,Pertussis,1
+2014-W19,Plague,0
+2014-W19,Pneumococcal Disease (invasive),2
+2014-W19,Poliomyelitis,0
+2014-W19,Rubella,0
+2014-W19,Salmonellosis(non-enteric fevers),47
+2014-W19,SARS,0
+2014-W19,Typhoid,1
+2014-W19,Viral Hepatitis A,1
+2014-W19,Viral Hepatitis E,0
+2014-W19,Yellow Fever,0
+2014-W20,Acute Viral hepatitis B,4
+2014-W20,Acute Viral hepatitis C,0
+2014-W20,Avian Influenza,0
+2014-W20,Campylobacterenterosis,13
+2014-W20,Chikungunya Fever,4
+2014-W20,Cholera,0
+2014-W20,Dengue Fever,291
+2014-W20,Dengue Haemorrhagic Fever,0
+2014-W20,Diphtheria,0
+2014-W20,Encephalitis,0
+2014-W20,Haemophilus influenzae type b,1
+2014-W20,"Hand, Foot Mouth Disease",663
+2014-W20,Legionellosis,1
+2014-W20,Malaria,1
+2014-W20,Measles,3
+2014-W20,Melioidosis,0
+2014-W20,Meningococcal Infection,0
+2014-W20,Mumps,10
+2014-W20,Nipah virus infection,0
+2014-W20,Paratyphoid,1
+2014-W20,Pertussis,3
+2014-W20,Plague,0
+2014-W20,Pneumococcal Disease (invasive),1
+2014-W20,Poliomyelitis,0
+2014-W20,Rubella,0
+2014-W20,Salmonellosis(non-enteric fevers),38
+2014-W20,SARS,0
+2014-W20,Typhoid,4
+2014-W20,Viral Hepatitis A,2
+2014-W20,Viral Hepatitis E,3
+2014-W20,Yellow Fever,0
+2014-W21,Acute Viral hepatitis B,2
+2014-W21,Acute Viral hepatitis C,0
+2014-W21,Avian Influenza,0
+2014-W21,Campylobacterenterosis,11
+2014-W21,Chikungunya Fever,1
+2014-W21,Cholera,0
+2014-W21,Dengue Fever,427
+2014-W21,Dengue Haemorrhagic Fever,1
+2014-W21,Diphtheria,0
+2014-W21,Encephalitis,0
+2014-W21,Haemophilus influenzae type b,0
+2014-W21,"Hand, Foot Mouth Disease",683
+2014-W21,Legionellosis,1
+2014-W21,Malaria,0
+2014-W21,Measles,3
+2014-W21,Melioidosis,1
+2014-W21,Meningococcal Infection,0
+2014-W21,Mumps,6
+2014-W21,Nipah virus infection,0
+2014-W21,Paratyphoid,0
+2014-W21,Pertussis,0
+2014-W21,Plague,0
+2014-W21,Pneumococcal Disease (invasive),2
+2014-W21,Poliomyelitis,0
+2014-W21,Rubella,0
+2014-W21,Salmonellosis(non-enteric fevers),56
+2014-W21,SARS,0
+2014-W21,Typhoid,1
+2014-W21,Viral Hepatitis A,1
+2014-W21,Viral Hepatitis E,0
+2014-W21,Yellow Fever,0
+2014-W22,Acute Viral hepatitis B,1
+2014-W22,Acute Viral hepatitis C,1
+2014-W22,Avian Influenza,0
+2014-W22,Campylobacterenterosis,13
+2014-W22,Chikungunya Fever,1
+2014-W22,Cholera,0
+2014-W22,Dengue Fever,456
+2014-W22,Dengue Haemorrhagic Fever,0
+2014-W22,Diphtheria,0
+2014-W22,Encephalitis,1
+2014-W22,Haemophilus influenzae type b,0
+2014-W22,"Hand, Foot Mouth Disease",793
+2014-W22,Legionellosis,1
+2014-W22,Malaria,1
+2014-W22,Measles,1
+2014-W22,Melioidosis,4
+2014-W22,Meningococcal Infection,0
+2014-W22,Mumps,6
+2014-W22,Nipah virus infection,0
+2014-W22,Paratyphoid,1
+2014-W22,Pertussis,1
+2014-W22,Plague,0
+2014-W22,Pneumococcal Disease (invasive),2
+2014-W22,Poliomyelitis,0
+2014-W22,Rubella,0
+2014-W22,Salmonellosis(non-enteric fevers),55
+2014-W22,SARS,0
+2014-W22,Typhoid,2
+2014-W22,Viral Hepatitis A,1
+2014-W22,Viral Hepatitis E,2
+2014-W22,Yellow Fever,0
+2014-W23,Acute Viral hepatitis B,4
+2014-W23,Acute Viral hepatitis C,0
+2014-W23,Avian Influenza,0
+2014-W23,Campylobacterenterosis,10
+2014-W23,Chikungunya Fever,3
+2014-W23,Cholera,0
+2014-W23,Dengue Fever,458
+2014-W23,Dengue Haemorrhagic Fever,1
+2014-W23,Diphtheria,0
+2014-W23,Encephalitis,1
+2014-W23,Haemophilus influenzae type b,0
+2014-W23,"Hand, Foot Mouth Disease",689
+2014-W23,Legionellosis,1
+2014-W23,Malaria,2
+2014-W23,Measles,1
+2014-W23,Melioidosis,0
+2014-W23,Meningococcal Infection,0
+2014-W23,Mumps,8
+2014-W23,Nipah virus infection,0
+2014-W23,Paratyphoid,0
+2014-W23,Pertussis,1
+2014-W23,Plague,0
+2014-W23,Pneumococcal Disease (invasive),3
+2014-W23,Poliomyelitis,0
+2014-W23,Rubella,1
+2014-W23,Salmonellosis(non-enteric fevers),47
+2014-W23,SARS,0
+2014-W23,Typhoid,0
+2014-W23,Viral Hepatitis A,0
+2014-W23,Viral Hepatitis E,0
+2014-W23,Yellow Fever,0
+2014-W24,Acute Viral hepatitis B,3
+2014-W24,Acute Viral hepatitis C,0
+2014-W24,Avian Influenza,0
+2014-W24,Campylobacterenterosis,11
+2014-W24,Chikungunya Fever,3
+2014-W24,Cholera,0
+2014-W24,Dengue Fever,506
+2014-W24,Dengue Haemorrhagic Fever,0
+2014-W24,Diphtheria,0
+2014-W24,Encephalitis,1
+2014-W24,Haemophilus influenzae type b,0
+2014-W24,"Hand, Foot Mouth Disease",521
+2014-W24,Legionellosis,2
+2014-W24,Malaria,1
+2014-W24,Measles,1
+2014-W24,Melioidosis,0
+2014-W24,Meningococcal Infection,0
+2014-W24,Mumps,7
+2014-W24,Nipah virus infection,0
+2014-W24,Paratyphoid,1
+2014-W24,Pertussis,0
+2014-W24,Plague,0
+2014-W24,Pneumococcal Disease (invasive),2
+2014-W24,Poliomyelitis,0
+2014-W24,Rubella,0
+2014-W24,Salmonellosis(non-enteric fevers),41
+2014-W24,SARS,0
+2014-W24,Typhoid,1
+2014-W24,Viral Hepatitis A,0
+2014-W24,Viral Hepatitis E,3
+2014-W24,Yellow Fever,0
+2014-W25,Acute Viral hepatitis B,1
+2014-W25,Acute Viral hepatitis C,1
+2014-W25,Avian Influenza,0
+2014-W25,Campylobacterenterosis,7
+2014-W25,Chikungunya Fever,2
+2014-W25,Cholera,1
+2014-W25,Dengue Fever,550
+2014-W25,Dengue Haemorrhagic Fever,1
+2014-W25,Diphtheria,0
+2014-W25,Encephalitis,0
+2014-W25,Haemophilus influenzae type b,0
+2014-W25,"Hand, Foot Mouth Disease",473
+2014-W25,Legionellosis,0
+2014-W25,Malaria,3
+2014-W25,Measles,0
+2014-W25,Melioidosis,1
+2014-W25,Meningococcal Infection,0
+2014-W25,Mumps,8
+2014-W25,Nipah virus infection,0
+2014-W25,Paratyphoid,1
+2014-W25,Pertussis,1
+2014-W25,Plague,0
+2014-W25,Pneumococcal Disease (invasive),0
+2014-W25,Poliomyelitis,0
+2014-W25,Rubella,1
+2014-W25,Salmonellosis(non-enteric fevers),47
+2014-W25,SARS,0
+2014-W25,Typhoid,2
+2014-W25,Viral Hepatitis A,2
+2014-W25,Viral Hepatitis E,2
+2014-W25,Yellow Fever,0
+2014-W26,Acute Viral hepatitis B,0
+2014-W26,Acute Viral hepatitis C,1
+2014-W26,Avian Influenza,0
+2014-W26,Campylobacterenterosis,4
+2014-W26,Chikungunya Fever,1
+2014-W26,Cholera,0
+2014-W26,Dengue Fever,671
+2014-W26,Dengue Haemorrhagic Fever,0
+2014-W26,Diphtheria,0
+2014-W26,Encephalitis,0
+2014-W26,Haemophilus influenzae type b,0
+2014-W26,"Hand, Foot Mouth Disease",431
+2014-W26,Legionellosis,3
+2014-W26,Malaria,2
+2014-W26,Measles,3
+2014-W26,Melioidosis,1
+2014-W26,Meningococcal Infection,0
+2014-W26,Mumps,7
+2014-W26,Nipah virus infection,0
+2014-W26,Paratyphoid,0
+2014-W26,Pertussis,0
+2014-W26,Plague,0
+2014-W26,Pneumococcal Disease (invasive),4
+2014-W26,Poliomyelitis,0
+2014-W26,Rubella,1
+2014-W26,Salmonellosis(non-enteric fevers),50
+2014-W26,SARS,0
+2014-W26,Typhoid,0
+2014-W26,Viral Hepatitis A,0
+2014-W26,Viral Hepatitis E,1
+2014-W26,Yellow Fever,0
+2014-W27,Acute Viral hepatitis B,4
+2014-W27,Acute Viral hepatitis C,0
+2014-W27,Avian Influenza,0
+2014-W27,Campylobacterenterosis,9
+2014-W27,Chikungunya Fever,1
+2014-W27,Cholera,0
+2014-W27,Dengue Fever,888
+2014-W27,Dengue Haemorrhagic Fever,3
+2014-W27,Diphtheria,0
+2014-W27,Encephalitis,0
+2014-W27,Haemophilus influenzae type b,0
+2014-W27,"Hand, Foot Mouth Disease",369
+2014-W27,Legionellosis,1
+2014-W27,Malaria,1
+2014-W27,Measles,2
+2014-W27,Melioidosis,0
+2014-W27,Meningococcal Infection,1
+2014-W27,Mumps,7
+2014-W27,Nipah virus infection,0
+2014-W27,Paratyphoid,0
+2014-W27,Pertussis,0
+2014-W27,Plague,0
+2014-W27,Pneumococcal Disease (invasive),3
+2014-W27,Poliomyelitis,0
+2014-W27,Rubella,1
+2014-W27,Salmonellosis(non-enteric fevers),40
+2014-W27,SARS,0
+2014-W27,Typhoid,2
+2014-W27,Viral Hepatitis A,2
+2014-W27,Viral Hepatitis E,0
+2014-W27,Yellow Fever,0
+2014-W28,Acute Viral hepatitis B,3
+2014-W28,Acute Viral hepatitis C,2
+2014-W28,Avian Influenza,0
+2014-W28,Campylobacterenterosis,10
+2014-W28,Chikungunya Fever,2
+2014-W28,Cholera,0
+2014-W28,Dengue Fever,818
+2014-W28,Dengue Haemorrhagic Fever,1
+2014-W28,Diphtheria,0
+2014-W28,Encephalitis,1
+2014-W28,Haemophilus influenzae type b,0
+2014-W28,"Hand, Foot Mouth Disease",430
+2014-W28,Legionellosis,0
+2014-W28,Malaria,3
+2014-W28,Measles,4
+2014-W28,Melioidosis,2
+2014-W28,Meningococcal Infection,0
+2014-W28,Mumps,5
+2014-W28,Nipah virus infection,0
+2014-W28,Paratyphoid,1
+2014-W28,Pertussis,0
+2014-W28,Plague,0
+2014-W28,Pneumococcal Disease (invasive),4
+2014-W28,Poliomyelitis,0
+2014-W28,Rubella,0
+2014-W28,Salmonellosis(non-enteric fevers),46
+2014-W28,SARS,0
+2014-W28,Typhoid,2
+2014-W28,Viral Hepatitis A,0
+2014-W28,Viral Hepatitis E,2
+2014-W28,Yellow Fever,0
+2014-W29,Acute Viral hepatitis B,2
+2014-W29,Acute Viral hepatitis C,1
+2014-W29,Avian Influenza,0
+2014-W29,Campylobacterenterosis,6
+2014-W29,Chikungunya Fever,0
+2014-W29,Cholera,0
+2014-W29,Dengue Fever,744
+2014-W29,Dengue Haemorrhagic Fever,2
+2014-W29,Diphtheria,0
+2014-W29,Encephalitis,2
+2014-W29,Haemophilus influenzae type b,0
+2014-W29,"Hand, Foot Mouth Disease",426
+2014-W29,Legionellosis,1
+2014-W29,Malaria,1
+2014-W29,Measles,3
+2014-W29,Melioidosis,1
+2014-W29,Meningococcal Infection,0
+2014-W29,Mumps,11
+2014-W29,Nipah virus infection,0
+2014-W29,Paratyphoid,0
+2014-W29,Pertussis,0
+2014-W29,Plague,0
+2014-W29,Pneumococcal Disease (invasive),1
+2014-W29,Poliomyelitis,0
+2014-W29,Rubella,1
+2014-W29,Salmonellosis(non-enteric fevers),38
+2014-W29,SARS,0
+2014-W29,Typhoid,1
+2014-W29,Viral Hepatitis A,1
+2014-W29,Viral Hepatitis E,3
+2014-W29,Yellow Fever,0
+2014-W30,Acute Viral hepatitis B,1
+2014-W30,Acute Viral hepatitis C,3
+2014-W30,Avian Influenza,0
+2014-W30,Campylobacterenterosis,7
+2014-W30,Chikungunya Fever,2
+2014-W30,Cholera,0
+2014-W30,Dengue Fever,633
+2014-W30,Dengue Haemorrhagic Fever,1
+2014-W30,Diphtheria,0
+2014-W30,Encephalitis,1
+2014-W30,Haemophilus influenzae type b,0
+2014-W30,"Hand, Foot Mouth Disease",393
+2014-W30,Legionellosis,0
+2014-W30,Malaria,1
+2014-W30,Measles,3
+2014-W30,Melioidosis,1
+2014-W30,Meningococcal Infection,0
+2014-W30,Mumps,11
+2014-W30,Nipah virus infection,0
+2014-W30,Paratyphoid,0
+2014-W30,Pertussis,1
+2014-W30,Plague,0
+2014-W30,Pneumococcal Disease (invasive),2
+2014-W30,Poliomyelitis,0
+2014-W30,Rubella,0
+2014-W30,Salmonellosis(non-enteric fevers),35
+2014-W30,SARS,0
+2014-W30,Typhoid,0
+2014-W30,Viral Hepatitis A,1
+2014-W30,Viral Hepatitis E,0
+2014-W30,Yellow Fever,0
+2014-W31,Acute Viral hepatitis B,5
+2014-W31,Acute Viral hepatitis C,3
+2014-W31,Avian Influenza,0
+2014-W31,Campylobacterenterosis,5
+2014-W31,Chikungunya Fever,1
+2014-W31,Cholera,0
+2014-W31,Dengue Fever,484
+2014-W31,Dengue Haemorrhagic Fever,0
+2014-W31,Diphtheria,0
+2014-W31,Encephalitis,0
+2014-W31,Haemophilus influenzae type b,0
+2014-W31,"Hand, Foot Mouth Disease",338
+2014-W31,Legionellosis,2
+2014-W31,Malaria,1
+2014-W31,Measles,0
+2014-W31,Melioidosis,1
+2014-W31,Meningococcal Infection,0
+2014-W31,Mumps,9
+2014-W31,Nipah virus infection,0
+2014-W31,Paratyphoid,0
+2014-W31,Pertussis,1
+2014-W31,Plague,0
+2014-W31,Pneumococcal Disease (invasive),2
+2014-W31,Poliomyelitis,0
+2014-W31,Rubella,1
+2014-W31,Salmonellosis(non-enteric fevers),42
+2014-W31,SARS,0
+2014-W31,Typhoid,2
+2014-W31,Viral Hepatitis A,1
+2014-W31,Viral Hepatitis E,3
+2014-W31,Yellow Fever,0
+2014-W32,Acute Viral hepatitis B,4
+2014-W32,Acute Viral hepatitis C,2
+2014-W32,Avian Influenza,0
+2014-W32,Campylobacterenterosis,14
+2014-W32,Chikungunya Fever,0
+2014-W32,Cholera,0
+2014-W32,Dengue Fever,545
+2014-W32,Dengue Haemorrhagic Fever,0
+2014-W32,Diphtheria,0
+2014-W32,Encephalitis,0
+2014-W32,Haemophilus influenzae type b,0
+2014-W32,"Hand, Foot Mouth Disease",422
+2014-W32,Legionellosis,0
+2014-W32,Malaria,1
+2014-W32,Measles,4
+2014-W32,Melioidosis,1
+2014-W32,Meningococcal Infection,0
+2014-W32,Mumps,10
+2014-W32,Nipah virus infection,0
+2014-W32,Paratyphoid,0
+2014-W32,Pertussis,0
+2014-W32,Plague,0
+2014-W32,Pneumococcal Disease (invasive),2
+2014-W32,Poliomyelitis,0
+2014-W32,Rubella,0
+2014-W32,Salmonellosis(non-enteric fevers),35
+2014-W32,SARS,0
+2014-W32,Typhoid,1
+2014-W32,Viral Hepatitis A,3
+2014-W32,Viral Hepatitis E,4
+2014-W32,Yellow Fever,0
+2014-W33,Acute Viral hepatitis B,1
+2014-W33,Acute Viral hepatitis C,1
+2014-W33,Avian Influenza,0
+2014-W33,Campylobacterenterosis,4
+2014-W33,Chikungunya Fever,3
+2014-W33,Cholera,0
+2014-W33,Dengue Fever,438
+2014-W33,Dengue Haemorrhagic Fever,0
+2014-W33,Diphtheria,0
+2014-W33,Encephalitis,1
+2014-W33,Haemophilus influenzae type b,0
+2014-W33,"Hand, Foot Mouth Disease",446
+2014-W33,Legionellosis,0
+2014-W33,Malaria,4
+2014-W33,Measles,2
+2014-W33,Melioidosis,1
+2014-W33,Meningococcal Infection,0
+2014-W33,Mumps,8
+2014-W33,Nipah virus infection,0
+2014-W33,Paratyphoid,1
+2014-W33,Pertussis,0
+2014-W33,Plague,0
+2014-W33,Pneumococcal Disease (invasive),4
+2014-W33,Poliomyelitis,0
+2014-W33,Rubella,0
+2014-W33,Salmonellosis(non-enteric fevers),40
+2014-W33,SARS,0
+2014-W33,Typhoid,0
+2014-W33,Viral Hepatitis A,3
+2014-W33,Viral Hepatitis E,0
+2014-W33,Yellow Fever,0
+2014-W34,Acute Viral hepatitis B,0
+2014-W34,Acute Viral hepatitis C,2
+2014-W34,Avian Influenza,0
+2014-W34,Campylobacterenterosis,8
+2014-W34,Chikungunya Fever,0
+2014-W34,Cholera,0
+2014-W34,Dengue Fever,418
+2014-W34,Dengue Haemorrhagic Fever,0
+2014-W34,Diphtheria,0
+2014-W34,Encephalitis,1
+2014-W34,Haemophilus influenzae type b,1
+2014-W34,"Hand, Foot Mouth Disease",464
+2014-W34,Legionellosis,1
+2014-W34,Malaria,1
+2014-W34,Measles,3
+2014-W34,Melioidosis,0
+2014-W34,Meningococcal Infection,0
+2014-W34,Mumps,11
+2014-W34,Nipah virus infection,0
+2014-W34,Paratyphoid,0
+2014-W34,Pertussis,0
+2014-W34,Plague,0
+2014-W34,Pneumococcal Disease (invasive),6
+2014-W34,Poliomyelitis,0
+2014-W34,Rubella,0
+2014-W34,Salmonellosis(non-enteric fevers),34
+2014-W34,SARS,0
+2014-W34,Typhoid,0
+2014-W34,Viral Hepatitis A,2
+2014-W34,Viral Hepatitis E,4
+2014-W34,Yellow Fever,0
+2014-W35,Acute Viral hepatitis B,2
+2014-W35,Acute Viral hepatitis C,0
+2014-W35,Avian Influenza,0
+2014-W35,Campylobacterenterosis,8
+2014-W35,Chikungunya Fever,2
+2014-W35,Cholera,0
+2014-W35,Dengue Fever,367
+2014-W35,Dengue Haemorrhagic Fever,0
+2014-W35,Diphtheria,0
+2014-W35,Encephalitis,2
+2014-W35,Haemophilus influenzae type b,0
+2014-W35,"Hand, Foot Mouth Disease",523
+2014-W35,Legionellosis,0
+2014-W35,Malaria,0
+2014-W35,Measles,3
+2014-W35,Melioidosis,2
+2014-W35,Meningococcal Infection,0
+2014-W35,Mumps,12
+2014-W35,Nipah virus infection,0
+2014-W35,Paratyphoid,0
+2014-W35,Pertussis,1
+2014-W35,Plague,0
+2014-W35,Pneumococcal Disease (invasive),2
+2014-W35,Poliomyelitis,0
+2014-W35,Rubella,1
+2014-W35,Salmonellosis(non-enteric fevers),36
+2014-W35,SARS,0
+2014-W35,Typhoid,0
+2014-W35,Viral Hepatitis A,1
+2014-W35,Viral Hepatitis E,4
+2014-W35,Yellow Fever,0
+2014-W36,Acute Viral hepatitis B,3
+2014-W36,Acute Viral hepatitis C,2
+2014-W36,Avian Influenza,0
+2014-W36,Campylobacterenterosis,7
+2014-W36,Chikungunya Fever,1
+2014-W36,Cholera,0
+2014-W36,Dengue Fever,339
+2014-W36,Dengue Haemorrhagic Fever,0
+2014-W36,Diphtheria,0
+2014-W36,Encephalitis,0
+2014-W36,Haemophilus influenzae type b,1
+2014-W36,"Hand, Foot Mouth Disease",523
+2014-W36,Legionellosis,1
+2014-W36,Malaria,1
+2014-W36,Measles,0
+2014-W36,Melioidosis,0
+2014-W36,Meningococcal Infection,1
+2014-W36,Mumps,6
+2014-W36,Nipah virus infection,0
+2014-W36,Paratyphoid,0
+2014-W36,Pertussis,0
+2014-W36,Plague,0
+2014-W36,Pneumococcal Disease (invasive),2
+2014-W36,Poliomyelitis,0
+2014-W36,Rubella,0
+2014-W36,Salmonellosis(non-enteric fevers),29
+2014-W36,SARS,0
+2014-W36,Typhoid,1
+2014-W36,Viral Hepatitis A,4
+2014-W36,Viral Hepatitis E,2
+2014-W36,Yellow Fever,0
+2014-W37,Acute Viral hepatitis B,3
+2014-W37,Acute Viral hepatitis C,1
+2014-W37,Avian Influenza,0
+2014-W37,Campylobacterenterosis,7
+2014-W37,Chikungunya Fever,0
+2014-W37,Cholera,0
+2014-W37,Dengue Fever,362
+2014-W37,Dengue Haemorrhagic Fever,0
+2014-W37,Diphtheria,0
+2014-W37,Encephalitis,2
+2014-W37,Haemophilus influenzae type b,0
+2014-W37,"Hand, Foot Mouth Disease",377
+2014-W37,Legionellosis,1
+2014-W37,Malaria,2
+2014-W37,Measles,0
+2014-W37,Melioidosis,2
+2014-W37,Meningococcal Infection,0
+2014-W37,Mumps,11
+2014-W37,Nipah virus infection,0
+2014-W37,Paratyphoid,1
+2014-W37,Pertussis,0
+2014-W37,Plague,0
+2014-W37,Pneumococcal Disease (invasive),5
+2014-W37,Poliomyelitis,0
+2014-W37,Rubella,1
+2014-W37,Salmonellosis(non-enteric fevers),44
+2014-W37,SARS,0
+2014-W37,Typhoid,0
+2014-W37,Viral Hepatitis A,1
+2014-W37,Viral Hepatitis E,0
+2014-W37,Yellow Fever,0
+2014-W38,Acute Viral hepatitis B,0
+2014-W38,Acute Viral hepatitis C,1
+2014-W38,Avian Influenza,0
+2014-W38,Campylobacterenterosis,2
+2014-W38,Chikungunya Fever,0
+2014-W38,Cholera,0
+2014-W38,Dengue Fever,396
+2014-W38,Dengue Haemorrhagic Fever,1
+2014-W38,Diphtheria,0
+2014-W38,Encephalitis,0
+2014-W38,Haemophilus influenzae type b,0
+2014-W38,"Hand, Foot Mouth Disease",502
+2014-W38,Legionellosis,1
+2014-W38,Malaria,1
+2014-W38,Measles,0
+2014-W38,Melioidosis,0
+2014-W38,Meningococcal Infection,1
+2014-W38,Mumps,7
+2014-W38,Nipah virus infection,0
+2014-W38,Paratyphoid,0
+2014-W38,Pertussis,0
+2014-W38,Plague,0
+2014-W38,Pneumococcal Disease (invasive),2
+2014-W38,Poliomyelitis,0
+2014-W38,Rubella,2
+2014-W38,Salmonellosis(non-enteric fevers),37
+2014-W38,SARS,0
+2014-W38,Typhoid,1
+2014-W38,Viral Hepatitis A,2
+2014-W38,Viral Hepatitis E,0
+2014-W38,Yellow Fever,0
+2014-W39,Acute Viral hepatitis B,1
+2014-W39,Acute Viral hepatitis C,1
+2014-W39,Avian Influenza,0
+2014-W39,Campylobacterenterosis,9
+2014-W39,Chikungunya Fever,1
+2014-W39,Cholera,0
+2014-W39,Dengue Fever,344
+2014-W39,Dengue Haemorrhagic Fever,1
+2014-W39,Diphtheria,0
+2014-W39,Encephalitis,1
+2014-W39,Haemophilus influenzae type b,0
+2014-W39,"Hand, Foot Mouth Disease",488
+2014-W39,Legionellosis,0
+2014-W39,Malaria,0
+2014-W39,Measles,0
+2014-W39,Melioidosis,1
+2014-W39,Meningococcal Infection,0
+2014-W39,Mumps,14
+2014-W39,Nipah virus infection,0
+2014-W39,Paratyphoid,1
+2014-W39,Pertussis,0
+2014-W39,Plague,0
+2014-W39,Pneumococcal Disease (invasive),7
+2014-W39,Poliomyelitis,0
+2014-W39,Rubella,0
+2014-W39,Salmonellosis(non-enteric fevers),41
+2014-W39,SARS,0
+2014-W39,Typhoid,2
+2014-W39,Viral Hepatitis A,1
+2014-W39,Viral Hepatitis E,1
+2014-W39,Yellow Fever,0
+2014-W40,Acute Viral hepatitis B,4
+2014-W40,Acute Viral hepatitis C,1
+2014-W40,Avian Influenza,0
+2014-W40,Campylobacterenterosis,4
+2014-W40,Chikungunya Fever,1
+2014-W40,Cholera,0
+2014-W40,Dengue Fever,339
+2014-W40,Dengue Haemorrhagic Fever,0
+2014-W40,Diphtheria,0
+2014-W40,Encephalitis,0
+2014-W40,Haemophilus influenzae type b,0
+2014-W40,"Hand, Foot Mouth Disease",512
+2014-W40,Legionellosis,0
+2014-W40,Malaria,2
+2014-W40,Measles,0
+2014-W40,Melioidosis,1
+2014-W40,Meningococcal Infection,0
+2014-W40,Mumps,7
+2014-W40,Nipah virus infection,0
+2014-W40,Paratyphoid,0
+2014-W40,Pertussis,2
+2014-W40,Plague,0
+2014-W40,Pneumococcal Disease (invasive),2
+2014-W40,Poliomyelitis,0
+2014-W40,Rubella,0
+2014-W40,Salmonellosis(non-enteric fevers),39
+2014-W40,SARS,0
+2014-W40,Typhoid,0
+2014-W40,Viral Hepatitis A,0
+2014-W40,Viral Hepatitis E,2
+2014-W40,Yellow Fever,0
+2014-W41,Acute Viral hepatitis B,1
+2014-W41,Acute Viral hepatitis C,4
+2014-W41,Avian Influenza,0
+2014-W41,Campylobacterenterosis,3
+2014-W41,Chikungunya Fever,0
+2014-W41,Cholera,1
+2014-W41,Dengue Fever,278
+2014-W41,Dengue Haemorrhagic Fever,0
+2014-W41,Diphtheria,0
+2014-W41,Encephalitis,1
+2014-W41,Haemophilus influenzae type b,0
+2014-W41,"Hand, Foot Mouth Disease",382
+2014-W41,Legionellosis,0
+2014-W41,Malaria,2
+2014-W41,Measles,0
+2014-W41,Melioidosis,0
+2014-W41,Meningococcal Infection,0
+2014-W41,Mumps,11
+2014-W41,Nipah virus infection,0
+2014-W41,Paratyphoid,0
+2014-W41,Pertussis,0
+2014-W41,Plague,0
+2014-W41,Pneumococcal Disease (invasive),2
+2014-W41,Poliomyelitis,0
+2014-W41,Rubella,0
+2014-W41,Salmonellosis(non-enteric fevers),29
+2014-W41,SARS,0
+2014-W41,Typhoid,1
+2014-W41,Viral Hepatitis A,1
+2014-W41,Viral Hepatitis E,1
+2014-W41,Yellow Fever,0
+2014-W42,Acute Viral hepatitis B,2
+2014-W42,Acute Viral hepatitis C,3
+2014-W42,Avian Influenza,0
+2014-W42,Campylobacterenterosis,12
+2014-W42,Chikungunya Fever,1
+2014-W42,Cholera,0
+2014-W42,Dengue Fever,297
+2014-W42,Dengue Haemorrhagic Fever,0
+2014-W42,Diphtheria,0
+2014-W42,Encephalitis,1
+2014-W42,Haemophilus influenzae type b,0
+2014-W42,"Hand, Foot Mouth Disease",385
+2014-W42,Legionellosis,3
+2014-W42,Malaria,1
+2014-W42,Measles,0
+2014-W42,Melioidosis,2
+2014-W42,Meningococcal Infection,0
+2014-W42,Mumps,12
+2014-W42,Nipah virus infection,0
+2014-W42,Paratyphoid,0
+2014-W42,Pertussis,0
+2014-W42,Plague,0
+2014-W42,Pneumococcal Disease (invasive),3
+2014-W42,Poliomyelitis,0
+2014-W42,Rubella,0
+2014-W42,Salmonellosis(non-enteric fevers),42
+2014-W42,SARS,0
+2014-W42,Typhoid,1
+2014-W42,Viral Hepatitis A,1
+2014-W42,Viral Hepatitis E,0
+2014-W42,Yellow Fever,0
+2014-W43,Acute Viral hepatitis B,1
+2014-W43,Acute Viral hepatitis C,2
+2014-W43,Avian Influenza,0
+2014-W43,Campylobacterenterosis,8
+2014-W43,Chikungunya Fever,1
+2014-W43,Cholera,0
+2014-W43,Dengue Fever,213
+2014-W43,Dengue Haemorrhagic Fever,0
+2014-W43,Diphtheria,0
+2014-W43,Encephalitis,1
+2014-W43,Haemophilus influenzae type b,0
+2014-W43,"Hand, Foot Mouth Disease",364
+2014-W43,Legionellosis,0
+2014-W43,Malaria,1
+2014-W43,Measles,0
+2014-W43,Melioidosis,0
+2014-W43,Meningococcal Infection,0
+2014-W43,Mumps,6
+2014-W43,Nipah virus infection,0
+2014-W43,Paratyphoid,0
+2014-W43,Pertussis,2
+2014-W43,Plague,0
+2014-W43,Pneumococcal Disease (invasive),3
+2014-W43,Poliomyelitis,0
+2014-W43,Rubella,0
+2014-W43,Salmonellosis(non-enteric fevers),35
+2014-W43,SARS,0
+2014-W43,Typhoid,0
+2014-W43,Viral Hepatitis A,1
+2014-W43,Viral Hepatitis E,1
+2014-W43,Yellow Fever,0
+2014-W44,Acute Viral hepatitis B,10
+2014-W44,Acute Viral hepatitis C,1
+2014-W44,Avian Influenza,0
+2014-W44,Campylobacterenterosis,4
+2014-W44,Chikungunya Fever,0
+2014-W44,Cholera,0
+2014-W44,Dengue Fever,186
+2014-W44,Dengue Haemorrhagic Fever,0
+2014-W44,Diphtheria,0
+2014-W44,Encephalitis,1
+2014-W44,Haemophilus influenzae type b,0
+2014-W44,"Hand, Foot Mouth Disease",377
+2014-W44,Legionellosis,1
+2014-W44,Malaria,1
+2014-W44,Measles,1
+2014-W44,Melioidosis,1
+2014-W44,Meningococcal Infection,0
+2014-W44,Mumps,7
+2014-W44,Nipah virus infection,0
+2014-W44,Paratyphoid,0
+2014-W44,Pertussis,0
+2014-W44,Plague,0
+2014-W44,Pneumococcal Disease (invasive),4
+2014-W44,Poliomyelitis,0
+2014-W44,Rubella,0
+2014-W44,Salmonellosis(non-enteric fevers),32
+2014-W44,SARS,0
+2014-W44,Typhoid,0
+2014-W44,Viral Hepatitis A,2
+2014-W44,Viral Hepatitis E,3
+2014-W44,Yellow Fever,0
+2014-W45,Acute Viral hepatitis B,4
+2014-W45,Acute Viral hepatitis C,2
+2014-W45,Avian Influenza,0
+2014-W45,Campylobacterenterosis,8
+2014-W45,Chikungunya Fever,0
+2014-W45,Cholera,0
+2014-W45,Dengue Fever,168
+2014-W45,Dengue Haemorrhagic Fever,1
+2014-W45,Diphtheria,0
+2014-W45,Encephalitis,1
+2014-W45,Haemophilus influenzae type b,0
+2014-W45,"Hand, Foot Mouth Disease",400
+2014-W45,Legionellosis,0
+2014-W45,Malaria,4
+2014-W45,Measles,0
+2014-W45,Melioidosis,0
+2014-W45,Meningococcal Infection,0
+2014-W45,Mumps,7
+2014-W45,Nipah virus infection,0
+2014-W45,Paratyphoid,0
+2014-W45,Pertussis,0
+2014-W45,Plague,0
+2014-W45,Pneumococcal Disease (invasive),3
+2014-W45,Poliomyelitis,0
+2014-W45,Rubella,1
+2014-W45,Salmonellosis(non-enteric fevers),37
+2014-W45,SARS,0
+2014-W45,Typhoid,0
+2014-W45,Viral Hepatitis A,0
+2014-W45,Viral Hepatitis E,1
+2014-W45,Yellow Fever,0
+2014-W46,Acute Viral hepatitis B,3
+2014-W46,Acute Viral hepatitis C,0
+2014-W46,Avian Influenza,0
+2014-W46,Campylobacterenterosis,4
+2014-W46,Chikungunya Fever,0
+2014-W46,Cholera,0
+2014-W46,Dengue Fever,158
+2014-W46,Dengue Haemorrhagic Fever,0
+2014-W46,Diphtheria,0
+2014-W46,Encephalitis,0
+2014-W46,Haemophilus influenzae type b,0
+2014-W46,"Hand, Foot Mouth Disease",359
+2014-W46,Legionellosis,2
+2014-W46,Malaria,1
+2014-W46,Measles,0
+2014-W46,Melioidosis,0
+2014-W46,Meningococcal Infection,0
+2014-W46,Mumps,8
+2014-W46,Nipah virus infection,0
+2014-W46,Paratyphoid,0
+2014-W46,Pertussis,0
+2014-W46,Plague,0
+2014-W46,Pneumococcal Disease (invasive),2
+2014-W46,Poliomyelitis,0
+2014-W46,Rubella,0
+2014-W46,Salmonellosis(non-enteric fevers),42
+2014-W46,SARS,0
+2014-W46,Typhoid,1
+2014-W46,Viral Hepatitis A,1
+2014-W46,Viral Hepatitis E,1
+2014-W46,Yellow Fever,0
+2014-W47,Acute Viral hepatitis B,3
+2014-W47,Acute Viral hepatitis C,0
+2014-W47,Avian Influenza,0
+2014-W47,Campylobacterenterosis,4
+2014-W47,Chikungunya Fever,1
+2014-W47,Cholera,0
+2014-W47,Dengue Fever,149
+2014-W47,Dengue Haemorrhagic Fever,0
+2014-W47,Diphtheria,0
+2014-W47,Encephalitis,0
+2014-W47,Haemophilus influenzae type b,0
+2014-W47,"Hand, Foot Mouth Disease",357
+2014-W47,Legionellosis,1
+2014-W47,Malaria,0
+2014-W47,Measles,0
+2014-W47,Melioidosis,0
+2014-W47,Meningococcal Infection,0
+2014-W47,Mumps,14
+2014-W47,Nipah virus infection,0
+2014-W47,Paratyphoid,1
+2014-W47,Pertussis,0
+2014-W47,Plague,0
+2014-W47,Pneumococcal Disease (invasive),8
+2014-W47,Poliomyelitis,0
+2014-W47,Rubella,0
+2014-W47,Salmonellosis(non-enteric fevers),34
+2014-W47,SARS,0
+2014-W47,Typhoid,1
+2014-W47,Viral Hepatitis A,1
+2014-W47,Viral Hepatitis E,1
+2014-W47,Yellow Fever,0
+2014-W48,Acute Viral hepatitis B,0
+2014-W48,Acute Viral hepatitis C,0
+2014-W48,Avian Influenza,0
+2014-W48,Campylobacterenterosis,8
+2014-W48,Chikungunya Fever,1
+2014-W48,Cholera,0
+2014-W48,Dengue Fever,162
+2014-W48,Dengue Haemorrhagic Fever,0
+2014-W48,Diphtheria,0
+2014-W48,Encephalitis,0
+2014-W48,Haemophilus influenzae type b,0
+2014-W48,"Hand, Foot Mouth Disease",356
+2014-W48,Legionellosis,0
+2014-W48,Malaria,0
+2014-W48,Measles,0
+2014-W48,Melioidosis,2
+2014-W48,Meningococcal Infection,1
+2014-W48,Mumps,5
+2014-W48,Nipah virus infection,0
+2014-W48,Paratyphoid,0
+2014-W48,Pertussis,0
+2014-W48,Plague,0
+2014-W48,Pneumococcal Disease (invasive),1
+2014-W48,Poliomyelitis,0
+2014-W48,Rubella,1
+2014-W48,Salmonellosis(non-enteric fevers),24
+2014-W48,SARS,0
+2014-W48,Typhoid,1
+2014-W48,Viral Hepatitis A,1
+2014-W48,Viral Hepatitis E,2
+2014-W48,Yellow Fever,0
+2014-W49,Acute Viral hepatitis B,0
+2014-W49,Acute Viral hepatitis C,0
+2014-W49,Avian Influenza,0
+2014-W49,Campylobacterenterosis,8
+2014-W49,Chikungunya Fever,1
+2014-W49,Cholera,0
+2014-W49,Dengue Fever,212
+2014-W49,Dengue Haemorrhagic Fever,0
+2014-W49,Diphtheria,0
+2014-W49,Encephalitis,1
+2014-W49,Haemophilus influenzae type b,0
+2014-W49,"Hand, Foot Mouth Disease",302
+2014-W49,Legionellosis,1
+2014-W49,Malaria,1
+2014-W49,Measles,0
+2014-W49,Melioidosis,0
+2014-W49,Meningococcal Infection,0
+2014-W49,Mumps,8
+2014-W49,Nipah virus infection,0
+2014-W49,Paratyphoid,0
+2014-W49,Pertussis,0
+2014-W49,Plague,0
+2014-W49,Pneumococcal Disease (invasive),0
+2014-W49,Poliomyelitis,0
+2014-W49,Rubella,0
+2014-W49,Salmonellosis(non-enteric fevers),29
+2014-W49,SARS,0
+2014-W49,Typhoid,0
+2014-W49,Viral Hepatitis A,0
+2014-W49,Viral Hepatitis E,5
+2014-W49,Yellow Fever,0
+2014-W50,Acute Viral hepatitis B,2
+2014-W50,Acute Viral hepatitis C,0
+2014-W50,Avian Influenza,0
+2014-W50,Campylobacterenterosis,9
+2014-W50,Chikungunya Fever,1
+2014-W50,Cholera,0
+2014-W50,Dengue Fever,177
+2014-W50,Dengue Haemorrhagic Fever,0
+2014-W50,Diphtheria,0
+2014-W50,Encephalitis,1
+2014-W50,Haemophilus influenzae type b,0
+2014-W50,"Hand, Foot Mouth Disease",371
+2014-W50,Legionellosis,0
+2014-W50,Malaria,1
+2014-W50,Measles,1
+2014-W50,Melioidosis,0
+2014-W50,Meningococcal Infection,1
+2014-W50,Mumps,5
+2014-W50,Nipah virus infection,0
+2014-W50,Paratyphoid,0
+2014-W50,Pertussis,2
+2014-W50,Plague,0
+2014-W50,Pneumococcal Disease (invasive),5
+2014-W50,Poliomyelitis,0
+2014-W50,Rubella,0
+2014-W50,Salmonellosis(non-enteric fevers),22
+2014-W50,SARS,0
+2014-W50,Typhoid,2
+2014-W50,Viral Hepatitis A,0
+2014-W50,Viral Hepatitis E,1
+2014-W50,Yellow Fever,0
+2014-W51,Acute Viral hepatitis B,2
+2014-W51,Acute Viral hepatitis C,2
+2014-W51,Avian Influenza,0
+2014-W51,Campylobacterenterosis,3
+2014-W51,Chikungunya Fever,0
+2014-W51,Cholera,0
+2014-W51,Dengue Fever,198
+2014-W51,Dengue Haemorrhagic Fever,0
+2014-W51,Diphtheria,0
+2014-W51,Encephalitis,0
+2014-W51,Haemophilus influenzae type b,0
+2014-W51,"Hand, Foot Mouth Disease",439
+2014-W51,Legionellosis,1
+2014-W51,Malaria,0
+2014-W51,Measles,0
+2014-W51,Melioidosis,1
+2014-W51,Meningococcal Infection,1
+2014-W51,Mumps,10
+2014-W51,Nipah virus infection,0
+2014-W51,Paratyphoid,0
+2014-W51,Pertussis,0
+2014-W51,Plague,0
+2014-W51,Pneumococcal Disease (invasive),4
+2014-W51,Poliomyelitis,0
+2014-W51,Rubella,0
+2014-W51,Salmonellosis(non-enteric fevers),27
+2014-W51,SARS,0
+2014-W51,Typhoid,0
+2014-W51,Viral Hepatitis A,1
+2014-W51,Viral Hepatitis E,0
+2014-W51,Yellow Fever,0
+2014-W52,Acute Viral hepatitis B,0
+2014-W52,Acute Viral hepatitis C,0
+2014-W52,Avian Influenza,0
+2014-W52,Campylobacterenterosis,5
+2014-W52,Chikungunya Fever,0
+2014-W52,Cholera,0
+2014-W52,Dengue Fever,188
+2014-W52,Dengue Haemorrhagic Fever,0
+2014-W52,Diphtheria,0
+2014-W52,Encephalitis,0
+2014-W52,Haemophilus influenzae type b,0
+2014-W52,"Hand, Foot Mouth Disease",398
+2014-W52,Legionellosis,1
+2014-W52,Malaria,1
+2014-W52,Measles,1
+2014-W52,Melioidosis,1
+2014-W52,Meningococcal Infection,0
+2014-W52,Mumps,7
+2014-W52,Nipah virus infection,0
+2014-W52,Paratyphoid,0
+2014-W52,Pertussis,0
+2014-W52,Plague,0
+2014-W52,Pneumococcal Disease (invasive),5
+2014-W52,Poliomyelitis,0
+2014-W52,Rubella,0
+2014-W52,Salmonellosis(non-enteric fevers),27
+2014-W52,SARS,0
+2014-W52,Typhoid,0
+2014-W52,Viral Hepatitis A,2
+2014-W52,Viral Hepatitis E,1
+2014-W52,Yellow Fever,0
+2014-W53,Acute Viral hepatitis B,1
+2014-W53,Acute Viral hepatitis C,2
+2014-W53,Avian Influenza,0
+2014-W53,Campylobacterenterosis,8
+2014-W53,Chikungunya Fever,0
+2014-W53,Cholera,0
+2014-W53,Dengue Fever,158
+2014-W53,Dengue Haemorrhagic Fever,0
+2014-W53,Diphtheria,0
+2014-W53,Encephalitis,0
+2014-W53,Haemophilus influenzae type b,0
+2014-W53,"Hand, Foot Mouth Disease",375
+2014-W53,Legionellosis,0
+2014-W53,Malaria,1
+2014-W53,Measles,1
+2014-W53,Melioidosis,1
+2014-W53,Meningococcal Infection,0
+2014-W53,Mumps,6
+2014-W53,Nipah virus infection,0
+2014-W53,Paratyphoid,0
+2014-W53,Pertussis,0
+2014-W53,Plague,0
+2014-W53,Pneumococcal Disease (invasive),3
+2014-W53,Poliomyelitis,0
+2014-W53,Rubella,0
+2014-W53,Salmonellosis(non-enteric fevers),29
+2014-W53,SARS,0
+2014-W53,Typhoid,2
+2014-W53,Viral Hepatitis A,1
+2014-W53,Viral Hepatitis E,2
+2014-W53,Yellow Fever,0
+2015-W01,Acute Viral hepatitis B,2
+2015-W01,Acute Viral hepatitis C,1
+2015-W01,Avian Influenza,0
+2015-W01,Campylobacterenterosis,12
+2015-W01,Chikungunya Fever,2
+2015-W01,Cholera,0
+2015-W01,Dengue Fever,256
+2015-W01,Dengue Haemorrhagic Fever,1
+2015-W01,Diphtheria,0
+2015-W01,Encephalitis,1
+2015-W01,Haemophilus influenzae type b,0
+2015-W01,"Hand, Foot Mouth Disease",422
+2015-W01,Legionellosis,0
+2015-W01,Malaria,1
+2015-W01,Measles,0
+2015-W01,Melioidosis,2
+2015-W01,Meningococcal Infection,0
+2015-W01,Mumps,8
+2015-W01,Nipah virus infection,0
+2015-W01,Paratyphoid,2
+2015-W01,Pertussis,2
+2015-W01,Plague,0
+2015-W01,Pneumococcal Disease (invasive),3
+2015-W01,Poliomyelitis,0
+2015-W01,Rubella,1
+2015-W01,Salmonellosis(non-enteric fevers),44
+2015-W01,SARS,0
+2015-W01,Typhoid,1
+2015-W01,Viral Hepatitis A,0
+2015-W01,Viral Hepatitis E,0
+2015-W01,Yellow Fever,0
+2015-W02,Acute Viral hepatitis B,0
+2015-W02,Acute Viral hepatitis C,0
+2015-W02,Avian Influenza,0
+2015-W02,Campylobacterenterosis,9
+2015-W02,Chikungunya Fever,1
+2015-W02,Cholera,0
+2015-W02,Dengue Fever,228
+2015-W02,Dengue Haemorrhagic Fever,0
+2015-W02,Diphtheria,0
+2015-W02,Encephalitis,2
+2015-W02,Haemophilus influenzae type b,0
+2015-W02,"Hand, Foot Mouth Disease",554
+2015-W02,Legionellosis,1
+2015-W02,Malaria,0
+2015-W02,Measles,0
+2015-W02,Melioidosis,1
+2015-W02,Meningococcal Infection,1
+2015-W02,Mumps,10
+2015-W02,Nipah virus infection,0
+2015-W02,Paratyphoid,1
+2015-W02,Pertussis,2
+2015-W02,Plague,0
+2015-W02,Pneumococcal Disease (invasive),3
+2015-W02,Poliomyelitis,0
+2015-W02,Rubella,0
+2015-W02,Salmonellosis(non-enteric fevers),40
+2015-W02,SARS,0
+2015-W02,Typhoid,2
+2015-W02,Viral Hepatitis A,1
+2015-W02,Viral Hepatitis E,0
+2015-W02,Yellow Fever,0
+2015-W03,Acute Viral hepatitis B,0
+2015-W03,Acute Viral hepatitis C,0
+2015-W03,Avian Influenza,0
+2015-W03,Campylobacterenterosis,9
+2015-W03,Chikungunya Fever,0
+2015-W03,Cholera,0
+2015-W03,Dengue Fever,237
+2015-W03,Dengue Haemorrhagic Fever,0
+2015-W03,Diphtheria,0
+2015-W03,Encephalitis,0
+2015-W03,Haemophilus influenzae type b,0
+2015-W03,"Hand, Foot Mouth Disease",492
+2015-W03,Legionellosis,0
+2015-W03,Malaria,0
+2015-W03,Measles,0
+2015-W03,Melioidosis,1
+2015-W03,Meningococcal Infection,0
+2015-W03,Mumps,9
+2015-W03,Nipah virus infection,0
+2015-W03,Paratyphoid,0
+2015-W03,Pertussis,1
+2015-W03,Plague,0
+2015-W03,Pneumococcal Disease (invasive),2
+2015-W03,Poliomyelitis,0
+2015-W03,Rubella,0
+2015-W03,Salmonellosis(non-enteric fevers),30
+2015-W03,SARS,0
+2015-W03,Typhoid,2
+2015-W03,Viral Hepatitis A,5
+2015-W03,Viral Hepatitis E,1
+2015-W03,Yellow Fever,0
+2015-W04,Acute Viral hepatitis B,0
+2015-W04,Acute Viral hepatitis C,0
+2015-W04,Avian Influenza,0
+2015-W04,Campylobacterenterosis,10
+2015-W04,Chikungunya Fever,1
+2015-W04,Cholera,0
+2015-W04,Dengue Fever,259
+2015-W04,Dengue Haemorrhagic Fever,0
+2015-W04,Diphtheria,0
+2015-W04,Encephalitis,2
+2015-W04,Haemophilus influenzae type b,0
+2015-W04,"Hand, Foot Mouth Disease",502
+2015-W04,Legionellosis,1
+2015-W04,Malaria,0
+2015-W04,Measles,0
+2015-W04,Melioidosis,0
+2015-W04,Meningococcal Infection,0
+2015-W04,Mumps,10
+2015-W04,Nipah virus infection,0
+2015-W04,Paratyphoid,0
+2015-W04,Pertussis,2
+2015-W04,Plague,0
+2015-W04,Pneumococcal Disease (invasive),2
+2015-W04,Poliomyelitis,0
+2015-W04,Rubella,0
+2015-W04,Salmonellosis(non-enteric fevers),21
+2015-W04,SARS,0
+2015-W04,Typhoid,4
+2015-W04,Viral Hepatitis A,0
+2015-W04,Viral Hepatitis E,2
+2015-W04,Yellow Fever,0
+2015-W05,Acute Viral hepatitis B,0
+2015-W05,Acute Viral hepatitis C,0
+2015-W05,Avian Influenza,0
+2015-W05,Campylobacterenterosis,4
+2015-W05,Chikungunya Fever,2
+2015-W05,Cholera,0
+2015-W05,Dengue Fever,212
+2015-W05,Dengue Haemorrhagic Fever,0
+2015-W05,Diphtheria,0
+2015-W05,Encephalitis,0
+2015-W05,Haemophilus influenzae type b,0
+2015-W05,"Hand, Foot Mouth Disease",492
+2015-W05,Legionellosis,0
+2015-W05,Malaria,0
+2015-W05,Measles,2
+2015-W05,Melioidosis,1
+2015-W05,Meningococcal Infection,0
+2015-W05,Mumps,12
+2015-W05,Nipah virus infection,0
+2015-W05,Paratyphoid,0
+2015-W05,Pertussis,2
+2015-W05,Plague,0
+2015-W05,Pneumococcal Disease (invasive),3
+2015-W05,Poliomyelitis,0
+2015-W05,Rubella,0
+2015-W05,Salmonellosis(non-enteric fevers),22
+2015-W05,SARS,0
+2015-W05,Typhoid,1
+2015-W05,Viral Hepatitis A,1
+2015-W05,Viral Hepatitis E,1
+2015-W05,Yellow Fever,0
+2015-W06,Acute Viral hepatitis B,2
+2015-W06,Acute Viral hepatitis C,2
+2015-W06,Avian Influenza,0
+2015-W06,Campylobacterenterosis,5
+2015-W06,Chikungunya Fever,0
+2015-W06,Cholera,0
+2015-W06,Dengue Fever,173
+2015-W06,Dengue Haemorrhagic Fever,0
+2015-W06,Diphtheria,0
+2015-W06,Encephalitis,0
+2015-W06,Haemophilus influenzae type b,0
+2015-W06,"Hand, Foot Mouth Disease",690
+2015-W06,Legionellosis,1
+2015-W06,Malaria,1
+2015-W06,Measles,0
+2015-W06,Melioidosis,0
+2015-W06,Meningococcal Infection,0
+2015-W06,Mumps,11
+2015-W06,Nipah virus infection,0
+2015-W06,Paratyphoid,0
+2015-W06,Pertussis,1
+2015-W06,Plague,0
+2015-W06,Pneumococcal Disease (invasive),2
+2015-W06,Poliomyelitis,0
+2015-W06,Rubella,1
+2015-W06,Salmonellosis(non-enteric fevers),31
+2015-W06,SARS,0
+2015-W06,Typhoid,1
+2015-W06,Viral Hepatitis A,3
+2015-W06,Viral Hepatitis E,1
+2015-W06,Yellow Fever,0
+2015-W07,Acute Viral hepatitis B,0
+2015-W07,Acute Viral hepatitis C,0
+2015-W07,Avian Influenza,0
+2015-W07,Campylobacterenterosis,11
+2015-W07,Chikungunya Fever,1
+2015-W07,Cholera,0
+2015-W07,Dengue Fever,99
+2015-W07,Dengue Haemorrhagic Fever,1
+2015-W07,Diphtheria,0
+2015-W07,Encephalitis,0
+2015-W07,Haemophilus influenzae type b,0
+2015-W07,"Hand, Foot Mouth Disease",417
+2015-W07,Legionellosis,0
+2015-W07,Malaria,0
+2015-W07,Measles,1
+2015-W07,Melioidosis,1
+2015-W07,Meningococcal Infection,0
+2015-W07,Mumps,9
+2015-W07,Nipah virus infection,0
+2015-W07,Paratyphoid,0
+2015-W07,Pertussis,1
+2015-W07,Plague,0
+2015-W07,Pneumococcal Disease (invasive),3
+2015-W07,Poliomyelitis,0
+2015-W07,Rubella,1
+2015-W07,Salmonellosis(non-enteric fevers),24
+2015-W07,SARS,0
+2015-W07,Typhoid,1
+2015-W07,Viral Hepatitis A,1
+2015-W07,Viral Hepatitis E,1
+2015-W07,Yellow Fever,0
+2015-W08,Acute Viral hepatitis B,2
+2015-W08,Acute Viral hepatitis C,0
+2015-W08,Avian Influenza,0
+2015-W08,Campylobacterenterosis,17
+2015-W08,Chikungunya Fever,0
+2015-W08,Cholera,0
+2015-W08,Dengue Fever,172
+2015-W08,Dengue Haemorrhagic Fever,0
+2015-W08,Diphtheria,0
+2015-W08,Encephalitis,2
+2015-W08,Haemophilus influenzae type b,0
+2015-W08,"Hand, Foot Mouth Disease",573
+2015-W08,Legionellosis,1
+2015-W08,Malaria,0
+2015-W08,Measles,2
+2015-W08,Melioidosis,2
+2015-W08,Meningococcal Infection,0
+2015-W08,Mumps,11
+2015-W08,Nipah virus infection,0
+2015-W08,Paratyphoid,1
+2015-W08,Pertussis,1
+2015-W08,Plague,0
+2015-W08,Pneumococcal Disease (invasive),5
+2015-W08,Poliomyelitis,0
+2015-W08,Rubella,0
+2015-W08,Salmonellosis(non-enteric fevers),30
+2015-W08,SARS,0
+2015-W08,Typhoid,0
+2015-W08,Viral Hepatitis A,2
+2015-W08,Viral Hepatitis E,0
+2015-W08,Yellow Fever,0
+2015-W09,Acute Viral hepatitis B,2
+2015-W09,Acute Viral hepatitis C,0
+2015-W09,Avian Influenza,0
+2015-W09,Campylobacterenterosis,8
+2015-W09,Chikungunya Fever,0
+2015-W09,Cholera,0
+2015-W09,Dengue Fever,189
+2015-W09,Dengue Haemorrhagic Fever,1
+2015-W09,Diphtheria,0
+2015-W09,Encephalitis,0
+2015-W09,Haemophilus influenzae type b,0
+2015-W09,"Hand, Foot Mouth Disease",645
+2015-W09,Legionellosis,0
+2015-W09,Malaria,0
+2015-W09,Measles,0
+2015-W09,Melioidosis,1
+2015-W09,Meningococcal Infection,0
+2015-W09,Mumps,2
+2015-W09,Nipah virus infection,0
+2015-W09,Paratyphoid,1
+2015-W09,Pertussis,0
+2015-W09,Plague,0
+2015-W09,Pneumococcal Disease (invasive),1
+2015-W09,Poliomyelitis,0
+2015-W09,Rubella,0
+2015-W09,Salmonellosis(non-enteric fevers),31
+2015-W09,SARS,0
+2015-W09,Typhoid,0
+2015-W09,Viral Hepatitis A,0
+2015-W09,Viral Hepatitis E,0
+2015-W09,Yellow Fever,0
+2015-W10,Acute Viral hepatitis B,3
+2015-W10,Acute Viral hepatitis C,0
+2015-W10,Avian Influenza,0
+2015-W10,Campylobacterenterosis,5
+2015-W10,Chikungunya Fever,0
+2015-W10,Cholera,0
+2015-W10,Dengue Fever,110
+2015-W10,Dengue Haemorrhagic Fever,0
+2015-W10,Diphtheria,0
+2015-W10,Encephalitis,0
+2015-W10,Haemophilus influenzae type b,0
+2015-W10,"Hand, Foot Mouth Disease",609
+2015-W10,Legionellosis,1
+2015-W10,Malaria,1
+2015-W10,Measles,0
+2015-W10,Melioidosis,0
+2015-W10,Meningococcal Infection,0
+2015-W10,Mumps,6
+2015-W10,Nipah virus infection,0
+2015-W10,Paratyphoid,1
+2015-W10,Pertussis,1
+2015-W10,Plague,0
+2015-W10,Pneumococcal Disease (invasive),2
+2015-W10,Poliomyelitis,0
+2015-W10,Rubella,0
+2015-W10,Salmonellosis(non-enteric fevers),27
+2015-W10,SARS,0
+2015-W10,Typhoid,1
+2015-W10,Viral Hepatitis A,0
+2015-W10,Viral Hepatitis E,1
+2015-W10,Yellow Fever,0
+2015-W11,Acute Viral hepatitis B,1
+2015-W11,Acute Viral hepatitis C,1
+2015-W11,Avian Influenza,0
+2015-W11,Campylobacterenterosis,7
+2015-W11,Chikungunya Fever,1
+2015-W11,Cholera,0
+2015-W11,Dengue Fever,91
+2015-W11,Dengue Haemorrhagic Fever,0
+2015-W11,Diphtheria,0
+2015-W11,Encephalitis,0
+2015-W11,Haemophilus influenzae type b,0
+2015-W11,"Hand, Foot Mouth Disease",556
+2015-W11,Legionellosis,1
+2015-W11,Malaria,1
+2015-W11,Measles,0
+2015-W11,Melioidosis,0
+2015-W11,Meningococcal Infection,0
+2015-W11,Mumps,8
+2015-W11,Nipah virus infection,0
+2015-W11,Paratyphoid,4
+2015-W11,Pertussis,1
+2015-W11,Plague,0
+2015-W11,Pneumococcal Disease (invasive),1
+2015-W11,Poliomyelitis,0
+2015-W11,Rubella,1
+2015-W11,Salmonellosis(non-enteric fevers),27
+2015-W11,SARS,0
+2015-W11,Typhoid,2
+2015-W11,Viral Hepatitis A,0
+2015-W11,Viral Hepatitis E,0
+2015-W11,Yellow Fever,0
+2015-W12,Acute Viral hepatitis B,3
+2015-W12,Acute Viral hepatitis C,0
+2015-W12,Avian Influenza,0
+2015-W12,Campylobacterenterosis,4
+2015-W12,Chikungunya Fever,0
+2015-W12,Cholera,0
+2015-W12,Dengue Fever,129
+2015-W12,Dengue Haemorrhagic Fever,1
+2015-W12,Diphtheria,0
+2015-W12,Encephalitis,0
+2015-W12,Haemophilus influenzae type b,0
+2015-W12,"Hand, Foot Mouth Disease",558
+2015-W12,Legionellosis,0
+2015-W12,Malaria,0
+2015-W12,Measles,0
+2015-W12,Melioidosis,1
+2015-W12,Meningococcal Infection,0
+2015-W12,Mumps,5
+2015-W12,Nipah virus infection,0
+2015-W12,Paratyphoid,1
+2015-W12,Pertussis,2
+2015-W12,Plague,0
+2015-W12,Pneumococcal Disease (invasive),0
+2015-W12,Poliomyelitis,0
+2015-W12,Rubella,0
+2015-W12,Salmonellosis(non-enteric fevers),42
+2015-W12,SARS,0
+2015-W12,Typhoid,1
+2015-W12,Viral Hepatitis A,0
+2015-W12,Viral Hepatitis E,3
+2015-W12,Yellow Fever,0
+2015-W13,Acute Viral hepatitis B,1
+2015-W13,Acute Viral hepatitis C,0
+2015-W13,Avian Influenza,0
+2015-W13,Campylobacterenterosis,13
+2015-W13,Chikungunya Fever,1
+2015-W13,Cholera,0
+2015-W13,Dengue Fever,90
+2015-W13,Dengue Haemorrhagic Fever,1
+2015-W13,Diphtheria,0
+2015-W13,Encephalitis,0
+2015-W13,Haemophilus influenzae type b,0
+2015-W13,"Hand, Foot Mouth Disease",463
+2015-W13,Legionellosis,1
+2015-W13,Malaria,0
+2015-W13,Measles,0
+2015-W13,Melioidosis,2
+2015-W13,Meningococcal Infection,0
+2015-W13,Mumps,15
+2015-W13,Nipah virus infection,0
+2015-W13,Paratyphoid,1
+2015-W13,Pertussis,0
+2015-W13,Plague,0
+2015-W13,Pneumococcal Disease (invasive),1
+2015-W13,Poliomyelitis,0
+2015-W13,Rubella,0
+2015-W13,Salmonellosis(non-enteric fevers),31
+2015-W13,SARS,0
+2015-W13,Typhoid,0
+2015-W13,Viral Hepatitis A,1
+2015-W13,Viral Hepatitis E,0
+2015-W13,Yellow Fever,0
+2015-W14,Acute Viral hepatitis B,0
+2015-W14,Acute Viral hepatitis C,0
+2015-W14,Avian Influenza,0
+2015-W14,Campylobacterenterosis,1
+2015-W14,Chikungunya Fever,0
+2015-W14,Cholera,0
+2015-W14,Dengue Fever,107
+2015-W14,Dengue Haemorrhagic Fever,0
+2015-W14,Diphtheria,0
+2015-W14,Encephalitis,1
+2015-W14,Haemophilus influenzae type b,0
+2015-W14,"Hand, Foot Mouth Disease",537
+2015-W14,Legionellosis,0
+2015-W14,Malaria,5
+2015-W14,Measles,3
+2015-W14,Melioidosis,1
+2015-W14,Meningococcal Infection,0
+2015-W14,Mumps,12
+2015-W14,Nipah virus infection,0
+2015-W14,Paratyphoid,0
+2015-W14,Pertussis,1
+2015-W14,Plague,0
+2015-W14,Pneumococcal Disease (invasive),4
+2015-W14,Poliomyelitis,0
+2015-W14,Rubella,1
+2015-W14,Salmonellosis(non-enteric fevers),37
+2015-W14,SARS,0
+2015-W14,Typhoid,0
+2015-W14,Viral Hepatitis A,0
+2015-W14,Viral Hepatitis E,0
+2015-W14,Yellow Fever,0
+2015-W15,Acute Viral hepatitis B,0
+2015-W15,Acute Viral hepatitis C,0
+2015-W15,Avian Influenza,0
+2015-W15,Campylobacterenterosis,9
+2015-W15,Chikungunya Fever,1
+2015-W15,Cholera,0
+2015-W15,Dengue Fever,137
+2015-W15,Dengue Haemorrhagic Fever,0
+2015-W15,Diphtheria,0
+2015-W15,Encephalitis,1
+2015-W15,Haemophilus influenzae type b,0
+2015-W15,"Hand, Foot Mouth Disease",633
+2015-W15,Legionellosis,1
+2015-W15,Malaria,0
+2015-W15,Measles,4
+2015-W15,Melioidosis,0
+2015-W15,Meningococcal Infection,0
+2015-W15,Mumps,11
+2015-W15,Nipah virus infection,0
+2015-W15,Paratyphoid,1
+2015-W15,Pertussis,1
+2015-W15,Plague,0
+2015-W15,Pneumococcal Disease (invasive),2
+2015-W15,Poliomyelitis,0
+2015-W15,Rubella,0
+2015-W15,Salmonellosis(non-enteric fevers),34
+2015-W15,SARS,0
+2015-W15,Typhoid,0
+2015-W15,Viral Hepatitis A,0
+2015-W15,Viral Hepatitis E,2
+2015-W15,Yellow Fever,0
+2015-W16,Acute Viral hepatitis B,2
+2015-W16,Acute Viral hepatitis C,0
+2015-W16,Avian Influenza,0
+2015-W16,Campylobacterenterosis,14
+2015-W16,Chikungunya Fever,2
+2015-W16,Cholera,0
+2015-W16,Dengue Fever,113
+2015-W16,Dengue Haemorrhagic Fever,0
+2015-W16,Diphtheria,0
+2015-W16,Encephalitis,1
+2015-W16,Haemophilus influenzae type b,0
+2015-W16,"Hand, Foot Mouth Disease",693
+2015-W16,Legionellosis,1
+2015-W16,Malaria,1
+2015-W16,Measles,2
+2015-W16,Melioidosis,1
+2015-W16,Meningococcal Infection,0
+2015-W16,Mumps,13
+2015-W16,Nipah virus infection,0
+2015-W16,Paratyphoid,2
+2015-W16,Pertussis,1
+2015-W16,Plague,0
+2015-W16,Pneumococcal Disease (invasive),0
+2015-W16,Poliomyelitis,0
+2015-W16,Rubella,0
+2015-W16,Salmonellosis(non-enteric fevers),40
+2015-W16,SARS,0
+2015-W16,Typhoid,1
+2015-W16,Viral Hepatitis A,1
+2015-W16,Viral Hepatitis E,2
+2015-W16,Yellow Fever,0
+2015-W17,Acute Viral hepatitis B,3
+2015-W17,Acute Viral hepatitis C,1
+2015-W17,Avian Influenza,0
+2015-W17,Campylobacterenterosis,8
+2015-W17,Chikungunya Fever,0
+2015-W17,Cholera,0
+2015-W17,Dengue Fever,120
+2015-W17,Dengue Haemorrhagic Fever,0
+2015-W17,Diphtheria,0
+2015-W17,Encephalitis,0
+2015-W17,Haemophilus influenzae type b,0
+2015-W17,"Hand, Foot Mouth Disease",721
+2015-W17,Legionellosis,0
+2015-W17,Malaria,1
+2015-W17,Measles,1
+2015-W17,Melioidosis,0
+2015-W17,Meningococcal Infection,0
+2015-W17,Mumps,6
+2015-W17,Nipah virus infection,0
+2015-W17,Paratyphoid,0
+2015-W17,Pertussis,2
+2015-W17,Plague,0
+2015-W17,Pneumococcal Disease (invasive),2
+2015-W17,Poliomyelitis,0
+2015-W17,Rubella,1
+2015-W17,Salmonellosis(non-enteric fevers),29
+2015-W17,SARS,0
+2015-W17,Typhoid,1
+2015-W17,Viral Hepatitis A,0
+2015-W17,Viral Hepatitis E,1
+2015-W17,Yellow Fever,0
+2015-W18,Acute Viral hepatitis B,1
+2015-W18,Acute Viral hepatitis C,0
+2015-W18,Avian Influenza,0
+2015-W18,Campylobacterenterosis,5
+2015-W18,Chikungunya Fever,1
+2015-W18,Cholera,0
+2015-W18,Dengue Fever,135
+2015-W18,Dengue Haemorrhagic Fever,0
+2015-W18,Diphtheria,0
+2015-W18,Encephalitis,1
+2015-W18,Haemophilus influenzae type b,0
+2015-W18,"Hand, Foot Mouth Disease",778
+2015-W18,Legionellosis,0
+2015-W18,Malaria,1
+2015-W18,Measles,0
+2015-W18,Melioidosis,1
+2015-W18,Meningococcal Infection,0
+2015-W18,Mumps,12
+2015-W18,Nipah virus infection,0
+2015-W18,Paratyphoid,0
+2015-W18,Pertussis,0
+2015-W18,Plague,0
+2015-W18,Pneumococcal Disease (invasive),4
+2015-W18,Poliomyelitis,0
+2015-W18,Rubella,0
+2015-W18,Salmonellosis(non-enteric fevers),31
+2015-W18,SARS,0
+2015-W18,Typhoid,2
+2015-W18,Viral Hepatitis A,0
+2015-W18,Viral Hepatitis E,2
+2015-W18,Yellow Fever,0
+2015-W19,Acute Viral hepatitis B,2
+2015-W19,Acute Viral hepatitis C,0
+2015-W19,Avian Influenza,0
+2015-W19,Campylobacterenterosis,8
+2015-W19,Chikungunya Fever,0
+2015-W19,Cholera,0
+2015-W19,Dengue Fever,157
+2015-W19,Dengue Haemorrhagic Fever,1
+2015-W19,Diphtheria,0
+2015-W19,Encephalitis,0
+2015-W19,Haemophilus influenzae type b,0
+2015-W19,"Hand, Foot Mouth Disease",782
+2015-W19,Legionellosis,1
+2015-W19,Malaria,1
+2015-W19,Measles,1
+2015-W19,Melioidosis,0
+2015-W19,Meningococcal Infection,0
+2015-W19,Mumps,12
+2015-W19,Nipah virus infection,0
+2015-W19,Paratyphoid,0
+2015-W19,Pertussis,2
+2015-W19,Plague,0
+2015-W19,Pneumococcal Disease (invasive),2
+2015-W19,Poliomyelitis,0
+2015-W19,Rubella,1
+2015-W19,Salmonellosis(non-enteric fevers),24
+2015-W19,SARS,0
+2015-W19,Typhoid,2
+2015-W19,Viral Hepatitis A,0
+2015-W19,Viral Hepatitis E,1
+2015-W19,Yellow Fever,0
+2015-W20,Acute Viral hepatitis B,2
+2015-W20,Acute Viral hepatitis C,0
+2015-W20,Avian Influenza,0
+2015-W20,Campylobacterenterosis,9
+2015-W20,Chikungunya Fever,0
+2015-W20,Cholera,0
+2015-W20,Dengue Fever,109
+2015-W20,Dengue Haemorrhagic Fever,0
+2015-W20,Diphtheria,0
+2015-W20,Encephalitis,0
+2015-W20,Haemophilus influenzae type b,0
+2015-W20,"Hand, Foot Mouth Disease",855
+2015-W20,Legionellosis,0
+2015-W20,Malaria,0
+2015-W20,Measles,1
+2015-W20,Melioidosis,0
+2015-W20,Meningococcal Infection,0
+2015-W20,Mumps,9
+2015-W20,Nipah virus infection,0
+2015-W20,Paratyphoid,0
+2015-W20,Pertussis,0
+2015-W20,Plague,0
+2015-W20,Pneumococcal Disease (invasive),6
+2015-W20,Poliomyelitis,0
+2015-W20,Rubella,0
+2015-W20,Salmonellosis(non-enteric fevers),36
+2015-W20,SARS,0
+2015-W20,Typhoid,1
+2015-W20,Viral Hepatitis A,2
+2015-W20,Viral Hepatitis E,0
+2015-W20,Yellow Fever,0
+2015-W21,Acute Viral hepatitis B,1
+2015-W21,Acute Viral hepatitis C,0
+2015-W21,Avian Influenza,0
+2015-W21,Campylobacterenterosis,9
+2015-W21,Chikungunya Fever,2
+2015-W21,Cholera,0
+2015-W21,Dengue Fever,178
+2015-W21,Dengue Haemorrhagic Fever,2
+2015-W21,Diphtheria,0
+2015-W21,Encephalitis,3
+2015-W21,Haemophilus influenzae type b,0
+2015-W21,"Hand, Foot Mouth Disease",1004
+2015-W21,Legionellosis,0
+2015-W21,Malaria,1
+2015-W21,Measles,1
+2015-W21,Melioidosis,1
+2015-W21,Meningococcal Infection,0
+2015-W21,Mumps,11
+2015-W21,Nipah virus infection,0
+2015-W21,Paratyphoid,0
+2015-W21,Pertussis,0
+2015-W21,Plague,0
+2015-W21,Pneumococcal Disease (invasive),2
+2015-W21,Poliomyelitis,0
+2015-W21,Rubella,1
+2015-W21,Salmonellosis(non-enteric fevers),36
+2015-W21,SARS,0
+2015-W21,Typhoid,1
+2015-W21,Viral Hepatitis A,1
+2015-W21,Viral Hepatitis E,2
+2015-W21,Yellow Fever,0
+2015-W22,Acute Viral hepatitis B,1
+2015-W22,Acute Viral hepatitis C,0
+2015-W22,Avian Influenza,0
+2015-W22,Campylobacterenterosis,7
+2015-W22,Chikungunya Fever,1
+2015-W22,Cholera,0
+2015-W22,Dengue Fever,151
+2015-W22,Dengue Haemorrhagic Fever,1
+2015-W22,Diphtheria,0
+2015-W22,Encephalitis,0
+2015-W22,Haemophilus influenzae type b,0
+2015-W22,"Hand, Foot Mouth Disease",721
+2015-W22,Legionellosis,0
+2015-W22,Malaria,1
+2015-W22,Measles,0
+2015-W22,Melioidosis,0
+2015-W22,Meningococcal Infection,0
+2015-W22,Mumps,9
+2015-W22,Nipah virus infection,0
+2015-W22,Paratyphoid,0
+2015-W22,Pertussis,0
+2015-W22,Plague,0
+2015-W22,Pneumococcal Disease (invasive),4
+2015-W22,Poliomyelitis,0
+2015-W22,Rubella,1
+2015-W22,Salmonellosis(non-enteric fevers),42
+2015-W22,SARS,0
+2015-W22,Typhoid,0
+2015-W22,Viral Hepatitis A,0
+2015-W22,Viral Hepatitis E,1
+2015-W22,Yellow Fever,0
+2015-W23,Acute Viral hepatitis B,1
+2015-W23,Acute Viral hepatitis C,0
+2015-W23,Avian Influenza,0
+2015-W23,Campylobacterenterosis,2
+2015-W23,Chikungunya Fever,0
+2015-W23,Cholera,0
+2015-W23,Dengue Fever,192
+2015-W23,Dengue Haemorrhagic Fever,1
+2015-W23,Diphtheria,0
+2015-W23,Encephalitis,1
+2015-W23,Haemophilus influenzae type b,0
+2015-W23,"Hand, Foot Mouth Disease",540
+2015-W23,Legionellosis,0
+2015-W23,Malaria,1
+2015-W23,Measles,1
+2015-W23,Melioidosis,3
+2015-W23,Meningococcal Infection,0
+2015-W23,Mumps,9
+2015-W23,Nipah virus infection,0
+2015-W23,Paratyphoid,0
+2015-W23,Pertussis,0
+2015-W23,Plague,0
+2015-W23,Pneumococcal Disease (invasive),2
+2015-W23,Poliomyelitis,0
+2015-W23,Rubella,0
+2015-W23,Salmonellosis(non-enteric fevers),26
+2015-W23,SARS,0
+2015-W23,Typhoid,1
+2015-W23,Viral Hepatitis A,1
+2015-W23,Viral Hepatitis E,1
+2015-W23,Yellow Fever,0
+2015-W24,Acute Viral hepatitis B,0
+2015-W24,Acute Viral hepatitis C,0
+2015-W24,Avian Influenza,0
+2015-W24,Campylobacterenterosis,5
+2015-W24,Chikungunya Fever,1
+2015-W24,Cholera,0
+2015-W24,Dengue Fever,207
+2015-W24,Dengue Haemorrhagic Fever,0
+2015-W24,Diphtheria,0
+2015-W24,Encephalitis,0
+2015-W24,Haemophilus influenzae type b,0
+2015-W24,"Hand, Foot Mouth Disease",541
+2015-W24,Legionellosis,1
+2015-W24,Malaria,1
+2015-W24,Measles,1
+2015-W24,Melioidosis,4
+2015-W24,Meningococcal Infection,1
+2015-W24,Mumps,13
+2015-W24,Nipah virus infection,0
+2015-W24,Paratyphoid,2
+2015-W24,Pertussis,1
+2015-W24,Plague,0
+2015-W24,Pneumococcal Disease (invasive),1
+2015-W24,Poliomyelitis,0
+2015-W24,Rubella,0
+2015-W24,Salmonellosis(non-enteric fevers),44
+2015-W24,SARS,0
+2015-W24,Typhoid,2
+2015-W24,Viral Hepatitis A,1
+2015-W24,Viral Hepatitis E,0
+2015-W24,Yellow Fever,0
+2015-W25,Acute Viral hepatitis B,2
+2015-W25,Acute Viral hepatitis C,0
+2015-W25,Avian Influenza,0
+2015-W25,Campylobacterenterosis,9
+2015-W25,Chikungunya Fever,0
+2015-W25,Cholera,0
+2015-W25,Dengue Fever,240
+2015-W25,Dengue Haemorrhagic Fever,0
+2015-W25,Diphtheria,0
+2015-W25,Encephalitis,0
+2015-W25,Haemophilus influenzae type b,0
+2015-W25,"Hand, Foot Mouth Disease",578
+2015-W25,Legionellosis,0
+2015-W25,Malaria,3
+2015-W25,Measles,0
+2015-W25,Melioidosis,0
+2015-W25,Meningococcal Infection,0
+2015-W25,Mumps,15
+2015-W25,Nipah virus infection,0
+2015-W25,Paratyphoid,0
+2015-W25,Pertussis,2
+2015-W25,Plague,0
+2015-W25,Pneumococcal Disease (invasive),5
+2015-W25,Poliomyelitis,0
+2015-W25,Rubella,0
+2015-W25,Salmonellosis(non-enteric fevers),39
+2015-W25,SARS,0
+2015-W25,Typhoid,1
+2015-W25,Viral Hepatitis A,0
+2015-W25,Viral Hepatitis E,1
+2015-W25,Yellow Fever,0
+2015-W26,Acute Viral hepatitis B,0
+2015-W26,Acute Viral hepatitis C,1
+2015-W26,Avian Influenza,0
+2015-W26,Campylobacterenterosis,7
+2015-W26,Chikungunya Fever,0
+2015-W26,Cholera,0
+2015-W26,Dengue Fever,242
+2015-W26,Dengue Haemorrhagic Fever,0
+2015-W26,Diphtheria,0
+2015-W26,Encephalitis,0
+2015-W26,Haemophilus influenzae type b,0
+2015-W26,"Hand, Foot Mouth Disease",455
+2015-W26,Legionellosis,0
+2015-W26,Malaria,0
+2015-W26,Measles,1
+2015-W26,Melioidosis,2
+2015-W26,Meningococcal Infection,1
+2015-W26,Mumps,10
+2015-W26,Nipah virus infection,0
+2015-W26,Paratyphoid,1
+2015-W26,Pertussis,1
+2015-W26,Plague,0
+2015-W26,Pneumococcal Disease (invasive),1
+2015-W26,Poliomyelitis,0
+2015-W26,Rubella,1
+2015-W26,Salmonellosis(non-enteric fevers),41
+2015-W26,SARS,0
+2015-W26,Typhoid,0
+2015-W26,Viral Hepatitis A,3
+2015-W26,Viral Hepatitis E,1
+2015-W26,Yellow Fever,0
+2015-W27,Acute Viral hepatitis B,1
+2015-W27,Acute Viral hepatitis C,0
+2015-W27,Avian Influenza,0
+2015-W27,Campylobacterenterosis,7
+2015-W27,Chikungunya Fever,0
+2015-W27,Cholera,0
+2015-W27,Dengue Fever,272
+2015-W27,Dengue Haemorrhagic Fever,0
+2015-W27,Diphtheria,0
+2015-W27,Encephalitis,0
+2015-W27,Haemophilus influenzae type b,0
+2015-W27,"Hand, Foot Mouth Disease",430
+2015-W27,Legionellosis,1
+2015-W27,Malaria,2
+2015-W27,Measles,5
+2015-W27,Melioidosis,0
+2015-W27,Meningococcal Infection,0
+2015-W27,Mumps,4
+2015-W27,Nipah virus infection,0
+2015-W27,Paratyphoid,0
+2015-W27,Pertussis,2
+2015-W27,Plague,0
+2015-W27,Pneumococcal Disease (invasive),5
+2015-W27,Poliomyelitis,0
+2015-W27,Rubella,0
+2015-W27,Salmonellosis(non-enteric fevers),23
+2015-W27,SARS,0
+2015-W27,Typhoid,0
+2015-W27,Viral Hepatitis A,4
+2015-W27,Viral Hepatitis E,0
+2015-W27,Yellow Fever,0
+2015-W28,Acute Viral hepatitis B,2
+2015-W28,Acute Viral hepatitis C,2
+2015-W28,Avian Influenza,0
+2015-W28,Campylobacterenterosis,6
+2015-W28,Chikungunya Fever,1
+2015-W28,Cholera,0
+2015-W28,Dengue Fever,263
+2015-W28,Dengue Haemorrhagic Fever,0
+2015-W28,Diphtheria,0
+2015-W28,Encephalitis,0
+2015-W28,Haemophilus influenzae type b,0
+2015-W28,"Hand, Foot Mouth Disease",385
+2015-W28,Legionellosis,0
+2015-W28,Malaria,2
+2015-W28,Measles,0
+2015-W28,Melioidosis,0
+2015-W28,Meningococcal Infection,0
+2015-W28,Mumps,10
+2015-W28,Nipah virus infection,0
+2015-W28,Paratyphoid,0
+2015-W28,Pertussis,0
+2015-W28,Plague,0
+2015-W28,Pneumococcal Disease (invasive),4
+2015-W28,Poliomyelitis,0
+2015-W28,Rubella,0
+2015-W28,Salmonellosis(non-enteric fevers),41
+2015-W28,SARS,0
+2015-W28,Typhoid,2
+2015-W28,Viral Hepatitis A,0
+2015-W28,Viral Hepatitis E,0
+2015-W28,Yellow Fever,0
+2015-W29,Acute Viral hepatitis B,3
+2015-W29,Acute Viral hepatitis C,2
+2015-W29,Avian Influenza,0
+2015-W29,Campylobacterenterosis,6
+2015-W29,Chikungunya Fever,3
+2015-W29,Cholera,0
+2015-W29,Dengue Fever,293
+2015-W29,Dengue Haemorrhagic Fever,0
+2015-W29,Diphtheria,0
+2015-W29,Encephalitis,1
+2015-W29,Haemophilus influenzae type b,0
+2015-W29,"Hand, Foot Mouth Disease",448
+2015-W29,Legionellosis,0
+2015-W29,Malaria,1
+2015-W29,Measles,2
+2015-W29,Melioidosis,0
+2015-W29,Meningococcal Infection,0
+2015-W29,Mumps,16
+2015-W29,Nipah virus infection,0
+2015-W29,Paratyphoid,0
+2015-W29,Pertussis,3
+2015-W29,Plague,0
+2015-W29,Pneumococcal Disease (invasive),3
+2015-W29,Poliomyelitis,0
+2015-W29,Rubella,0
+2015-W29,Salmonellosis(non-enteric fevers),43
+2015-W29,SARS,0
+2015-W29,Typhoid,0
+2015-W29,Viral Hepatitis A,0
+2015-W29,Viral Hepatitis E,1
+2015-W29,Yellow Fever,0
+2015-W30,Acute Viral hepatitis B,0
+2015-W30,Acute Viral hepatitis C,0
+2015-W30,Avian Influenza,0
+2015-W30,Campylobacterenterosis,7
+2015-W30,Chikungunya Fever,0
+2015-W30,Cholera,0
+2015-W30,Dengue Fever,250
+2015-W30,Dengue Haemorrhagic Fever,0
+2015-W30,Diphtheria,0
+2015-W30,Encephalitis,0
+2015-W30,Haemophilus influenzae type b,0
+2015-W30,"Hand, Foot Mouth Disease",438
+2015-W30,Legionellosis,0
+2015-W30,Malaria,2
+2015-W30,Measles,0
+2015-W30,Melioidosis,1
+2015-W30,Meningococcal Infection,1
+2015-W30,Mumps,5
+2015-W30,Nipah virus infection,0
+2015-W30,Paratyphoid,0
+2015-W30,Pertussis,0
+2015-W30,Plague,0
+2015-W30,Pneumococcal Disease (invasive),6
+2015-W30,Poliomyelitis,0
+2015-W30,Rubella,0
+2015-W30,Salmonellosis(non-enteric fevers),30
+2015-W30,SARS,0
+2015-W30,Typhoid,0
+2015-W30,Viral Hepatitis A,0
+2015-W30,Viral Hepatitis E,2
+2015-W30,Yellow Fever,0
+2015-W31,Acute Viral hepatitis B,0
+2015-W31,Acute Viral hepatitis C,0
+2015-W31,Avian Influenza,0
+2015-W31,Campylobacterenterosis,10
+2015-W31,Chikungunya Fever,3
+2015-W31,Cholera,0
+2015-W31,Dengue Fever,226
+2015-W31,Dengue Haemorrhagic Fever,0
+2015-W31,Diphtheria,0
+2015-W31,Encephalitis,1
+2015-W31,Haemophilus influenzae type b,0
+2015-W31,"Hand, Foot Mouth Disease",367
+2015-W31,Legionellosis,0
+2015-W31,Malaria,2
+2015-W31,Measles,1
+2015-W31,Melioidosis,1
+2015-W31,Meningococcal Infection,0
+2015-W31,Mumps,6
+2015-W31,Nipah virus infection,0
+2015-W31,Paratyphoid,0
+2015-W31,Pertussis,1
+2015-W31,Plague,0
+2015-W31,Pneumococcal Disease (invasive),2
+2015-W31,Poliomyelitis,0
+2015-W31,Rubella,0
+2015-W31,Salmonellosis(non-enteric fevers),36
+2015-W31,SARS,0
+2015-W31,Typhoid,1
+2015-W31,Viral Hepatitis A,1
+2015-W31,Viral Hepatitis E,3
+2015-W31,Yellow Fever,0
+2015-W32,Acute Viral hepatitis B,0
+2015-W32,Acute Viral hepatitis C,0
+2015-W32,Avian Influenza,0
+2015-W32,Campylobacterenterosis,7
+2015-W32,Chikungunya Fever,1
+2015-W32,Cholera,0
+2015-W32,Dengue Fever,221
+2015-W32,Dengue Haemorrhagic Fever,0
+2015-W32,Diphtheria,0
+2015-W32,Encephalitis,1
+2015-W32,Haemophilus influenzae type b,1
+2015-W32,"Hand, Foot Mouth Disease",478
+2015-W32,Legionellosis,0
+2015-W32,Malaria,1
+2015-W32,Measles,0
+2015-W32,Melioidosis,0
+2015-W32,Meningococcal Infection,0
+2015-W32,Mumps,7
+2015-W32,Nipah virus infection,0
+2015-W32,Paratyphoid,0
+2015-W32,Pertussis,0
+2015-W32,Plague,0
+2015-W32,Pneumococcal Disease (invasive),4
+2015-W32,Poliomyelitis,0
+2015-W32,Rubella,0
+2015-W32,Salmonellosis(non-enteric fevers),41
+2015-W32,SARS,0
+2015-W32,Typhoid,1
+2015-W32,Viral Hepatitis A,4
+2015-W32,Viral Hepatitis E,0
+2015-W32,Yellow Fever,0
+2015-W33,Acute Viral hepatitis B,2
+2015-W33,Acute Viral hepatitis C,0
+2015-W33,Avian Influenza,0
+2015-W33,Campylobacterenterosis,8
+2015-W33,Chikungunya Fever,2
+2015-W33,Cholera,0
+2015-W33,Dengue Fever,250
+2015-W33,Dengue Haemorrhagic Fever,0
+2015-W33,Diphtheria,0
+2015-W33,Encephalitis,0
+2015-W33,Haemophilus influenzae type b,0
+2015-W33,"Hand, Foot Mouth Disease",554
+2015-W33,Legionellosis,0
+2015-W33,Malaria,2
+2015-W33,Measles,2
+2015-W33,Melioidosis,1
+2015-W33,Meningococcal Infection,0
+2015-W33,Mumps,10
+2015-W33,Nipah virus infection,0
+2015-W33,Paratyphoid,2
+2015-W33,Pertussis,1
+2015-W33,Plague,0
+2015-W33,Pneumococcal Disease (invasive),3
+2015-W33,Poliomyelitis,0
+2015-W33,Rubella,0
+2015-W33,Salmonellosis(non-enteric fevers),44
+2015-W33,SARS,0
+2015-W33,Typhoid,0
+2015-W33,Viral Hepatitis A,0
+2015-W33,Viral Hepatitis E,1
+2015-W33,Yellow Fever,0
+2015-W34,Acute Viral hepatitis B,0
+2015-W34,Acute Viral hepatitis C,0
+2015-W34,Avian Influenza,0
+2015-W34,Campylobacterenterosis,8
+2015-W34,Chikungunya Fever,0
+2015-W34,Cholera,1
+2015-W34,Dengue Fever,225
+2015-W34,Dengue Haemorrhagic Fever,0
+2015-W34,Diphtheria,0
+2015-W34,Encephalitis,1
+2015-W34,Haemophilus influenzae type b,0
+2015-W34,"Hand, Foot Mouth Disease",533
+2015-W34,Legionellosis,0
+2015-W34,Malaria,1
+2015-W34,Measles,0
+2015-W34,Melioidosis,1
+2015-W34,Meningococcal Infection,0
+2015-W34,Mumps,10
+2015-W34,Nipah virus infection,0
+2015-W34,Paratyphoid,0
+2015-W34,Pertussis,1
+2015-W34,Plague,0
+2015-W34,Pneumococcal Disease (invasive),5
+2015-W34,Poliomyelitis,0
+2015-W34,Rubella,0
+2015-W34,Salmonellosis(non-enteric fevers),50
+2015-W34,SARS,0
+2015-W34,Typhoid,2
+2015-W34,Viral Hepatitis A,0
+2015-W34,Viral Hepatitis E,1
+2015-W34,Yellow Fever,0
+2015-W35,Acute Viral hepatitis B,0
+2015-W35,Acute Viral hepatitis C,0
+2015-W35,Avian Influenza,0
+2015-W35,Campylobacterenterosis,11
+2015-W35,Chikungunya Fever,0
+2015-W35,Cholera,0
+2015-W35,Dengue Fever,246
+2015-W35,Dengue Haemorrhagic Fever,0
+2015-W35,Diphtheria,0
+2015-W35,Encephalitis,1
+2015-W35,Haemophilus influenzae type b,0
+2015-W35,"Hand, Foot Mouth Disease",483
+2015-W35,Legionellosis,0
+2015-W35,Malaria,0
+2015-W35,Measles,0
+2015-W35,Melioidosis,0
+2015-W35,Meningococcal Infection,0
+2015-W35,Mumps,9
+2015-W35,Nipah virus infection,0
+2015-W35,Paratyphoid,0
+2015-W35,Pertussis,0
+2015-W35,Plague,0
+2015-W35,Pneumococcal Disease (invasive),3
+2015-W35,Poliomyelitis,0
+2015-W35,Rubella,1
+2015-W35,Salmonellosis(non-enteric fevers),58
+2015-W35,SARS,0
+2015-W35,Typhoid,0
+2015-W35,Viral Hepatitis A,5
+2015-W35,Viral Hepatitis E,0
+2015-W35,Yellow Fever,0
+2015-W36,Acute Viral hepatitis B,1
+2015-W36,Acute Viral hepatitis C,1
+2015-W36,Avian Influenza,0
+2015-W36,Campylobacterenterosis,9
+2015-W36,Chikungunya Fever,1
+2015-W36,Cholera,0
+2015-W36,Dengue Fever,217
+2015-W36,Dengue Haemorrhagic Fever,0
+2015-W36,Diphtheria,0
+2015-W36,Encephalitis,0
+2015-W36,Haemophilus influenzae type b,0
+2015-W36,"Hand, Foot Mouth Disease",407
+2015-W36,Legionellosis,0
+2015-W36,Malaria,3
+2015-W36,Measles,0
+2015-W36,Melioidosis,0
+2015-W36,Meningococcal Infection,0
+2015-W36,Mumps,7
+2015-W36,Nipah virus infection,0
+2015-W36,Paratyphoid,0
+2015-W36,Pertussis,3
+2015-W36,Plague,0
+2015-W36,Pneumococcal Disease (invasive),5
+2015-W36,Poliomyelitis,0
+2015-W36,Rubella,0
+2015-W36,Salmonellosis(non-enteric fevers),42
+2015-W36,SARS,0
+2015-W36,Typhoid,1
+2015-W36,Viral Hepatitis A,1
+2015-W36,Viral Hepatitis E,1
+2015-W36,Yellow Fever,0
+2015-W37,Acute Viral hepatitis B,0
+2015-W37,Acute Viral hepatitis C,0
+2015-W37,Avian Influenza,0
+2015-W37,Campylobacterenterosis,7
+2015-W37,Chikungunya Fever,0
+2015-W37,Cholera,0
+2015-W37,Dengue Fever,303
+2015-W37,Dengue Haemorrhagic Fever,0
+2015-W37,Diphtheria,0
+2015-W37,Encephalitis,2
+2015-W37,Haemophilus influenzae type b,0
+2015-W37,"Hand, Foot Mouth Disease",414
+2015-W37,Legionellosis,0
+2015-W37,Malaria,1
+2015-W37,Measles,2
+2015-W37,Melioidosis,1
+2015-W37,Meningococcal Infection,0
+2015-W37,Mumps,14
+2015-W37,Nipah virus infection,0
+2015-W37,Paratyphoid,0
+2015-W37,Pertussis,0
+2015-W37,Plague,0
+2015-W37,Pneumococcal Disease (invasive),5
+2015-W37,Poliomyelitis,0
+2015-W37,Rubella,0
+2015-W37,Salmonellosis(non-enteric fevers),43
+2015-W37,SARS,0
+2015-W37,Typhoid,1
+2015-W37,Viral Hepatitis A,2
+2015-W37,Viral Hepatitis E,1
+2015-W37,Yellow Fever,0
+2015-W38,Acute Viral hepatitis B,4
+2015-W38,Acute Viral hepatitis C,1
+2015-W38,Avian Influenza,0
+2015-W38,Campylobacterenterosis,11
+2015-W38,Chikungunya Fever,1
+2015-W38,Cholera,0
+2015-W38,Dengue Fever,214
+2015-W38,Dengue Haemorrhagic Fever,0
+2015-W38,Diphtheria,0
+2015-W38,Encephalitis,1
+2015-W38,Haemophilus influenzae type b,0
+2015-W38,"Hand, Foot Mouth Disease",403
+2015-W38,Legionellosis,0
+2015-W38,Malaria,1
+2015-W38,Measles,1
+2015-W38,Melioidosis,2
+2015-W38,Meningococcal Infection,0
+2015-W38,Mumps,2
+2015-W38,Nipah virus infection,0
+2015-W38,Paratyphoid,1
+2015-W38,Pertussis,0
+2015-W38,Plague,0
+2015-W38,Pneumococcal Disease (invasive),1
+2015-W38,Poliomyelitis,0
+2015-W38,Rubella,0
+2015-W38,Salmonellosis(non-enteric fevers),41
+2015-W38,SARS,0
+2015-W38,Typhoid,0
+2015-W38,Viral Hepatitis A,1
+2015-W38,Viral Hepatitis E,0
+2015-W38,Yellow Fever,0
+2015-W39,Acute Viral hepatitis B,0
+2015-W39,Acute Viral hepatitis C,0
+2015-W39,Avian Influenza,0
+2015-W39,Campylobacterenterosis,5
+2015-W39,Chikungunya Fever,3
+2015-W39,Cholera,0
+2015-W39,Dengue Fever,257
+2015-W39,Dengue Haemorrhagic Fever,0
+2015-W39,Diphtheria,0
+2015-W39,Encephalitis,1
+2015-W39,Haemophilus influenzae type b,1
+2015-W39,"Hand, Foot Mouth Disease",441
+2015-W39,Legionellosis,0
+2015-W39,Malaria,2
+2015-W39,Measles,1
+2015-W39,Melioidosis,1
+2015-W39,Meningococcal Infection,0
+2015-W39,Mumps,12
+2015-W39,Nipah virus infection,0
+2015-W39,Paratyphoid,0
+2015-W39,Pertussis,3
+2015-W39,Plague,0
+2015-W39,Pneumococcal Disease (invasive),1
+2015-W39,Poliomyelitis,0
+2015-W39,Rubella,0
+2015-W39,Salmonellosis(non-enteric fevers),39
+2015-W39,SARS,0
+2015-W39,Typhoid,1
+2015-W39,Viral Hepatitis A,0
+2015-W39,Viral Hepatitis E,1
+2015-W39,Yellow Fever,0
+2015-W40,Acute Viral hepatitis B,1
+2015-W40,Acute Viral hepatitis C,24
+2015-W40,Avian Influenza,0
+2015-W40,Campylobacterenterosis,6
+2015-W40,Chikungunya Fever,1
+2015-W40,Cholera,0
+2015-W40,Dengue Fever,235
+2015-W40,Dengue Haemorrhagic Fever,0
+2015-W40,Diphtheria,0
+2015-W40,Encephalitis,0
+2015-W40,Haemophilus influenzae type b,0
+2015-W40,"Hand, Foot Mouth Disease",431
+2015-W40,Legionellosis,0
+2015-W40,Malaria,1
+2015-W40,Measles,0
+2015-W40,Melioidosis,1
+2015-W40,Meningococcal Infection,0
+2015-W40,Mumps,8
+2015-W40,Nipah virus infection,0
+2015-W40,Paratyphoid,0
+2015-W40,Pertussis,1
+2015-W40,Plague,0
+2015-W40,Pneumococcal Disease (invasive),0
+2015-W40,Poliomyelitis,0
+2015-W40,Rubella,1
+2015-W40,Salmonellosis(non-enteric fevers),47
+2015-W40,SARS,0
+2015-W40,Typhoid,1
+2015-W40,Viral Hepatitis A,0
+2015-W40,Viral Hepatitis E,1
+2015-W40,Yellow Fever,0
+2015-W41,Acute Viral hepatitis B,2
+2015-W41,Acute Viral hepatitis C,2
+2015-W41,Avian Influenza,0
+2015-W41,Campylobacterenterosis,4
+2015-W41,Chikungunya Fever,4
+2015-W41,Cholera,0
+2015-W41,Dengue Fever,235
+2015-W41,Dengue Haemorrhagic Fever,0
+2015-W41,Diphtheria,0
+2015-W41,Encephalitis,0
+2015-W41,Haemophilus influenzae type b,0
+2015-W41,"Hand, Foot Mouth Disease",585
+2015-W41,Legionellosis,1
+2015-W41,Malaria,1
+2015-W41,Measles,1
+2015-W41,Melioidosis,2
+2015-W41,Meningococcal Infection,0
+2015-W41,Mumps,8
+2015-W41,Nipah virus infection,0
+2015-W41,Paratyphoid,0
+2015-W41,Pertussis,0
+2015-W41,Plague,0
+2015-W41,Pneumococcal Disease (invasive),2
+2015-W41,Poliomyelitis,0
+2015-W41,Rubella,0
+2015-W41,Salmonellosis(non-enteric fevers),42
+2015-W41,SARS,0
+2015-W41,Typhoid,0
+2015-W41,Viral Hepatitis A,0
+2015-W41,Viral Hepatitis E,1
+2015-W41,Yellow Fever,0
+2015-W42,Acute Viral hepatitis B,0
+2015-W42,Acute Viral hepatitis C,3
+2015-W42,Avian Influenza,0
+2015-W42,Campylobacterenterosis,10
+2015-W42,Chikungunya Fever,1
+2015-W42,Cholera,0
+2015-W42,Dengue Fever,224
+2015-W42,Dengue Haemorrhagic Fever,0
+2015-W42,Diphtheria,0
+2015-W42,Encephalitis,1
+2015-W42,Haemophilus influenzae type b,0
+2015-W42,"Hand, Foot Mouth Disease",477
+2015-W42,Legionellosis,1
+2015-W42,Malaria,0
+2015-W42,Measles,1
+2015-W42,Melioidosis,1
+2015-W42,Meningococcal Infection,0
+2015-W42,Mumps,6
+2015-W42,Nipah virus infection,0
+2015-W42,Paratyphoid,1
+2015-W42,Pertussis,2
+2015-W42,Plague,0
+2015-W42,Pneumococcal Disease (invasive),3
+2015-W42,Poliomyelitis,0
+2015-W42,Rubella,0
+2015-W42,Salmonellosis(non-enteric fevers),51
+2015-W42,SARS,0
+2015-W42,Typhoid,1
+2015-W42,Viral Hepatitis A,1
+2015-W42,Viral Hepatitis E,4
+2015-W42,Yellow Fever,0
+2015-W43,Acute Viral hepatitis B,0
+2015-W43,Acute Viral hepatitis C,1
+2015-W43,Avian Influenza,0
+2015-W43,Campylobacterenterosis,10
+2015-W43,Chikungunya Fever,0
+2015-W43,Cholera,1
+2015-W43,Dengue Fever,246
+2015-W43,Dengue Haemorrhagic Fever,0
+2015-W43,Diphtheria,0
+2015-W43,Encephalitis,0
+2015-W43,Haemophilus influenzae type b,0
+2015-W43,"Hand, Foot Mouth Disease",438
+2015-W43,Legionellosis,0
+2015-W43,Malaria,1
+2015-W43,Measles,1
+2015-W43,Melioidosis,0
+2015-W43,Meningococcal Infection,0
+2015-W43,Mumps,12
+2015-W43,Nipah virus infection,0
+2015-W43,Paratyphoid,1
+2015-W43,Pertussis,1
+2015-W43,Plague,0
+2015-W43,Pneumococcal Disease (invasive),4
+2015-W43,Poliomyelitis,0
+2015-W43,Rubella,2
+2015-W43,Salmonellosis(non-enteric fevers),39
+2015-W43,SARS,0
+2015-W43,Typhoid,3
+2015-W43,Viral Hepatitis A,1
+2015-W43,Viral Hepatitis E,3
+2015-W43,Yellow Fever,0
+2015-W44,Acute Viral hepatitis B,7
+2015-W44,Acute Viral hepatitis C,1
+2015-W44,Avian Influenza,0
+2015-W44,Campylobacterenterosis,9
+2015-W44,Chikungunya Fever,2
+2015-W44,Cholera,0
+2015-W44,Dengue Fever,266
+2015-W44,Dengue Haemorrhagic Fever,0
+2015-W44,Diphtheria,0
+2015-W44,Encephalitis,2
+2015-W44,Haemophilus influenzae type b,0
+2015-W44,"Hand, Foot Mouth Disease",502
+2015-W44,Legionellosis,0
+2015-W44,Malaria,0
+2015-W44,Measles,0
+2015-W44,Melioidosis,0
+2015-W44,Meningococcal Infection,0
+2015-W44,Mumps,6
+2015-W44,Nipah virus infection,0
+2015-W44,Paratyphoid,1
+2015-W44,Pertussis,2
+2015-W44,Plague,0
+2015-W44,Pneumococcal Disease (invasive),1
+2015-W44,Poliomyelitis,0
+2015-W44,Rubella,0
+2015-W44,Salmonellosis(non-enteric fevers),40
+2015-W44,SARS,0
+2015-W44,Typhoid,1
+2015-W44,Viral Hepatitis A,1
+2015-W44,Viral Hepatitis E,3
+2015-W44,Yellow Fever,0
+2015-W45,Acute Viral hepatitis B,2
+2015-W45,Acute Viral hepatitis C,1
+2015-W45,Avian Influenza,0
+2015-W45,Campylobacterenterosis,8
+2015-W45,Chikungunya Fever,1
+2015-W45,Cholera,0
+2015-W45,Dengue Fever,198
+2015-W45,Dengue Haemorrhagic Fever,0
+2015-W45,Diphtheria,0
+2015-W45,Encephalitis,0
+2015-W45,Haemophilus influenzae type b,0
+2015-W45,"Hand, Foot Mouth Disease",523
+2015-W45,Legionellosis,0
+2015-W45,Malaria,0
+2015-W45,Measles,0
+2015-W45,Melioidosis,0
+2015-W45,Meningococcal Infection,1
+2015-W45,Mumps,9
+2015-W45,Nipah virus infection,0
+2015-W45,Paratyphoid,0
+2015-W45,Pertussis,1
+2015-W45,Plague,0
+2015-W45,Pneumococcal Disease (invasive),0
+2015-W45,Poliomyelitis,0
+2015-W45,Rubella,0
+2015-W45,Salmonellosis(non-enteric fevers),58
+2015-W45,SARS,0
+2015-W45,Typhoid,0
+2015-W45,Viral Hepatitis A,1
+2015-W45,Viral Hepatitis E,1
+2015-W45,Yellow Fever,0
+2015-W46,Acute Viral hepatitis B,1
+2015-W46,Acute Viral hepatitis C,0
+2015-W46,Avian Influenza,0
+2015-W46,Campylobacterenterosis,10
+2015-W46,Chikungunya Fever,0
+2015-W46,Cholera,0
+2015-W46,Dengue Fever,254
+2015-W46,Dengue Haemorrhagic Fever,0
+2015-W46,Diphtheria,0
+2015-W46,Encephalitis,1
+2015-W46,Haemophilus influenzae type b,1
+2015-W46,"Hand, Foot Mouth Disease",600
+2015-W46,Legionellosis,0
+2015-W46,Malaria,0
+2015-W46,Measles,0
+2015-W46,Melioidosis,1
+2015-W46,Meningococcal Infection,1
+2015-W46,Mumps,10
+2015-W46,Nipah virus infection,0
+2015-W46,Paratyphoid,0
+2015-W46,Pertussis,0
+2015-W46,Plague,0
+2015-W46,Pneumococcal Disease (invasive),2
+2015-W46,Poliomyelitis,0
+2015-W46,Rubella,0
+2015-W46,Salmonellosis(non-enteric fevers),52
+2015-W46,SARS,0
+2015-W46,Typhoid,0
+2015-W46,Viral Hepatitis A,2
+2015-W46,Viral Hepatitis E,2
+2015-W46,Yellow Fever,0
+2015-W47,Acute Viral hepatitis B,1
+2015-W47,Acute Viral hepatitis C,1
+2015-W47,Avian Influenza,0
+2015-W47,Campylobacterenterosis,6
+2015-W47,Chikungunya Fever,1
+2015-W47,Cholera,1
+2015-W47,Dengue Fever,285
+2015-W47,Dengue Haemorrhagic Fever,1
+2015-W47,Diphtheria,0
+2015-W47,Encephalitis,0
+2015-W47,Haemophilus influenzae type b,0
+2015-W47,"Hand, Foot Mouth Disease",610
+2015-W47,Legionellosis,0
+2015-W47,Malaria,4
+2015-W47,Measles,2
+2015-W47,Melioidosis,0
+2015-W47,Meningococcal Infection,0
+2015-W47,Mumps,10
+2015-W47,Nipah virus infection,0
+2015-W47,Paratyphoid,0
+2015-W47,Pertussis,3
+2015-W47,Plague,0
+2015-W47,Pneumococcal Disease (invasive),2
+2015-W47,Poliomyelitis,0
+2015-W47,Rubella,0
+2015-W47,Salmonellosis(non-enteric fevers),48
+2015-W47,SARS,0
+2015-W47,Typhoid,0
+2015-W47,Viral Hepatitis A,0
+2015-W47,Viral Hepatitis E,3
+2015-W47,Yellow Fever,0
+2015-W48,Acute Viral hepatitis B,0
+2015-W48,Acute Viral hepatitis C,0
+2015-W48,Avian Influenza,0
+2015-W48,Campylobacterenterosis,8
+2015-W48,Chikungunya Fever,1
+2015-W48,Cholera,0
+2015-W48,Dengue Fever,259
+2015-W48,Dengue Haemorrhagic Fever,0
+2015-W48,Diphtheria,0
+2015-W48,Encephalitis,0
+2015-W48,Haemophilus influenzae type b,0
+2015-W48,"Hand, Foot Mouth Disease",533
+2015-W48,Legionellosis,1
+2015-W48,Malaria,1
+2015-W48,Measles,0
+2015-W48,Melioidosis,0
+2015-W48,Meningococcal Infection,0
+2015-W48,Mumps,8
+2015-W48,Nipah virus infection,0
+2015-W48,Paratyphoid,0
+2015-W48,Pertussis,2
+2015-W48,Plague,0
+2015-W48,Pneumococcal Disease (invasive),8
+2015-W48,Poliomyelitis,0
+2015-W48,Rubella,0
+2015-W48,Salmonellosis(non-enteric fevers),46
+2015-W48,SARS,0
+2015-W48,Typhoid,0
+2015-W48,Viral Hepatitis A,2
+2015-W48,Viral Hepatitis E,2
+2015-W48,Yellow Fever,0
+2015-W49,Acute Viral hepatitis B,1
+2015-W49,Acute Viral hepatitis C,0
+2015-W49,Avian Influenza,0
+2015-W49,Campylobacterenterosis,9
+2015-W49,Chikungunya Fever,0
+2015-W49,Cholera,0
+2015-W49,Dengue Fever,356
+2015-W49,Dengue Haemorrhagic Fever,1
+2015-W49,Diphtheria,0
+2015-W49,Encephalitis,1
+2015-W49,Haemophilus influenzae type b,0
+2015-W49,"Hand, Foot Mouth Disease",568
+2015-W49,Legionellosis,1
+2015-W49,Malaria,0
+2015-W49,Measles,0
+2015-W49,Melioidosis,0
+2015-W49,Meningococcal Infection,0
+2015-W49,Mumps,6
+2015-W49,Nipah virus infection,0
+2015-W49,Paratyphoid,1
+2015-W49,Pertussis,2
+2015-W49,Plague,0
+2015-W49,Pneumococcal Disease (invasive),1
+2015-W49,Poliomyelitis,0
+2015-W49,Rubella,1
+2015-W49,Salmonellosis(non-enteric fevers),41
+2015-W49,SARS,0
+2015-W49,Typhoid,1
+2015-W49,Viral Hepatitis A,0
+2015-W49,Viral Hepatitis E,0
+2015-W49,Yellow Fever,0
+2015-W50,Acute Viral hepatitis B,0
+2015-W50,Acute Viral hepatitis C,1
+2015-W50,Avian Influenza,0
+2015-W50,Campylobacterenterosis,16
+2015-W50,Chikungunya Fever,0
+2015-W50,Cholera,0
+2015-W50,Dengue Fever,333
+2015-W50,Dengue Haemorrhagic Fever,0
+2015-W50,Diphtheria,0
+2015-W50,Encephalitis,0
+2015-W50,Haemophilus influenzae type b,0
+2015-W50,"Hand, Foot Mouth Disease",548
+2015-W50,Legionellosis,0
+2015-W50,Malaria,0
+2015-W50,Measles,0
+2015-W50,Melioidosis,1
+2015-W50,Meningococcal Infection,0
+2015-W50,Mumps,3
+2015-W50,Nipah virus infection,0
+2015-W50,Paratyphoid,0
+2015-W50,Pertussis,2
+2015-W50,Plague,0
+2015-W50,Pneumococcal Disease (invasive),0
+2015-W50,Poliomyelitis,0
+2015-W50,Rubella,1
+2015-W50,Salmonellosis(non-enteric fevers),48
+2015-W50,SARS,0
+2015-W50,Typhoid,1
+2015-W50,Viral Hepatitis A,1
+2015-W50,Viral Hepatitis E,2
+2015-W50,Yellow Fever,0
+2015-W51,Acute Viral hepatitis B,2
+2015-W51,Acute Viral hepatitis C,0
+2015-W51,Avian Influenza,0
+2015-W51,Campylobacterenterosis,7
+2015-W51,Chikungunya Fever,0
+2015-W51,Cholera,0
+2015-W51,Dengue Fever,369
+2015-W51,Dengue Haemorrhagic Fever,0
+2015-W51,Diphtheria,0
+2015-W51,Encephalitis,1
+2015-W51,Haemophilus influenzae type b,0
+2015-W51,"Hand, Foot Mouth Disease",432
+2015-W51,Legionellosis,0
+2015-W51,Malaria,1
+2015-W51,Measles,1
+2015-W51,Melioidosis,2
+2015-W51,Meningococcal Infection,0
+2015-W51,Mumps,11
+2015-W51,Nipah virus infection,0
+2015-W51,Paratyphoid,0
+2015-W51,Pertussis,0
+2015-W51,Plague,0
+2015-W51,Pneumococcal Disease (invasive),2
+2015-W51,Poliomyelitis,0
+2015-W51,Rubella,0
+2015-W51,Salmonellosis(non-enteric fevers),58
+2015-W51,SARS,0
+2015-W51,Typhoid,3
+2015-W51,Viral Hepatitis A,0
+2015-W51,Viral Hepatitis E,3
+2015-W51,Yellow Fever,0
+2015-W52,Acute Viral hepatitis B,1
+2015-W52,Acute Viral hepatitis C,0
+2015-W52,Avian Influenza,0
+2015-W52,Campylobacterenterosis,8
+2015-W52,Chikungunya Fever,0
+2015-W52,Cholera,0
+2015-W52,Dengue Fever,458
+2015-W52,Dengue Haemorrhagic Fever,0
+2015-W52,Diphtheria,0
+2015-W52,Encephalitis,0
+2015-W52,Haemophilus influenzae type b,0
+2015-W52,"Hand, Foot Mouth Disease",370
+2015-W52,Legionellosis,1
+2015-W52,Malaria,0
+2015-W52,Measles,0
+2015-W52,Melioidosis,1
+2015-W52,Meningococcal Infection,0
+2015-W52,Mumps,7
+2015-W52,Nipah virus infection,0
+2015-W52,Paratyphoid,1
+2015-W52,Pertussis,0
+2015-W52,Plague,0
+2015-W52,Pneumococcal Disease (invasive),2
+2015-W52,Poliomyelitis,0
+2015-W52,Rubella,0
+2015-W52,Salmonellosis(non-enteric fevers),40
+2015-W52,SARS,0
+2015-W52,Typhoid,0
+2015-W52,Viral Hepatitis A,0
+2015-W52,Viral Hepatitis E,3
+2015-W52,Yellow Fever,0
+2016-W01,Acute Viral hepatitis B,3
+2016-W01,Acute Viral hepatitis C,0
+2016-W01,Avian Influenza,1
+2016-W01,Campylobacterenterosis,14
+2016-W01,Chikungunya Fever,1
+2016-W01,Cholera,1
+2016-W01,Dengue Fever,545
+2016-W01,Dengue Haemorrhagic Fever,0
+2016-W01,Diphtheria,0
+2016-W01,Encephalitis,1
+2016-W01,Haemophilus influenzae type b,0
+2016-W01,"Hand, Foot Mouth Disease",418
+2016-W01,Legionellosis,0
+2016-W01,Malaria,1
+2016-W01,Measles,0
+2016-W01,Melioidosis,0
+2016-W01,Meningococcal Infection,0
+2016-W01,Mumps,8
+2016-W01,Nipah virus infection,0
+2016-W01,Paratyphoid,1
+2016-W01,Pertussis,1
+2016-W01,Plague,0
+2016-W01,Pneumococcal Disease (invasive),2
+2016-W01,Poliomyelitis,0
+2016-W01,Rubella,1
+2016-W01,Salmonellosis(non-enteric fevers),58
+2016-W01,SARS,0
+2016-W01,Typhoid,0
+2016-W01,Viral Hepatitis A,0
+2016-W01,Viral Hepatitis E,1
+2016-W01,Yellow Fever,0
+2016-W02,Acute Viral hepatitis B,3
+2016-W02,Acute Viral hepatitis C,0
+2016-W02,Avian Influenza,0
+2016-W02,Campylobacterenterosis,4
+2016-W02,Chikungunya Fever,1
+2016-W02,Cholera,0
+2016-W02,Dengue Fever,620
+2016-W02,Dengue Haemorrhagic Fever,0
+2016-W02,Diphtheria,0
+2016-W02,Encephalitis,1
+2016-W02,Haemophilus influenzae type b,0
+2016-W02,"Hand, Foot Mouth Disease",505
+2016-W02,Legionellosis,0
+2016-W02,Malaria,0
+2016-W02,Measles,0
+2016-W02,Melioidosis,2
+2016-W02,Meningococcal Infection,0
+2016-W02,Mumps,7
+2016-W02,Nipah virus infection,0
+2016-W02,Paratyphoid,0
+2016-W02,Pertussis,2
+2016-W02,Plague,0
+2016-W02,Pneumococcal Disease (invasive),2
+2016-W02,Poliomyelitis,0
+2016-W02,Rubella,0
+2016-W02,Salmonellosis(non-enteric fevers),52
+2016-W02,SARS,0
+2016-W02,Typhoid,0
+2016-W02,Viral Hepatitis A,3
+2016-W02,Viral Hepatitis E,1
+2016-W02,Yellow Fever,0
+2016-W03,Acute Viral hepatitis B,0
+2016-W03,Acute Viral hepatitis C,0
+2016-W03,Avian Influenza,0
+2016-W03,Campylobacterenterosis,9
+2016-W03,Chikungunya Fever,0
+2016-W03,Cholera,0
+2016-W03,Dengue Fever,636
+2016-W03,Dengue Haemorrhagic Fever,1
+2016-W03,Diphtheria,0
+2016-W03,Encephalitis,2
+2016-W03,Haemophilus influenzae type b,0
+2016-W03,"Hand, Foot Mouth Disease",588
+2016-W03,Legionellosis,0
+2016-W03,Malaria,0
+2016-W03,Measles,0
+2016-W03,Melioidosis,1
+2016-W03,Meningococcal Infection,1
+2016-W03,Mumps,11
+2016-W03,Nipah virus infection,0
+2016-W03,Paratyphoid,1
+2016-W03,Pertussis,2
+2016-W03,Plague,0
+2016-W03,Pneumococcal Disease (invasive),1
+2016-W03,Poliomyelitis,0
+2016-W03,Rubella,0
+2016-W03,Salmonellosis(non-enteric fevers),49
+2016-W03,SARS,0
+2016-W03,Typhoid,2
+2016-W03,Viral Hepatitis A,2
+2016-W03,Viral Hepatitis E,2
+2016-W03,Yellow Fever,0
+2016-W04,Acute Viral hepatitis B,2
+2016-W04,Acute Viral hepatitis C,0
+2016-W04,Avian Influenza,0
+2016-W04,Campylobacterenterosis,6
+2016-W04,Chikungunya Fever,1
+2016-W04,Cholera,0
+2016-W04,Dengue Fever,623
+2016-W04,Dengue Haemorrhagic Fever,1
+2016-W04,Diphtheria,0
+2016-W04,Encephalitis,0
+2016-W04,Haemophilus influenzae type b,0
+2016-W04,"Hand, Foot Mouth Disease",587
+2016-W04,Legionellosis,0
+2016-W04,Malaria,0
+2016-W04,Measles,0
+2016-W04,Melioidosis,2
+2016-W04,Meningococcal Infection,0
+2016-W04,Mumps,10
+2016-W04,Nipah virus infection,0
+2016-W04,Paratyphoid,0
+2016-W04,Pertussis,1
+2016-W04,Plague,0
+2016-W04,Pneumococcal Disease (invasive),3
+2016-W04,Poliomyelitis,0
+2016-W04,Rubella,0
+2016-W04,Salmonellosis(non-enteric fevers),42
+2016-W04,SARS,0
+2016-W04,Typhoid,4
+2016-W04,Viral Hepatitis A,0
+2016-W04,Viral Hepatitis E,0
+2016-W04,Yellow Fever,0
+2016-W05,Acute Viral hepatitis B,2
+2016-W05,Acute Viral hepatitis C,0
+2016-W05,Avian Influenza,0
+2016-W05,Campylobacterenterosis,6
+2016-W05,Chikungunya Fever,0
+2016-W05,Cholera,0
+2016-W05,Dengue Fever,523
+2016-W05,Dengue Haemorrhagic Fever,2
+2016-W05,Diphtheria,0
+2016-W05,Encephalitis,2
+2016-W05,Haemophilus influenzae type b,0
+2016-W05,"Hand, Foot Mouth Disease",680
+2016-W05,Legionellosis,0
+2016-W05,Malaria,0
+2016-W05,Measles,1
+2016-W05,Melioidosis,0
+2016-W05,Meningococcal Infection,0
+2016-W05,Mumps,9
+2016-W05,Nipah virus infection,0
+2016-W05,Paratyphoid,0
+2016-W05,Pertussis,1
+2016-W05,Plague,0
+2016-W05,Pneumococcal Disease (invasive),2
+2016-W05,Poliomyelitis,0
+2016-W05,Rubella,0
+2016-W05,Salmonellosis(non-enteric fevers),54
+2016-W05,SARS,0
+2016-W05,Typhoid,1
+2016-W05,Viral Hepatitis A,0
+2016-W05,Viral Hepatitis E,2
+2016-W05,Yellow Fever,0
+2016-W06,Acute Viral hepatitis B,1
+2016-W06,Acute Viral hepatitis C,0
+2016-W06,Avian Influenza,0
+2016-W06,Campylobacterenterosis,5
+2016-W06,Chikungunya Fever,0
+2016-W06,Cholera,0
+2016-W06,Dengue Fever,419
+2016-W06,Dengue Haemorrhagic Fever,0
+2016-W06,Diphtheria,0
+2016-W06,Encephalitis,0
+2016-W06,Haemophilus influenzae type b,0
+2016-W06,"Hand, Foot Mouth Disease",587
+2016-W06,Legionellosis,0
+2016-W06,Malaria,0
+2016-W06,Measles,0
+2016-W06,Melioidosis,2
+2016-W06,Meningococcal Infection,0
+2016-W06,Mumps,9
+2016-W06,Nipah virus infection,0
+2016-W06,Paratyphoid,0
+2016-W06,Pertussis,0
+2016-W06,Plague,0
+2016-W06,Pneumococcal Disease (invasive),2
+2016-W06,Poliomyelitis,0
+2016-W06,Rubella,0
+2016-W06,Salmonellosis(non-enteric fevers),35
+2016-W06,SARS,0
+2016-W06,Typhoid,0
+2016-W06,Viral Hepatitis A,1
+2016-W06,Viral Hepatitis E,0
+2016-W06,Yellow Fever,0
+2016-W07,Acute Viral hepatitis B,1
+2016-W07,Acute Viral hepatitis C,0
+2016-W07,Avian Influenza,0
+2016-W07,Campylobacterenterosis,13
+2016-W07,Chikungunya Fever,2
+2016-W07,Cholera,0
+2016-W07,Dengue Fever,589
+2016-W07,Dengue Haemorrhagic Fever,1
+2016-W07,Diphtheria,0
+2016-W07,Encephalitis,0
+2016-W07,Haemophilus influenzae type b,0
+2016-W07,"Hand, Foot Mouth Disease",700
+2016-W07,Legionellosis,1
+2016-W07,Malaria,0
+2016-W07,Measles,2
+2016-W07,Melioidosis,0
+2016-W07,Meningococcal Infection,0
+2016-W07,Mumps,8
+2016-W07,Nipah virus infection,0
+2016-W07,Paratyphoid,0
+2016-W07,Pertussis,1
+2016-W07,Plague,0
+2016-W07,Pneumococcal Disease (invasive),5
+2016-W07,Poliomyelitis,0
+2016-W07,Rubella,0
+2016-W07,Salmonellosis(non-enteric fevers),50
+2016-W07,SARS,0
+2016-W07,Typhoid,0
+2016-W07,Viral Hepatitis A,3
+2016-W07,Viral Hepatitis E,3
+2016-W07,Yellow Fever,0
+2016-W08,Acute Viral hepatitis B,1
+2016-W08,Acute Viral hepatitis C,0
+2016-W08,Avian Influenza,0
+2016-W08,Campylobacterenterosis,14
+2016-W08,Chikungunya Fever,0
+2016-W08,Cholera,0
+2016-W08,Dengue Fever,508
+2016-W08,Dengue Haemorrhagic Fever,4
+2016-W08,Diphtheria,0
+2016-W08,Encephalitis,1
+2016-W08,Haemophilus influenzae type b,0
+2016-W08,"Hand, Foot Mouth Disease",756
+2016-W08,Legionellosis,0
+2016-W08,Malaria,0
+2016-W08,Measles,1
+2016-W08,Melioidosis,0
+2016-W08,Meningococcal Infection,0
+2016-W08,Mumps,10
+2016-W08,Nipah virus infection,0
+2016-W08,Paratyphoid,0
+2016-W08,Pertussis,1
+2016-W08,Plague,0
+2016-W08,Pneumococcal Disease (invasive),4
+2016-W08,Poliomyelitis,0
+2016-W08,Rubella,0
+2016-W08,Salmonellosis(non-enteric fevers),52
+2016-W08,SARS,0
+2016-W08,Typhoid,4
+2016-W08,Viral Hepatitis A,0
+2016-W08,Viral Hepatitis E,0
+2016-W08,Yellow Fever,0
+2016-W09,Acute Viral hepatitis B,1
+2016-W09,Acute Viral hepatitis C,0
+2016-W09,Avian Influenza,0
+2016-W09,Campylobacterenterosis,8
+2016-W09,Chikungunya Fever,0
+2016-W09,Cholera,0
+2016-W09,Dengue Fever,412
+2016-W09,Dengue Haemorrhagic Fever,0
+2016-W09,Diphtheria,0
+2016-W09,Encephalitis,0
+2016-W09,Haemophilus influenzae type b,0
+2016-W09,"Hand, Foot Mouth Disease",832
+2016-W09,Legionellosis,0
+2016-W09,Malaria,0
+2016-W09,Measles,1
+2016-W09,Melioidosis,1
+2016-W09,Meningococcal Infection,0
+2016-W09,Mumps,4
+2016-W09,Nipah virus infection,0
+2016-W09,Paratyphoid,1
+2016-W09,Pertussis,3
+2016-W09,Plague,0
+2016-W09,Pneumococcal Disease (invasive),2
+2016-W09,Poliomyelitis,0
+2016-W09,Rubella,2
+2016-W09,Salmonellosis(non-enteric fevers),39
+2016-W09,SARS,0
+2016-W09,Typhoid,1
+2016-W09,Viral Hepatitis A,1
+2016-W09,Viral Hepatitis E,0
+2016-W09,Yellow Fever,0
+2016-W10,Acute Viral hepatitis B,2
+2016-W10,Acute Viral hepatitis C,0
+2016-W10,Avian Influenza,0
+2016-W10,Campylobacterenterosis,10
+2016-W10,Chikungunya Fever,0
+2016-W10,Cholera,0
+2016-W10,Dengue Fever,395
+2016-W10,Dengue Haemorrhagic Fever,1
+2016-W10,Diphtheria,0
+2016-W10,Encephalitis,1
+2016-W10,Haemophilus influenzae type b,0
+2016-W10,"Hand, Foot Mouth Disease",981
+2016-W10,Legionellosis,1
+2016-W10,Malaria,0
+2016-W10,Measles,2
+2016-W10,Melioidosis,2
+2016-W10,Meningococcal Infection,0
+2016-W10,Mumps,6
+2016-W10,Nipah virus infection,0
+2016-W10,Paratyphoid,3
+2016-W10,Pertussis,2
+2016-W10,Plague,0
+2016-W10,Pneumococcal Disease (invasive),4
+2016-W10,Poliomyelitis,0
+2016-W10,Rubella,0
+2016-W10,Salmonellosis(non-enteric fevers),26
+2016-W10,SARS,0
+2016-W10,Typhoid,2
+2016-W10,Viral Hepatitis A,2
+2016-W10,Viral Hepatitis E,3
+2016-W10,Yellow Fever,0
+2016-W11,Acute Viral hepatitis B,4
+2016-W11,Acute Viral hepatitis C,0
+2016-W11,Avian Influenza,0
+2016-W11,Campylobacterenterosis,6
+2016-W11,Chikungunya Fever,0
+2016-W11,Cholera,0
+2016-W11,Dengue Fever,372
+2016-W11,Dengue Haemorrhagic Fever,1
+2016-W11,Diphtheria,0
+2016-W11,Encephalitis,1
+2016-W11,Haemophilus influenzae type b,0
+2016-W11,"Hand, Foot Mouth Disease",906
+2016-W11,Legionellosis,0
+2016-W11,Malaria,1
+2016-W11,Measles,2
+2016-W11,Melioidosis,0
+2016-W11,Meningococcal Infection,0
+2016-W11,Mumps,9
+2016-W11,Nipah virus infection,0
+2016-W11,Paratyphoid,1
+2016-W11,Pertussis,1
+2016-W11,Plague,0
+2016-W11,Pneumococcal Disease (invasive),3
+2016-W11,Poliomyelitis,0
+2016-W11,Rubella,0
+2016-W11,Salmonellosis(non-enteric fevers),42
+2016-W11,SARS,0
+2016-W11,Typhoid,0
+2016-W11,Viral Hepatitis A,1
+2016-W11,Viral Hepatitis E,2
+2016-W11,Yellow Fever,0
+2016-W12,Acute Viral hepatitis B,4
+2016-W12,Acute Viral hepatitis C,0
+2016-W12,Avian Influenza,0
+2016-W12,Campylobacterenterosis,2
+2016-W12,Chikungunya Fever,0
+2016-W12,Cholera,0
+2016-W12,Dengue Fever,304
+2016-W12,Dengue Haemorrhagic Fever,2
+2016-W12,Diphtheria,0
+2016-W12,Encephalitis,0
+2016-W12,Haemophilus influenzae type b,0
+2016-W12,"Hand, Foot Mouth Disease",858
+2016-W12,Legionellosis,0
+2016-W12,Malaria,1
+2016-W12,Measles,2
+2016-W12,Melioidosis,0
+2016-W12,Meningococcal Infection,0
+2016-W12,Mumps,7
+2016-W12,Nipah virus infection,0
+2016-W12,Paratyphoid,1
+2016-W12,Pertussis,1
+2016-W12,Plague,0
+2016-W12,Pneumococcal Disease (invasive),1
+2016-W12,Poliomyelitis,0
+2016-W12,Rubella,0
+2016-W12,Salmonellosis(non-enteric fevers),26
+2016-W12,SARS,0
+2016-W12,Typhoid,0
+2016-W12,Viral Hepatitis A,0
+2016-W12,Viral Hepatitis E,2
+2016-W12,Yellow Fever,0
+2016-W13,Dengue Fever,377
