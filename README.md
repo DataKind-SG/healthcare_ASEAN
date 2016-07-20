@@ -3,6 +3,10 @@ healthcare_ASEAN
 
 Open data project on exploration of healthcare data for the ASEAN region, currently focusing on Malaria and Dengue. 
 
+Trello board: https://trello.com/b/NtM7qDC5/project-healthcare-asean<br />
+Slack Channel on DataKindSG team: #healthcare_asean<br />
+
+
 Project Organization
 ------------
 
