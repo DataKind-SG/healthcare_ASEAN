@@ -2,6 +2,7 @@
 import click
 import logging
 import download_scripts.TH_malaria_dengue
+import download_scripts.wunderground
 
 
 def validate_log_level(ctx, param, value):
@@ -25,6 +26,10 @@ def main(log):
     logger.info('Downloading raw TH data')
     download_scripts.TH_malaria_dengue.download()
     logger.info('Finished downloading raw TH data')
+
+    logger.info('Downloading wunderground data')
+    download_scripts.wunderground.download()
+    logger.info('Finished downloading wunderground data')
 
 if __name__ == '__main__':
     main()

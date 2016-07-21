@@ -3,6 +3,7 @@ Sphinx
 coverage
 awscli
 flake8
+future
 python-dotenv>=0.5.1
 alabaster==0.7.8
 Babel==2.3.4
