@@ -38,8 +38,12 @@ Project Organization
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
+    │   ├── data
+    │   │   └── download_scripts <- Scripts for downloading from each raw data
+    │   │   │                       source
+    │   │   └── download_raw_data.py <- Script to download raw data using
+    │   │   │                           modules in `download_scripts/`
+    │   │   └── make_dataset.py <- Script to clean raw data
     │   │
     │   ├── features       <- Scripts to turn raw data into features for modeling
     │   │   └── build_features.py
