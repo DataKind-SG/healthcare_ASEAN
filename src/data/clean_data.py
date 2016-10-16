@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+# Script to clean raw data
+
 import os
 import click
 import logging
