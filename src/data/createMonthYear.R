@@ -1,3 +1,5 @@
+# R Script created on DataJam (27 Aug 2016) to convert SG weekly disease data to monthly series
+
 setwd("~/../../Desktop/healthcare_ASEAN/Data")
 library(zoo)
 library(dplyr)
