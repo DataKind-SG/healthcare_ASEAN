@@ -1,4 +1,4 @@
-#This script Downloads disease statistics from data.gov.sg
+#This script downloads disease statistics from data.gov.sg
 
 import sys
 
