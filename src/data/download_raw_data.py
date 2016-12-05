@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import click
 import logging
+import download_scripts.disease_down
 import download_scripts.TH_malaria_dengue
 import download_scripts.wunderground
 
@@ -22,6 +23,10 @@ def main(log):
     log_fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     logging.basicConfig(format=log_fmt, level=log)
     logger = logging.getLogger(__name__)
+
+    logger.info('Downloading raw weekly SG Dengue and Malaria data')
+    download_scripts.disease_down()
+    logger.info('Finished downloading raw SG data')
 
     logger.info('Downloading raw TH data')
     download_scripts.TH_malaria_dengue.download()

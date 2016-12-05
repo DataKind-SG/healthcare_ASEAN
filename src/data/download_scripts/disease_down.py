@@ -1,8 +1,9 @@
 #This script downloads disease statistics from data.gov.sg
+#download for the month.
 
 import sys
 
-OUTFILE = "out.csv"
+OUTFILE = "../../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
 DISEASE_LIST = ["Dengue Fever", "Dengue Haemorrhagic Fever", "Malaria"]
 
 if sys.version_info < (3, 0):
@@ -14,8 +15,8 @@ if sys.version_info < (3, 0):
     temp=json.loads(fileobj.read())
 
 
-    with open(OUTFILE, 'w') as csvfile:
-        writethis = csv.writer(csvfile, delimiter=' ')
+    with open(OUTFILE, 'w', newline='') as csvfile:
+        writethis = csv.writer(csvfile, delimiter=',')
         for i in temp["result"]["records"]:
             if i["disease"] in DISEASE_LIST:
                 writethis.writerow([i["epi_week"], i["disease"], i["no._of_cases"]])
@@ -28,8 +29,8 @@ else:
     temp=json.loads(fileobj.read().decode("utf-8") )
 
 
-    with open(OUTFILE, 'w') as csvfile:
-        writethis = csv.writer(csvfile, delimiter=' ')
+    with open(OUTFILE, 'w', newline='') as csvfile:
+        writethis = csv.writer(csvfile, delimiter=',')
         for i in temp["result"]["records"]:
             if i["disease"] in DISEASE_LIST:
                 writethis.writerow([i["epi_week"], i["disease"], i["no._of_cases"]])
