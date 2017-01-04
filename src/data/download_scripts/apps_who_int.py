@@ -8,15 +8,23 @@ try:
 except:
     pass # directory exists
 
-DOWNLOAD_URL = "http://apps.who.int/gho/athena/data/xmart.csv?target=GHO/WHS3_48&profile=crosstable&filter=COUNTRY:*&x-sideaxis=COUNTRY&x-topaxis=GHO;YEAR"
-OUTPUT = os.path.join(data_dir, "malaria-yearly-confirmed-cases.csv")
+BASE_URL = "http://apps.who.int/gho/athena/data/xmart.csv"
+DOWNLOAD_PARAMS = ["?target=GHO/WHS3_48&profile=crosstable&filter=COUNTRY:*&x-sideaxis=COUNTRY&x-topaxis=GHO;YEAR",
+                   "?target=GHO/MALARIA002&profile=crosstable&filter=COUNTRY:*&x-sideaxis=COUNTRY&x-topaxis=GHO;YEAR",
+                   "?target=GHO/MALARIA003&profile=crosstable&filter=COUNTRY:*&x-sideaxis=COUNTRY&x-topaxis=GHO;YEAR",
+                   "?target=GHO/IR_INSECTICIDERESISTANCE_PREV&profile=crosstable&filter=COUNTRY:*&x-sideaxis=COUNTRY;YEAR&x-topaxis=GHO"]
+
+FILENAMES = ["malaria-yearly-confirmed-cases.csv", "malaria-yearly-estimated-cases.csv", "malaria-yearly-estimated-deaths.csv", "malaria-yearly-overview-resistance-status.csv"]
 
 
 def download():
-    r = requests.get(DOWNLOAD_URL)    
-    if r.ok:
-        with open(OUTPUT, 'w') as f:
-            f.write(r.text.encode('utf-8'))
-        print("File downloaded to %s" % OUTPUT)
-    else:
-        print("GET request returned status %d for url=%s" % (r.status_code, DOWNLOAD_URL))
+    for (name, param) in zip(FILENAMES, DOWNLOAD_PARAMS) :
+        full_url = BASE_URL+param
+        r = requests.get(full_url)
+        if r.ok:
+            full_path = os.path.join(data_dir, name)
+            with open(full_path, 'w') as f:
+                f.write(r.text.encode('utf-8'))
+            print("File downloaded to %s" % full_path)
+        else:
+            print("GET request returned status %d for url=%s" % (r.status_code, full_url))
