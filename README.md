@@ -7,6 +7,7 @@ Trello board: https://trello.com/b/NtM7qDC5/project-healthcare-asean<br />
 Slack Channel on DataKindSG team: #healthcare_asean<br />
 
 The data folder is currently not uploaded to the github repo (see .gitignore). The data is currently available in the Project Google drive folder. 
+https://drive.google.com/drive/folders/0Bwv3dfVyOK4ZVTVscjNKazhSb28
 
 Project Organization
 ------------
