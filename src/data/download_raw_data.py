@@ -36,5 +36,9 @@ def main(log):
     download_scripts.wunderground.download()
     logger.info('Finished downloading wunderground data')
 
+    logger.info('Downloading apps.who.int data / malaria reported confirmed cases')
+    download_scripts.apps_who_int.download()
+    logger.info('Finished downloading apps.who.int data / malaria reported confirmed cases')
+
 if __name__ == '__main__':
     main()
