@@ -1,7 +1,8 @@
 # Files
 
+\download_scripts - folder for scripts called by download_raw_data.py
+
 download_raw_data.py - script to download and update raw data  
-download_scripts - folder for scripts called by download_raw_data.py
 
 clean_data.py - script to clean raw data into interim folder
 
