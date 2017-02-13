@@ -3,7 +3,7 @@
 
 import sys
 
-OUTFILE = "../../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
+OUTFILE = "../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
 DISEASE_LIST = ["Dengue Fever", "Dengue Haemorrhagic Fever", "Malaria"]
 
 if sys.version_info < (3, 0):
@@ -21,12 +21,13 @@ if sys.version_info < (3, 0):
             if i["disease"] in DISEASE_LIST:
                 writethis.writerow([i["epi_week"], i["disease"], i["no._of_cases"]])
 else:
-    import urllib.request
     import json
     import csv
+    import requests
+    
     url = 'https://data.gov.sg/api/action/datastore_search?resource_id=ef7e44f1-9b14-4680-a60a-37d2c9dda390&limit=50000'
-    fileobj = urllib.request.urlopen(url)
-    temp=json.loads(fileobj.read().decode("utf-8") )
+    fileobj = requests.get(url)
+    temp=json.loads(fileobj.text)
 
 
     with open(OUTFILE, 'w', newline='') as csvfile:
