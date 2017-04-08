@@ -30,7 +30,7 @@ def download(path,month,year):
         
         
 # set the folder name
-path = r'C:\Users\YFOL\Downloads'
+path = r'../../Data/raw/weather_SG'
 
 # the month seems to be the previous one ane instead of having it in the code, 
 #it could be current month -1 if relevant (same for the year)

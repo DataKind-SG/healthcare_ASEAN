@@ -24,7 +24,7 @@ def download():
         if r.ok:
             full_path = os.path.join(data_dir, name)
             with open(full_path, 'w') as f:
-                f.write(r.text.encode('utf-8'))
+                f.write(r.text)
             print("File downloaded to %s" % full_path)
         else:
             print("GET request returned status %d for url=%s" % (r.status_code, full_url))
