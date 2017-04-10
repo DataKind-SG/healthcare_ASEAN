@@ -26,20 +26,20 @@ def clean():
 
         df = pd.melt(df, var_name='week_num', value_name='cases', id_vars='NEGERI').set_index('NEGERI')
         df['year'] = year
-        df['week_num'] = df['week_num'].str[-2:].astype(int)
+        df['week_num'] = df['week_num'].map(lambda x: x.strip()).str[-2:].astype(int)
         df = df.reset_index()
-        df.rename(columns={'NEGERI': 'region'}, inplace=True)
+        df.rename(columns={'NEGERI': 'region', 'week_num': 'week'}, inplace=True)
 
         frames.append(df)
 
         skiprows += ROWS_NUM
         skip_footer -= ROWS_NUM
 
-    df = pd.concat(frames, ignore_index=True)
+    df = pd.concat(frames)
 
     os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
     output_path = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
-    df.to_csv(output_path)
+    df.to_csv(output_path, index=False)
 
 
 if __name__ == "__main__":
