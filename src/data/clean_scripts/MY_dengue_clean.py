@@ -41,6 +41,8 @@ def clean():
     output_path = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
     df.to_csv(output_path, index=False)
 
+    logger.info('Cleaned successfully')
+
 
 if __name__ == "__main__":
     INPUT_DIRECTORY = '../../../Data/raw/disease_MY'
