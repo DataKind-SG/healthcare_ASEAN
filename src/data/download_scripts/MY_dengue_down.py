@@ -12,12 +12,16 @@ logger = logging.getLogger(__name__)
 
 
 def download():
-    os.makedirs(DIRECTORY, exist_ok=True)
 
     if sys.version_info < (3, 0):
+        try:
+            os.makedirs(DIRECTORY)
+        except OSError as e:
+            pass
         import urllib as downloader
         from urllib2 import URLError, HTTPError
     else:
+        os.makedirs(DIRECTORY, exist_ok=True)
         import urllib.request as downloader
         from urllib.error import URLError, HTTPError
 
