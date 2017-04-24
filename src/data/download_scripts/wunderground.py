@@ -30,7 +30,14 @@ def download():
             )
             url = "https://www.wunderground.com/history/airport/{0}/{1}/1/1/CustomHistory.html?dayend=31&monthend=12&yearend={2}&format=1".format(ws, year, year)
             # and here in the folder name
-            os.makedirs(data_dir, exist_ok=True)
+             if sys.version_info < (3, 0):
+                try:
+                    os.makedirs(DIRECTORY)
+                except OSError as e:
+                    pass
+            else:   
+                os.makedirs(data_dir, exist_ok=True)
+            
             filename = os.path.join(data_dir, "{0}-{1}.csv".format(ws,year))
             #  response = urllib2.urlopen(url)
             response = urlopen(url)
