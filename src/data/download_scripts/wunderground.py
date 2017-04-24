@@ -4,6 +4,7 @@ install_aliases()
 from urllib.request import urlopen
 import os
 import logging
+import sys
 
 data_dir = os.path.join(os.path.abspath(__file__ + '/../../../..'), 'data/raw/PH')
 logger = logging.getLogger(__name__)
@@ -30,9 +31,9 @@ def download():
             )
             url = "https://www.wunderground.com/history/airport/{0}/{1}/1/1/CustomHistory.html?dayend=31&monthend=12&yearend={2}&format=1".format(ws, year, year)
             # and here in the folder name
-             if sys.version_info < (3, 0):
+            if sys.version_info < (3, 0):
                 try:
-                    os.makedirs(DIRECTORY)
+                    os.makedirs(data_dir)
                 except OSError as e:
                     pass
             else:   
