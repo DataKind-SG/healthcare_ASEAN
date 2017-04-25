@@ -31,21 +31,21 @@ def main(log):
     download_scripts.SG_disease_down.download()
     logger.info('Finished downloading raw SG data')
 
-#    logger.info('Downloading raw weekly MY dengue data')
-#    download_scripts.MY_dengue_down.download()
-#    logger.info('Finished downloading raw MY data')
-#    
-#    logger.info('Downloading raw TH data')
-##    download_scripts.TH_malaria_dengue.download()
-#    logger.info('Finished downloading raw TH data')
-#    
-#    logger.info('Downloading wunderground data')
-#    #py3
-#    download_scripts.wunderground.download()
-#    logger.info('Finished downloading wunderground data')
-#    
-#    logger.info('Downloading apps.who.int data / malaria reported confirmed cases')
-##    download_scripts.apps_who_int.download()
-#    logger.info('Finished downloading apps.who.int data / malaria reported confirmed cases')
+    logger.info('Downloading raw weekly MY dengue data')
+    download_scripts.MY_dengue_down.download()
+    logger.info('Finished downloading raw MY data')
+    
+    logger.info('Downloading raw TH data')
+#    download_scripts.TH_malaria_dengue.download()
+    logger.info('Finished downloading raw TH data')
+    
+    logger.info('Downloading wunderground data')
+    #py3
+    download_scripts.wunderground.download()
+    logger.info('Finished downloading wunderground data')
+    
+    logger.info('Downloading apps.who.int data / malaria reported confirmed cases')
+#    download_scripts.apps_who_int.download()
+    logger.info('Finished downloading apps.who.int data / malaria reported confirmed cases')
 if __name__ == '__main__':
     main()
