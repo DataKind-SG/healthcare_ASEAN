@@ -5,7 +5,7 @@ import logging
 
 INPUT_DIRECTORY = '../../Data/raw/disease_MY'
 INPUT_FILE = "weekly-dengue.xlsx"
-OUTPUT_DIRECTORY = '../../Data/clean/disease_MY'
+OUTPUT_DIRECTORY = '../../Data/interim/disease_MY'
 OUTPUT_FILE = "weekly-dengue.csv"
 ROWS_NUM = 18
 
@@ -37,6 +37,15 @@ def clean():
 
     df = pd.concat(frames)
 
+
+    # Getting rid of all week's data if any region in this week is missed
+    null_df = df[df.isnull().any(axis=1)]
+    null_year_week = null_df[['year', 'week']]
+    null_set = set([tuple(x) for x in null_year_week.values])
+    criterion = lambda row: (row['year'], row['week']) not in null_set
+    df = df[df.apply(criterion, axis=1)]
+
+
     os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
     output_path = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
     df.to_csv(output_path, index=False)
@@ -46,6 +55,6 @@ def clean():
 
 if __name__ == "__main__":
     INPUT_DIRECTORY = '../../../Data/raw/disease_MY'
-    OUTPUT_DIRECTORY = '../../../Data/clean/disease_MY'
+    OUTPUT_DIRECTORY = '../../../Data/interim/disease_MY'
     logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
     clean()
