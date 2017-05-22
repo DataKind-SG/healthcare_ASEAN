@@ -7,10 +7,22 @@ Trello board: https://trello.com/b/NtM7qDC5/project-healthcare-asean<br />
 Slack Channel on DataKindSG team: #healthcare_asean<br />
 
 The data folder is currently not uploaded to the github repo (see .gitignore). 
-For new repositories, run: python \src\data\download_raw_data.py
-To get latest data, run: python \src\data\download_lastmonth_data.py
+For new repositories, run: python .\src\data\download_raw_data.py
+To get latest data, run: python .\src\data\download_lastmonth_data.py
 
 Previously collected data is available in the Project Google drive folder. 
+
+Project Setup
+------------
+**for python 2**
+virtualenv \<virtual env name\>
+
+**for python 3**
+python3.6 -m venv \<virtual env name\>
+
+source \<virtual env name\>/bin/activate (\<virtual env name\>/bin/activate.fish for fish shell)
+
+pip install -r requirements.txt
 
 Project Organization
 ------------
