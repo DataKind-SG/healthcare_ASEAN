@@ -45,6 +45,10 @@ def clean():
     criterion = lambda row: (row['year'], row['week']) not in null_set
     df = df[df.apply(criterion, axis=1)]
 
+    # Aggregation and summarizing by region
+    year_week_aggregation = df.groupby(by=['year', 'week'])['cases'].sum()
+    df = year_week_aggregation.to_frame()
+    df.reset_index(inplace=True)
 
     os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
     output_path = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
