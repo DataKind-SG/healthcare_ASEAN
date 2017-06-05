@@ -28,6 +28,7 @@ WEATHER_STATIONS = {
     'PH': weather_stations_PH
 }
 
+
 def download():
     countries_to_download = ['PH', 'MY']
 
