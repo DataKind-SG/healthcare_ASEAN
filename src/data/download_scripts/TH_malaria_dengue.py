@@ -66,6 +66,10 @@ def download():
             try:
                 raw_data = download_file(data_url)
             except requests.exceptions.RequestException as e:
+                if e.response.status_code == 404:
+                    logger.info('Failed to download %s since file was not found \
+                    on server with HTTP status code 404', e.response.url)
+                    continue
                 logger.exception(
                     'Failed to download %s with HTTP status code %i',
                     e.response.url, e.response.status_code
