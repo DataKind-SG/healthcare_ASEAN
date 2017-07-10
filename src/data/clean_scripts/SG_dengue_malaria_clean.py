@@ -19,7 +19,7 @@ def clean():
     data_frame['country'] = 'Singapore'
     year_week = pd.DataFrame(data_frame.year_week.str.split('-').tolist(), columns=['year','week'])
     data_frame['year'] = year_week['year']
-    data_frame['week'] = year_week['week']
+    data_frame['week'] = year_week['week'].str[1:]
     data_frame.drop('year_week', 1, inplace=True)
 
 
