@@ -36,19 +36,7 @@ def clean():
         skip_footer -= ROWS_NUM
 
     df = pd.concat(frames)
-
-
-    # Getting rid of all week's data if any region in this week is missed
-    null_df = df[df.isnull().any(axis=1)]
-    null_year_week = null_df[['year', 'week']]
-    null_set = set([tuple(x) for x in null_year_week.values])
-    criterion = lambda row: (row['year'], row['week']) not in null_set
-    df = df[df.apply(criterion, axis=1)]
-
-    # Aggregation and summarizing by region
-    year_week_aggregation = df.groupby(by=['year', 'week'])['cases'].sum()
-    df = year_week_aggregation.to_frame()
-    df.reset_index(inplace=True)
+    df = df[df.cases.notnull()]
 
     os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
     output_path = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
