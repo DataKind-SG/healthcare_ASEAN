@@ -72,3 +72,6 @@ target/
 # exclude data from source control by default
 /data/
 
+#environment setup
+/env
+/env2
