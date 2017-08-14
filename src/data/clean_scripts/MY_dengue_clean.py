@@ -37,8 +37,16 @@ def clean():
 
     df = pd.concat(frames)
     df = df[df.cases.notnull()]
-
-    os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
+    
+    if (sys.version_info < (3, 0)):
+        try:
+            os.makedirs(OUTPUT_DIRECTORY)
+        except OSError:
+            if not os.path.exists(OUTPUT_DIRECTORY):
+                raise
+    else:
+        os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
+        
     output_path = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
     df.to_csv(output_path, index=False)
 
