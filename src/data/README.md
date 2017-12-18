@@ -18,11 +18,11 @@
 
 # Processed Data Structure (End goal for data scripting)
 ## Weekly
-| location    | year   | week | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.
-| Singapore | 2012 | 1       | 1          | 0          | 32             | 30               | 28             | 20            | ... etc.
+| location    | year   | week | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.  
+| Singapore | 2012 | 1       | 1          | 0          | 32             | 30               | 28             | 20            | ... etc.  
 
 ## Yearly
-| location    | year   | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.
-| Singapore | 2012 | 100       | 10        | 32             | 30               | 28             | 20            | ... etc.
+| location    | year   | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.  
+| Singapore | 2012 | 100       | 10        | 32             | 30               | 28             | 20            | ... etc.  
 
 If data does not exist for that location (e.g. weekly Malaysia malaria), it will not be recorded as an observation in the table (e.g. weekly table).
