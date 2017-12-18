@@ -5,6 +5,7 @@ import download_scripts.SG_disease_down
 import download_scripts.TH_malaria_dengue
 import download_scripts.wunderground
 import download_scripts.MY_dengue_down
+import download_scripts.BN_dengue_malaria
 import os
 
 def validate_log_level(ctx, param, value):
@@ -35,9 +36,18 @@ def main(log):
     download_scripts.MY_dengue_down.download()
     logger.info('Finished downloading raw MY data')
     
+    logger.info('Downloading raw weekly BN dengue data')
+    download_scripts.BN_dengue_malaria.download()
+    logger.info('Finished downloading raw BN data')
+    
     logger.info('Downloading raw TH data')
 #    download_scripts.TH_malaria_dengue.download()
     logger.info('Finished downloading raw TH data')
+    
+    logger.info('Downloading wunderground data')
+    #py3
+    download_scripts.wunderground.download()
+    logger.info('Finished downloading wunderground data')
     
     logger.info('Downloading wunderground data')
     #py3
