@@ -33,14 +33,14 @@ def download():
     countries_to_download = ['PH', 'MY']
 
     for country in countries_to_download:
-        for year in range(2010,2016):
+        for year in range(2012,2017):
             # change the country you want to download meteorogical data from here
             for ws in WEATHER_STATIONS[country]:
                 logger.info(
                     "Downloading wunderground data for country %s, year %s and station %s",
                     country, year, ws
                 )
-                url = "https://www.wunderground.com/history/airport/{0}/{1}/1/1/CustomHistory.html?dayend=31&monthend=12&yearend={2}&format=1".format(ws, year, year)
+                url = "https://www.wunderground.com/history/airport/{0}/{1}/1/1/CustomHistory.html?dayend=31&monthend=12&yearend={2}&req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=".format(ws, year, year)
                 country_data_dir = "{}/{}".format(data_dir, country)
                 # and here in the folder name
                 if sys.version_info < (3, 0):
