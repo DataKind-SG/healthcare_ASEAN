@@ -12,6 +12,11 @@ To get latest data, run: `python .\src\data\download_lastmonth_data.py`
 
 Previously collected data is available in the Project Google drive folder. 
 
+Granularity
+------------
+ * weekly data
+ * location: state/province level 
+
 Project Setup
 ------------
 **for python 2**
