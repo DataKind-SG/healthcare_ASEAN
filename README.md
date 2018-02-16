@@ -25,10 +25,16 @@ Project Setup
 **for python 3**
 `python3 -m venv \<virtual env name\>`
 
-`source \<virtual env name\>/bin/activate` (`\<virtual env name\>/bin/activate.fish` for fish shell)
-(for windows, run command `\path\to\env\Scripts\activate`)
-
+#### On Unix or MacOS, run:
+`source \<virtual env name\>/bin/activate`  
+(`\<virtual env name\>/bin/activate.fish` for fish shell)
+#### On Windows, run command:
+`\path\to\env\Scripts\activate`)
+#### Install required packages
 `pip install -r requirements.txt`
+
+#### To deactivate virtual environment, run:
+`deactivate`
 
 Project Organization
 ------------
@@ -49,7 +55,6 @@ Project Organization
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
-    │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
@@ -78,5 +83,13 @@ Project Organization
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
-    │
+    ├── test               <- Directory for souce codes testing
+    │   ├── func           <- Directory for souce codes functional testing
+    │   │   ├── data
+    │   │   ├── features
+    │   │   └── models
+    │   ├── unit           <- Directory for souce codes unit testing
+    │   │   ├── data
+    │   │   ├── features
+    │   │   └── models
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
