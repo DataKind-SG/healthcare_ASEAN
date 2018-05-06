@@ -1,19 +1,21 @@
 # Files
-  |-- download_scripts - folder for scripts called by download_raw_data.py   
-  |   +-- *.py  
+  |-- download - folder for scripts to download raw data into raw folder  
+  |   +-- download.py - script to download and update raw data   
+  |   +-- *.py  - scrips called by download.py  
   |  
-  |-- clean_scripts - folder for scripts called by clean_data.py  
-  |   +-- *.py  
+  |-- clean - folder for scripts to clean data into interim folder  
+  |   +-- clean.py - script to clean raw data  
+  |   +-- *.py - scripts called by clean.py  
   |  
-  |-- download_raw_data.py - script to download and update raw data  
-  |-- clean_data.py - script to clean raw data into interim folder  
-  |-- preprocess_data.py - script to process the data into processed folder for visualization and analysis  
+  |-- preprocess - folder for scrips to process the data into processed folder for visualization and analysis  
+  |   +-- process.py - script to process the data  
+  |   +-- *.py - scripts called by process.py  
 
 # Steps to run:
+1. python download.py
+2. python clean.py
+3. python preprocess.py
 
-1. python download_raw_data.py
-2. python clean_data.py
-3. python preprocess_data.py
 
 # Processed Data Structure (End goal for data scripting)
 ## Weekly

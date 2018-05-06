@@ -3,38 +3,19 @@ healthcare_ASEAN
 
 Open data project on exploration of healthcare data for the ASEAN region, currently focusing on Malaria and Dengue. 
 
-Trello board: https://trello.com/b/NtM7qDC5/project-healthcare-asean<br />
-Slack Channel on DataKindSG team: #healthcare_asean<br />
+Trello board: https://trello.com/b/NtM7qDC5/project-healthcare-asean  
+Slack Channel on DataKindSG team: #healthcare_asean  
 
-The data folder is currently not uploaded to the github repo (see .gitignore). 
-For new repositories, run: `python download_raw_data.py` from `.\src\data\`
-To get latest data, run: `python .\src\data\download_lastmonth_data.py`
+The data folder is currently not uploaded to the github repo (see .gitignore)  
+For new repositories, run: `python download.py` from `.\src\data\`  
+To get latest data, run: `python .\src\data\download_lastmonth_data.py`  
 
-Previously collected data is available in the Project Google drive folder. 
+Previously collected data is available in the Project Google drive folder.  
 
 Granularity
 ------------
  * weekly data
  * location: state/province level 
-
-Project Setup
-------------
-**for python 2**
-`virtualenv \<virtual env name\>`
-
-**for python 3**
-`python3 -m venv \<virtual env name\>`
-
-#### On Unix or MacOS, run:
-`source \<virtual env name\>/bin/activate`  
-(`\<virtual env name\>/bin/activate.fish` for fish shell)
-#### On Windows, run command:
-`\path\to\env\Scripts\activate`)
-#### Install required packages
-`pip install -r requirements.txt`
-
-#### To deactivate virtual environment, run:
-`deactivate`
 
 Project Organization
 ------------

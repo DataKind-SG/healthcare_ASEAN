@@ -1,13 +1,16 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov  9 12:48:12 2016
-
 @author: Dathappy
+Modified: 5 May 2018 by arynchoong
 """
 
-import urllib.request
 import os
-
+import urllib.request as r
+import pandas as pd
+import logging
+logger = logging.getLogger(__name__)
+log.addhandler(logging.NullHandler())
 
 def download(path,month,year):
     # test of the folder name
