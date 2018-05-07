@@ -8,34 +8,68 @@ Modified: 5 May 2018 by arynchoong
 import os
 import urllib.request as r
 import pandas as pd
+from datetime import datetime
 import logging
 logger = logging.getLogger(__name__)
-log.addhandler(logging.NullHandler())
+logger.addHandler(logging.NullHandler())
 
-def download(path,month,year):
+DIRECTORY = '../../Data/raw/'
+
+def download():
+    """Download weather data from weather.gov.sg"""
+    logger.info('Downloading weather data from weather.gov.sg')
+    
     # test of the folder name
-    os.makedirs(path, exist_ok=True)
+    base_url = "http://www.weather.gov.sg/files/dailydata/DAILYDATA_"
+    out_path = DIRECTORY + "weather/"
+    if not os.path.exists(out_path):
+        os.makedirs(out_path)
     # include your weather stations here by country, get the METARS site code from the station.txt file.
-    weather_stations_SG = ('S104','S105','S109','S86','S63','S120','S55','S64','S90','S92','S61','S24','S114','S121','S11','S50','S118','S107','S39','S101','S44','S117','S33','S31','S71','S122','S566','S112','S508','S07','S40','S108','S113','S111','S119','S116','S94','S29','S06','S106','S81','S77','S25','S102','S80','S60','S36','S110','S84','S79','S43','S78','S72','S23','S88','S89','S115','S82','S35','S69','S46','S123','S91')
+    weather_station_ids = [23, 24, 25, 43, 44, 50, 60, 80, 86, 102, 104, 106, 107, 108, 109, 111, 115]
+    months = list(range(1,13))
+    years = list(range(2012,2019))
+    today_ym = int(datetime.today().strftime("%Y%m"))
+    today_d = int(datetime.today().strftime("%d"))
+    logger.debug('today ym: %d, day %d', today_ym, today_d)
+    
+    # add headers by building an opener
+    opener = r.build_opener()
+    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+    
     # will loop thru each weather station and try to download the csv datafile
-    for ws in weather_stations_SG:
-        try:
-            # sets the URL of the CSV
-            url = "http://www.weather.gov.sg/files/dailydata/DAILYDATA_" + ws + "_"+ str(year) + str(month) + ".csv"         
-            # sets the filename
-            file = ws+ "_" + str(month)+str(year)+'.csv'
-            filename = os.path.join(path,file)            
-            # retrieve the file
-            urllib.request.urlretrieve(url, filename)
-        # as not all data is available the same month for all the stations you will get a 404 error if the data is not here
-        except:
-            pass
+    for year in years:
+        y = str(year)
+        for month in months:
+            m = "%02d"%month
+            file_ym = int(y+m)
+            if ((file_ym == (today_ym-1)) and (today_d <= 10)):
+                break
+            elif (file_ym == today_ym):
+                break
+            for station_id in weather_station_ids:
+                ws = 'S' + str(station_id)
+                try:
+                    # set URL
+                    url = base_url + ws + "_" + y + m + ".csv"
+                    # set out file name
+                    filename = out_path + ws + "_" + y + m + ".csv"
+                    # Download the file from `URL` and save it locally under `FILE_NAME`:
+                    with opener.open(url) as response:
+                        if response.status_code == 200:
+                            with open(filename, 'wb') as out_file:
+                                data = response.read() # a `bytes` object
+                                out_file.write(data)
+                except:
+                    # as not all data is available the same month for all the stations you will get a 404 error if the data is not here
+                    logger.debug('error, url: %s',url)
+                    pass
         
-        
-# set the folder name
-path = r'../../Data/raw/weather_SG'
-
+if __name__ == '__main__':
+    logging.basicConfig(level=logging.DEBUG)
+    download()
+    
+# TODO: 
 # the month seems to be the previous one ane instead of having it in the code, 
 #it could be current month -1 if relevant (same for the year)
 # Example: download all files of september 2016
-download(path,"09","2016")
+

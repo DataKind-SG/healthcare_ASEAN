@@ -7,7 +7,7 @@ import json
 import csv
 import logging
 logger = logging.getLogger(__name__)
-log.addhandler(logging.NullHandler())
+logger.addHandler(logging.NullHandler())
 
 DIRECTORY = '../../Data/raw/disease_SG'
 OUTFILE = "../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
@@ -33,6 +33,7 @@ def download():
      
         temp=json.loads(fileobj.read())
         with open(OUTFILE, 'wb') as csvfile:
+            logger.debug('py2: open file for writing')
             writethis = csv.writer(csvfile, delimiter=',')
             writethis.writerow(["epi_week","disease","no_of_cases"])
             for i in temp["result"]["records"]:
@@ -47,14 +48,15 @@ def download():
         temp=json.loads(fileobj.text)
     
         with open(OUTFILE, 'w', newline='') as csvfile:
+            logger.debug('py3: open file for writing')
             writethis = csv.writer(csvfile, delimiter=',')
             writethis.writerow(["epi_week","disease","no_of_cases"])
             for i in temp["result"]["records"]:
                 if i["disease"] in DISEASE_LIST:
                     writethis.writerow([i["epi_week"], i["disease"], i["no._of_cases"]])
-    
     logger.info('Finished downloading raw SG data')
     return
     
 if __name__ == '__main__':
+    logging.basicConfig()
     download()

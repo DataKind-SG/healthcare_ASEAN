@@ -31,9 +31,9 @@ def download():
 
     output_path = os.path.join(DIRECTORY, OUTFILE)
 
-# now retrieve the file
-try:
-    downloader.urlretrieve(URL, output_path)
+    # now retrieve the file
+    try:
+        downloader.urlretrieve(URL, output_path)
         logger.info('Downloaded successfully to %s', os.path.abspath(output_path))
     except (HTTPError, URLError) as e:
         logger.error('Failed to download: %s', e.reason)

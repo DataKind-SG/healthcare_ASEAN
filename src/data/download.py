@@ -1,36 +1,43 @@
 # Call download scripts 
-from download import *
+#from download import *
+import download.SG_disease
+import download.SG_weather
+import download.MY_dengue
+import download.BN_disease
+import download.TH_disease
+import download.wunderground
+import download.apps_who_int
 import os
-
+import sys
 import logging
+import logging.config
 logger = logging.getLogger(__name__)
-log.addhandler(logging.NullHandler())
+logger.addHandler(logging.NullHandler())
 
 DIRECTORY = '../../Data/raw'
 
 def main():
     logger.info('Downloading raw weekly MY dengue data')
     
-    if sys.version_info < (3, 0):
-        if not os.path.exists(DIRECTORY):
-            os.makedirs(DIRECTORY)
-    else:
-        os.makedirs(DIRECTORY, exist_ok=True)
+    if not os.path.exists(DIRECTORY):
+        os.makedirs(DIRECTORY)
     
     # Singapore
-    download.SG_disease_down.download()
+    download.SG_disease.download()
     download.SG_weather.download()
-    
+    return
+
+def temp():
     logger.info('Downloading raw weekly MY dengue data')
-    download.MY_dengue_down.download()
+    download.MY_dengue.download()
     logger.info('Finished downloading raw MY data')
     
     logger.info('Downloading raw weekly BN dengue data')
-    download.BN_dengue_malaria.download()
+    download.BN_disease.download()
     logger.info('Finished downloading raw BN data')
     
     logger.info('Downloading raw TH data')
-    download.TH_malaria_dengue.download()
+    download.TH_disease.download()
     logger.info('Finished downloading raw TH data')
     
     logger.info('Downloading wunderground data')
@@ -40,7 +47,9 @@ def main():
     logger.info('Downloading apps.who.int data / malaria reported confirmed cases')
     download.apps_who_int.download()
     logger.info('Finished downloading apps.who.int data / malaria reported confirmed cases')
+    return
 
 
 if __name__ == '__main__':
+    logging.config.fileConfig('logconf.ini')
     main()
