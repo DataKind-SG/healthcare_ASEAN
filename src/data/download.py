@@ -5,6 +5,7 @@ import download.SG_weather
 import download.MY_dengue
 import download.BN_disease
 import download.TH_disease
+import download.ID_malaria
 import download.wunderground
 import download.apps_who_int
 import os
@@ -32,6 +33,9 @@ def main():
     
     # Malaysia
     download.MY_dengue.download()
+
+    #Indonesia
+    download.ID_malaria.download()
     return
 
 def temp():
