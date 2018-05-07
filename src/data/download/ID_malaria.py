@@ -15,7 +15,6 @@ logger = logging.getLogger(__name__)
 logger.addHandler(logging.NullHandler())
 
 def download():
-
     """ Download malaria statistics from data.go.id """
     logger.info("Downloading raw data of Malaria statistics in Indonesia between 2010 - 2015")
 
