@@ -10,10 +10,11 @@ import urllib.request as r
 import pandas as pd
 from datetime import datetime
 import logging
-logger = logging.getLogger(__name__)
-logger.addHandler(logging.NullHandler())
 
 DIRECTORY = '../../Data/raw/'
+
+logger = logging.getLogger(__name__)
+logger.addHandler(logging.NullHandler())
 
 def download():
     """Download weather data from weather.gov.sg"""
@@ -65,7 +66,9 @@ def download():
                     pass
         
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.DEBUG)
+    import logging.config
+    logging.config.fileConfig('logconf.ini')
+    DIRECTORY = '../../../Data/raw/'
     download()
     
 # TODO: 
