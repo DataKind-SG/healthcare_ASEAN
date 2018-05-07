@@ -9,6 +9,7 @@ OUTFILE = "Trend of Notifiable Diseases (2008 - 2012).xlsx"
 URL = "https://www.data.gov.bn/Lists/dataset/Attachments/460/Trend%20of%20Notifiable%20Diseases%20(2008%20-%202012).xlsx"
 
 logger = logging.getLogger(__name__)
+logger.addHandler(logging.NullHandler())
 
 
 def download():
