@@ -4,14 +4,17 @@ import sys
 import logging
 
 
-DIRECTORY = '../../Data/raw/disease_BN'
+DIRECTORY = '../../data/raw/disease_BN'
 OUTFILE = "Trend of Notifiable Diseases (2008 - 2012).xlsx"
 URL = "https://www.data.gov.bn/Lists/dataset/Attachments/460/Trend%20of%20Notifiable%20Diseases%20(2008%20-%202012).xlsx"
 
 logger = logging.getLogger(__name__)
+logger.addHandler(logging.NullHandler())
 
 
 def download():
+    """ Download disease data from data.gov.bn """
+    logging.info('Downloading raw data of Notifiable Diseases between 2008 and 2012')
 
     if sys.version_info < (3, 0):
         try:
@@ -35,6 +38,5 @@ def download():
 
 
 if __name__ == "__main__":
-    DIRECTORY = '../../../Data/raw/disease_BN'
-    logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+    logging.basicConfig(level=logging.DEBUG)
     download()
