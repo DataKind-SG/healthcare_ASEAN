@@ -8,11 +8,13 @@ DIRECTORY = '../../Data/raw/disease_MY'
 OUTFILE = "weekly-dengue.xlsx"
 URL = "http://www.data.gov.my/data/dataset/63d41a34-f35c-4bd3-b380-c61bfb10949b/resource/bc0f93fa-f95b-4100-9d0f-a2d4c194b317/download/kesdenggi2010-2015.xlsx"
 
-logger = logging.getLogger(__name__)
-
+logger = logging.getLogger()
+logger.addHandler(logging.NullHandler())
 
 def download():
-
+    """Malaysia weekly dengue disease download"""
+    logger.info('Downloading raw weekly MY dengue data')
+    
     if sys.version_info < (3, 0):
         try:
             os.makedirs(DIRECTORY)
@@ -32,9 +34,13 @@ def download():
         logger.info('Downloaded successfully to %s', os.path.abspath(output_path))
     except (HTTPError, URLError) as e:
         logger.error('Failed to download: %s', e.reason)
+    
+    logger.info('Finished downloading raw MY data')
+    return
 
 
 if __name__ == "__main__":
+    import logging.config
+    logging.config.fileConfig('logconf.ini')
     DIRECTORY = '../../../Data/raw/disease_MY'
-    logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
     download()

@@ -12,7 +12,8 @@ import os
 import sys
 import logging
 import logging.config
-logger = logging.getLogger(__name__)
+
+logger = logging.getLogger()
 logger.addHandler(logging.NullHandler())
 
 DIRECTORY = '../../Data/raw'
@@ -27,17 +28,17 @@ def main():
     download.SG_disease.download()
     download.SG_weather.download()
 
-    #Brunei
+    # Brunei
     download.BN_disease.download()
+    
+    # Malaysia
+    download.MY_dengue.download()
 
     #Indonesia
     download.ID_malaria.download()
     return
 
 def temp():
-    logger.info('Downloading raw weekly MY dengue data')
-    download.MY_dengue.download()
-    logger.info('Finished downloading raw MY data')
     
     logger.info('Downloading raw TH data')
     download.TH_disease.download()

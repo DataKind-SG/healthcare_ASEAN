@@ -6,7 +6,8 @@ import os
 import json
 import csv
 import logging
-logger = logging.getLogger(__name__)
+
+logger = logging.getLogger()
 logger.addHandler(logging.NullHandler())
 
 DIRECTORY = '../../Data/raw/disease_SG'
@@ -58,5 +59,8 @@ def download():
     return
     
 if __name__ == '__main__':
-    logging.basicConfig()
+    import logging.config
+    logging.config.fileConfig('logconf.ini')
+    DIRECTORY = '../../../Data/raw/disease_SG'
+    OUTFILE = "../../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
     download()
