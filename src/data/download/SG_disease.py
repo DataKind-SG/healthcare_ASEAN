@@ -14,7 +14,7 @@ DIRECTORY = '../../Data/raw/disease_SG'
 OUTFILE = "../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
 DISEASE_LIST = ["Dengue Fever", "Dengue Haemorrhagic Fever", "Malaria"]
 
-url = 'https://data.gov.sg/api/action/datastore_search?resource_id=ef7e44f1-9b14-4680-a60a-37d2c9dda390&limit=10000'
+URL = 'https://data.gov.sg/api/action/datastore_search?resource_id=ef7e44f1-9b14-4680-a60a-37d2c9dda390&limit=10000'
         
 def download():
     """Download disease data from data.gov.sg"""
@@ -29,7 +29,7 @@ def download():
         
         import urllib2
 
-        request = urllib2.Request(url, headers={'User-Agent' : "Magic Browser"})
+        request = urllib2.Request(URL, headers={'User-Agent' : "Magic Browser"})
         fileobj = urllib2.urlopen(request)
      
         temp=json.loads(fileobj.read())
@@ -45,7 +45,7 @@ def download():
         os.makedirs(DIRECTORY, exist_ok=True)
         import requests
     
-        fileobj = requests.get(url)
+        fileobj = requests.get(URL)
         temp=json.loads(fileobj.text)
     
         with open(OUTFILE, 'w', newline='') as csvfile:

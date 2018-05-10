@@ -12,7 +12,8 @@ PAGE_URL = BASE_URL + '/disease.php?dcontent=old&ds={}'
 DISEASE_CODES = {'Malaria': 30, 'Dengue Fever': 66}
 DATA_DIR = os.path.join(os.path.abspath(__file__ + '/../../../..'), 'data/raw')
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger()
+logger.addHandler(logging.NullHandler())
 
 
 def log_url(r, *args, **kwargs):
@@ -83,4 +84,6 @@ def download():
             logger.info('Finished downloading files for %s', name)
 
 if __name__ == '__main__':
+    import logging.config
+    logging.config.fileConfig('logconf.ini')
     download()

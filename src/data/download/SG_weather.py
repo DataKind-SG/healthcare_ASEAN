@@ -13,7 +13,7 @@ import logging
 
 DIRECTORY = '../../Data/raw/'
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger()
 logger.addHandler(logging.NullHandler())
 
 def download():
@@ -22,10 +22,11 @@ def download():
     
     # test of the folder name
     base_url = "http://www.weather.gov.sg/files/dailydata/DAILYDATA_"
-    out_path = DIRECTORY + "weather/"
+    out_path = DIRECTORY + "weather_SG/"
     if not os.path.exists(out_path):
         os.makedirs(out_path)
-    # include your weather stations here by country, get the METARS site code from the station.txt file.
+    # weather stations that has data from year 2012 onwards, and has mean teamperatures.
+    # http://www.weather.gov.sg/wp-content/uploads/2016/12/Station_Records.pdf
     weather_station_ids = [23, 24, 25, 43, 44, 50, 60, 80, 86, 102, 104, 106, 107, 108, 109, 111, 115]
     months = list(range(1,13))
     years = list(range(2012,2019))
