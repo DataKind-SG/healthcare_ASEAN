@@ -48,11 +48,14 @@ Project Organization
     │   ├── __init__.py    <- Makes src a Python module
     │   │
     │   ├── data
-    │   │   └── download_scripts <- Scripts for downloading from each raw data
-    │   │   │                       source
-    │   │   └── download_raw_data.py <- Script to download raw data using
-    │   │   │                           modules in `download_scripts/`
-    │   │   └── make_dataset.py <- Script to clean raw data
+    │   │   ├── download   <- Scripts for downloading from each raw data source
+    │   │   │   └── logconf.ini <- setup for logging configuration for scripts in download/
+    │   │   ├── download.py <- Script to download raw data using modules in `download/`
+    │   │   │
+    │   │   ├── clean      <- Scripts to clean raw data
+    │   │   ├── clean.py   <- Script to clean raw data using modules in 'clean/'
+    │   │   │
+    │   │   └── logconf.ini <- setup for logging configuration for scripts in data/
     │   │
     │   ├── features       <- Scripts to turn raw data into features for modeling
     │   │   └── build_features.py
