@@ -1,66 +1,88 @@
-#This script downloads disease statistics from data.gov.sg
-#download for the month.
+# This script downloads weekly disease statistics from moh.gov.sg
 
-import sys
 import os
-import json
-import csv
+import sys
 import logging
+from requests import get
+from requests.exceptions import RequestException
+from contextlib import closing
+from bs4 import BeautifulSoup
+
+
+DIRECTORY = '../../data/raw/disease_SG'
+MOH_URL = 'https://www.moh.gov.sg'
+URL = 'https://www.moh.gov.sg/resources-statistics/infectious-disease-statistics/2018/weekly-infectious-diseases-bulletin'
+
 
 logger = logging.getLogger()
 logger.addHandler(logging.NullHandler())
 
-DIRECTORY = '../../Data/raw/disease_SG'
-OUTFILE = "../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
-DISEASE_LIST = ["Dengue Fever", "Dengue Haemorrhagic Fever", "Malaria"]
 
-URL = 'https://data.gov.sg/api/action/datastore_search?resource_id=ef7e44f1-9b14-4680-a60a-37d2c9dda390&limit=10000'
-        
 def download():
-    """Download disease data from data.gov.sg"""
-    logger.info('Downloading raw weekly SG Dengue and Malaria data')
-    
-    # Python 2
+    ''' Download disease data from moh.gov.sg '''
+    logger.info('Downloading raw data of SG Weekly infectious Bulletin')
+
     if sys.version_info < (3, 0):
         try:
             os.makedirs(DIRECTORY)
         except OSError as e:
             pass
-        
-        import urllib2
-
-        request = urllib2.Request(URL, headers={'User-Agent' : "Magic Browser"})
-        fileobj = urllib2.urlopen(request)
-     
-        temp=json.loads(fileobj.read())
-        with open(OUTFILE, 'wb') as csvfile:
-            logger.debug('py2: open file for writing')
-            writethis = csv.writer(csvfile, delimiter=',')
-            writethis.writerow(["epi_week","disease","no_of_cases"])
-            for i in temp["result"]["records"]:
-                if i["disease"] in DISEASE_LIST:
-                    writethis.writerow([i["epi_week"], i["disease"], i["no._of_cases"]])
-    # Python 3
+        import urllib as downloader
+        from urllib2 import URLError, HTTPError
     else:
         os.makedirs(DIRECTORY, exist_ok=True)
-        import requests
-    
-        fileobj = requests.get(URL)
-        temp=json.loads(fileobj.text)
-    
-        with open(OUTFILE, 'w', newline='') as csvfile:
-            logger.debug('py3: open file for writing')
-            writethis = csv.writer(csvfile, delimiter=',')
-            writethis.writerow(["epi_week","disease","no_of_cases"])
-            for i in temp["result"]["records"]:
-                if i["disease"] in DISEASE_LIST:
-                    writethis.writerow([i["epi_week"], i["disease"], i["no._of_cases"]])
-    logger.info('Finished downloading raw SG data')
-    return
-    
-if __name__ == '__main__':
+        import urllib.request as downloader
+        from urllib.error import URLError, HTTPError
+
+    # Get webpage and extract the data file path
+    soup = BeautifulSoup(simple_get(URL), 'html.parser')
+    file_path = soup.find(lambda tag:tag.name=='a' and 'Weekly infectious bulletin' in tag.text)['href']
+    data_url = MOH_URL + file_path
+
+    try:
+        # Extract data file name
+        outfile = data_url[data_url.rindex('/')+1:data_url.rindex('.xlsx')+5]
+        output_path = os.path.join(DIRECTORY, outfile)
+
+        # Download raw data file
+        downloader.urlretrieve(data_url, output_path)
+        logger.info('Downloaded successfully to %s', os.path.abspath(output_path))
+
+    except ValueError as e:
+        logger.error('Failed extract data file name: %s', e.reason)
+    except (HTTPError, URLError) as e:
+        logger.error('Failed to download: %s', e.reason)
+
+
+def simple_get(url):
+    '''
+    Attempts to get the content at `url` by making an HTTP GET request.
+    If the content-type of response is some kind of HTML/XML, return the
+    text content, otherwise return None.
+    '''
+    try:
+        with closing(get(url, stream=True)) as resp:
+            if is_good_response(resp):
+                return resp.content
+            else:
+                return None
+
+    except RequestException as e:
+        logger.error('Error during requests to {0} : {1}'.format(url, str(e)))
+        return None
+
+
+def is_good_response(resp):
+    '''
+    Returns True if the response seems to be HTML, False otherwise.
+    '''
+    content_type = resp.headers['Content-Type'].lower()
+    return (resp.status_code == 200
+            and content_type is not None
+            and content_type.find('html') > -1)
+
+
+if __name__ == "__main__":
     import logging.config
     logging.config.fileConfig('logconf.ini')
-    DIRECTORY = '../../../Data/raw/disease_SG'
-    OUTFILE = "../../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
     download()
