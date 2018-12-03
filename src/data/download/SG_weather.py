@@ -57,7 +57,7 @@ def download():
                     filename = out_path + ws + "_" + y + m + ".csv"
                     # Download the file from `URL` and save it locally under `FILE_NAME`:
                     with opener.open(url) as response:
-                        if response.code == 200:
+                        if response.getcode() == 200:
                             with open(filename, 'wb') as out_file:
                                 data = response.read() # a `bytes` object
                                 out_file.write(data)
