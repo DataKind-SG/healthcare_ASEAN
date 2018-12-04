@@ -28,8 +28,7 @@ def download():
     # weather stations that has data from year 2012 onwards, and has mean teamperatures.
     # http://www.weather.gov.sg/wp-content/uploads/2016/12/Station_Records.pdf
     weather_station_ids = [23, 24, 25, 43, 44, 50, 60, 80, 86, 102, 104, 106, 107, 108, 109, 111, 115]
-    months = list(range(1,13))
-    years = list(range(2012,2019))
+    current_year = int(datetime.today().strftime("%Y"))
     today_ym = int(datetime.today().strftime("%Y%m"))
     today_d = int(datetime.today().strftime("%d"))
     logger.debug('today ym: %d, day %d', today_ym, today_d)
@@ -39,9 +38,9 @@ def download():
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
     # will loop thru each weather station and try to download the csv datafile
-    for year in years:
+    for year in range(2012,current_year+1):
         y = str(year)
-        for month in months:
+        for month in range(1,13):
             m = "%02d"%month
             file_ym = int(y+m)
             if ((file_ym == (today_ym-1)) and (today_d <= 10)):
