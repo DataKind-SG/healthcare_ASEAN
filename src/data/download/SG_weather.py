@@ -19,7 +19,7 @@ logger.addHandler(logging.NullHandler())
 def download():
     """Download weather data from weather.gov.sg"""
     logger.info('Downloading weather data from weather.gov.sg')
-    
+
     # test of the folder name
     base_url = "http://www.weather.gov.sg/files/dailydata/DAILYDATA_"
     out_path = DIRECTORY + "weather_SG/"
@@ -33,11 +33,11 @@ def download():
     today_ym = int(datetime.today().strftime("%Y%m"))
     today_d = int(datetime.today().strftime("%d"))
     logger.debug('today ym: %d, day %d', today_ym, today_d)
-    
+
     # add headers by building an opener
     opener = r.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-    
+
     # will loop thru each weather station and try to download the csv datafile
     for year in years:
         y = str(year)
@@ -65,15 +65,14 @@ def download():
                     # as not all data is available the same month for all the stations you will get a 404 error if the data is not here
                     logger.debug('error, url: %s',url)
                     pass
-        
+
 if __name__ == '__main__':
     import logging.config
     logging.config.fileConfig('logconf.ini')
     DIRECTORY = '../../../Data/raw/'
     download()
-    
-# TODO: 
-# the month seems to be the previous one ane instead of having it in the code, 
+
+# TODO:
+# the month seems to be the previous one ane instead of having it in the code,
 #it could be current month -1 if relevant (same for the year)
 # Example: download all files of september 2016
-
