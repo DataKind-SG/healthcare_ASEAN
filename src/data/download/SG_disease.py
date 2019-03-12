@@ -7,11 +7,12 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
-
+from datetime import datetime
 
 DIRECTORY = '../../data/raw/disease_SG'
 MOH_URL = 'https://www.moh.gov.sg'
-URL = 'https://www.moh.gov.sg/resources-statistics/infectious-disease-statistics/2018/weekly-infectious-diseases-bulletin'
+CURRENT_YEAR = datetime.today().strftime("%Y")
+URL = 'https://www.moh.gov.sg/resources-statistics/infectious-disease-statistics/'+CURRENT_YEAR+'/weekly-infectious-diseases-bulletin'
 
 
 logger = logging.getLogger()
@@ -85,4 +86,6 @@ def is_good_response(resp):
 if __name__ == "__main__":
     import logging.config
     logging.config.fileConfig('logconf.ini')
+    DIRECTORY = '../../../Data/raw/disease_SG'
+    OUTFILE = "../../../Data/raw/disease_SG/weekly-dengue-malaria.csv"
     download()
