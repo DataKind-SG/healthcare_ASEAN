@@ -2,11 +2,10 @@
 """
 Created on Wed Nov  9 12:48:12 2016
 @author: Dathappy
-Modified: 5 May 2018 by arynchoong
+Last Modified: 9 Mar 2019 by arynchoong
 """
 
 import os
-import urllib.request as r
 import pandas as pd
 from datetime import datetime
 import logging
@@ -19,6 +18,19 @@ logger.addHandler(logging.NullHandler())
 def download():
     """Download weather data from weather.gov.sg"""
     logger.info('Downloading weather data from weather.gov.sg')
+
+    # setup for different python versions
+    if sys.version_info < (3, 0):
+        try:
+            os.makedirs(DIRECTORY)
+        except OSError as e:
+            pass
+        import urllib as r
+        from urllib2 import URLError, HTTPError
+    else:
+        os.makedirs(DIRECTORY, exist_ok=True)
+        import urllib.request as r
+        from urllib.error import URLError, HTTPError
 
     # test of the folder name
     base_url = "http://www.weather.gov.sg/files/dailydata/DAILYDATA_"

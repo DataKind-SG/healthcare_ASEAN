@@ -2,8 +2,6 @@ click
 pandas
 Sphinx
 coverage
-awscli
-flake8
 future
 python-dotenv>=0.5.1
 alabaster==0.7.8

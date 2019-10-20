@@ -40,4 +40,5 @@ def download():
 if __name__ == "__main__":
     import logging.config
     logging.config.fileConfig('logconf.ini')
+    DIRECTORY = '../../../data/raw/disease_BN'
     download()

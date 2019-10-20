@@ -37,7 +37,7 @@ def download():
 
     # Get webpage and extract the data file path
     soup = BeautifulSoup(simple_get(URL), 'html.parser')
-    file_path = soup.find(lambda tag:tag.name=='a' and 'Weekly infectious bulletin' in tag.text)['href']
+    file_path = soup.find(lambda tag:tag.name=='a' and 'Weekly' in tag.text)['href']
     data_url = MOH_URL + file_path
 
     try:

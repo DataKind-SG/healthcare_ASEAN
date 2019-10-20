@@ -7,7 +7,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
+env*/
 build/
 develop-eggs/
 dist/
@@ -69,9 +69,8 @@ target/
 # IPython NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
+# exclude interim data from source control by default
+data/interim/
 
 #environment setup
-/env
-/env2
+venv/

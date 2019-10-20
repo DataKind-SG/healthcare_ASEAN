@@ -21,7 +21,9 @@
 ## Weekly
 | location    | year   | week | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.  
 | Singapore | 2012 | 1       | 1          | 0          | 32             | 30               | 28             | 20            | ... etc.  
-
+## Monthly
+| location    | year   | month | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.  
+| Singapore | 2012 | 1       | 1          | 0          | 32             | 30               | 28             | 20            | ... etc.  
 ## Yearly
 | location    | year   | dengue | malaria | MaxTempC | MeanTempC | MinTempC | DewPointC | ... etc.  
 | Singapore | 2012 | 100       | 10        | 32             | 30               | 28             | 20            | ... etc.  

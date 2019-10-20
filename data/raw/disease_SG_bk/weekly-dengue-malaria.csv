@@ -1,0 +1,892 @@
+epi_week,disease,no_of_cases
+2012-W17,Dengue Fever,64
+2012-W17,Dengue Haemorrhagic Fever,0
+2012-W17,Malaria,2
+2012-W18,Dengue Fever,86
+2012-W18,Dengue Haemorrhagic Fever,2
+2012-W18,Malaria,2
+2012-W19,Dengue Fever,96
+2012-W19,Dengue Haemorrhagic Fever,1
+2012-W19,Malaria,1
+2012-W20,Dengue Fever,80
+2012-W20,Dengue Haemorrhagic Fever,0
+2012-W20,Malaria,2
+2012-W21,Dengue Fever,80
+2012-W21,Dengue Haemorrhagic Fever,0
+2012-W21,Malaria,1
+2012-W22,Dengue Fever,81
+2012-W22,Dengue Haemorrhagic Fever,0
+2012-W22,Malaria,2
+2012-W23,Dengue Fever,99
+2012-W23,Dengue Haemorrhagic Fever,1
+2012-W23,Malaria,3
+2012-W24,Dengue Fever,87
+2012-W24,Dengue Haemorrhagic Fever,1
+2012-W24,Malaria,3
+2012-W25,Dengue Fever,128
+2012-W25,Dengue Haemorrhagic Fever,1
+2012-W25,Malaria,5
+2012-W26,Dengue Fever,151
+2012-W26,Dengue Haemorrhagic Fever,0
+2012-W26,Malaria,7
+2012-W27,Dengue Fever,140
+2012-W27,Dengue Haemorrhagic Fever,0
+2012-W27,Malaria,4
+2012-W28,Dengue Fever,131
+2012-W28,Dengue Haemorrhagic Fever,1
+2012-W28,Malaria,6
+2012-W29,Dengue Fever,124
+2012-W29,Dengue Haemorrhagic Fever,1
+2012-W29,Malaria,9
+2012-W30,Dengue Fever,110
+2012-W30,Dengue Haemorrhagic Fever,0
+2012-W30,Malaria,2
+2012-W31,Dengue Fever,94
+2012-W31,Dengue Haemorrhagic Fever,0
+2012-W31,Malaria,5
+2012-W32,Dengue Fever,127
+2012-W32,Dengue Haemorrhagic Fever,0
+2012-W32,Malaria,4
+2012-W33,Dengue Fever,115
+2012-W33,Dengue Haemorrhagic Fever,0
+2012-W33,Malaria,4
+2012-W34,Dengue Fever,92
+2012-W34,Dengue Haemorrhagic Fever,0
+2012-W34,Malaria,4
+2012-W35,Dengue Fever,102
+2012-W35,Dengue Haemorrhagic Fever,0
+2012-W35,Malaria,1
+2012-W36,Dengue Fever,75
+2012-W36,Dengue Haemorrhagic Fever,1
+2012-W36,Malaria,1
+2012-W37,Dengue Fever,73
+2012-W37,Dengue Haemorrhagic Fever,1
+2012-W37,Malaria,1
+2012-W38,Dengue Fever,72
+2012-W38,Dengue Haemorrhagic Fever,0
+2012-W38,Malaria,5
+2012-W39,Dengue Fever,99
+2012-W39,Dengue Haemorrhagic Fever,1
+2012-W39,Malaria,4
+2012-W40,Dengue Fever,103
+2012-W40,Dengue Haemorrhagic Fever,1
+2012-W40,Malaria,3
+2012-W41,Dengue Fever,122
+2012-W41,Dengue Haemorrhagic Fever,1
+2012-W41,Malaria,3
+2012-W42,Dengue Fever,105
+2012-W42,Dengue Haemorrhagic Fever,0
+2012-W42,Malaria,5
+2012-W43,Dengue Fever,84
+2012-W43,Dengue Haemorrhagic Fever,0
+2012-W43,Malaria,5
+2012-W44,Dengue Fever,104
+2012-W44,Dengue Haemorrhagic Fever,0
+2012-W44,Malaria,1
+2012-W45,Dengue Fever,99
+2012-W45,Dengue Haemorrhagic Fever,1
+2012-W45,Malaria,1
+2012-W46,Dengue Fever,87
+2012-W46,Dengue Haemorrhagic Fever,1
+2012-W46,Malaria,1
+2012-W47,Dengue Fever,99
+2012-W47,Dengue Haemorrhagic Fever,1
+2012-W47,Malaria,1
+2012-W48,Dengue Fever,80
+2012-W48,Dengue Haemorrhagic Fever,0
+2012-W48,Malaria,3
+2012-W49,Dengue Fever,78
+2012-W49,Dengue Haemorrhagic Fever,0
+2012-W49,Malaria,3
+2012-W50,Dengue Fever,104
+2012-W50,Dengue Haemorrhagic Fever,1
+2012-W50,Malaria,2
+2012-W51,Dengue Fever,92
+2012-W51,Dengue Haemorrhagic Fever,2
+2012-W51,Malaria,0
+2012-W52,Dengue Fever,111
+2012-W52,Dengue Haemorrhagic Fever,1
+2012-W52,Malaria,5
+2013-W01,Dengue Fever,132
+2013-W01,Dengue Haemorrhagic Fever,2
+2013-W01,Malaria,1
+2013-W02,Dengue Fever,204
+2013-W02,Dengue Haemorrhagic Fever,1
+2013-W02,Malaria,1
+2013-W03,Dengue Fever,219
+2013-W03,Dengue Haemorrhagic Fever,0
+2013-W03,Malaria,1
+2013-W04,Dengue Fever,264
+2013-W04,Dengue Haemorrhagic Fever,3
+2013-W04,Malaria,0
+2013-W05,Dengue Fever,292
+2013-W05,Dengue Haemorrhagic Fever,1
+2013-W05,Malaria,0
+2013-W06,Dengue Fever,322
+2013-W06,Dengue Haemorrhagic Fever,0
+2013-W06,Malaria,2
+2013-W07,Dengue Fever,246
+2013-W07,Dengue Haemorrhagic Fever,1
+2013-W07,Malaria,0
+2013-W08,Dengue Fever,294
+2013-W08,Dengue Haemorrhagic Fever,2
+2013-W08,Malaria,1
+2013-W09,Dengue Fever,247
+2013-W09,Dengue Haemorrhagic Fever,2
+2013-W09,Malaria,0
+2013-W10,Dengue Fever,272
+2013-W10,Dengue Haemorrhagic Fever,1
+2013-W10,Malaria,1
+2013-W11,Dengue Fever,307
+2013-W11,Dengue Haemorrhagic Fever,1
+2013-W11,Malaria,2
+2013-W12,Dengue Fever,305
+2013-W12,Dengue Haemorrhagic Fever,2
+2013-W12,Malaria,1
+2013-W13,Dengue Fever,314
+2013-W13,Dengue Haemorrhagic Fever,2
+2013-W13,Malaria,1
+2013-W14,Dengue Fever,402
+2013-W14,Dengue Haemorrhagic Fever,4
+2013-W14,Malaria,3
+2013-W15,Dengue Fever,491
+2013-W15,Dengue Haemorrhagic Fever,1
+2013-W15,Malaria,4
+2013-W16,Dengue Fever,505
+2013-W16,Dengue Haemorrhagic Fever,4
+2013-W16,Malaria,4
+2013-W17,Dengue Fever,536
+2013-W17,Dengue Haemorrhagic Fever,2
+2013-W17,Malaria,2
+2013-W18,Dengue Fever,547
+2013-W18,Dengue Haemorrhagic Fever,0
+2013-W18,Malaria,4
+2013-W19,Dengue Fever,556
+2013-W19,Dengue Haemorrhagic Fever,2
+2013-W19,Malaria,5
+2013-W20,Dengue Fever,611
+2013-W20,Dengue Haemorrhagic Fever,0
+2013-W20,Malaria,2
+2013-W21,Dengue Fever,637
+2013-W21,Dengue Haemorrhagic Fever,3
+2013-W21,Malaria,7
+2013-W22,Dengue Fever,742
+2013-W22,Dengue Haemorrhagic Fever,4
+2013-W22,Malaria,1
+2013-W23,Dengue Fever,813
+2013-W23,Dengue Haemorrhagic Fever,1
+2013-W23,Malaria,1
+2013-W24,Dengue Fever,805
+2013-W24,Dengue Haemorrhagic Fever,4
+2013-W24,Malaria,5
+2013-W25,Dengue Fever,838
+2013-W25,Dengue Haemorrhagic Fever,4
+2013-W25,Malaria,0
+2013-W26,Dengue Fever,802
+2013-W26,Dengue Haemorrhagic Fever,4
+2013-W26,Malaria,5
+2013-W27,Dengue Fever,676
+2013-W27,Dengue Haemorrhagic Fever,2
+2013-W27,Malaria,1
+2013-W28,Dengue Fever,540
+2013-W28,Dengue Haemorrhagic Fever,1
+2013-W28,Malaria,0
+2013-W29,Dengue Fever,389
+2013-W29,Dengue Haemorrhagic Fever,1
+2013-W29,Malaria,7
+2013-W30,Dengue Fever,305
+2013-W30,Dengue Haemorrhagic Fever,1
+2013-W30,Malaria,3
+2013-W31,Dengue Fever,288
+2013-W31,Dengue Haemorrhagic Fever,1
+2013-W31,Malaria,1
+2013-W32,Dengue Fever,255
+2013-W32,Dengue Haemorrhagic Fever,1
+2013-W32,Malaria,7
+2013-W33,Dengue Fever,378
+2013-W33,Dengue Haemorrhagic Fever,0
+2013-W33,Malaria,5
+2013-W34,Dengue Fever,338
+2013-W34,Dengue Haemorrhagic Fever,3
+2013-W34,Malaria,3
+2013-W35,Dengue Fever,382
+2013-W35,Dengue Haemorrhagic Fever,4
+2013-W35,Malaria,2
+2013-W36,Dengue Fever,449
+2013-W36,Dengue Haemorrhagic Fever,3
+2013-W36,Malaria,0
+2013-W37,Dengue Fever,337
+2013-W37,Dengue Haemorrhagic Fever,2
+2013-W37,Malaria,3
+2013-W38,Dengue Fever,370
+2013-W38,Dengue Haemorrhagic Fever,6
+2013-W38,Malaria,3
+2013-W39,Dengue Fever,402
+2013-W39,Dengue Haemorrhagic Fever,4
+2013-W39,Malaria,5
+2013-W40,Dengue Fever,439
+2013-W40,Dengue Haemorrhagic Fever,2
+2013-W40,Malaria,2
+2013-W41,Dengue Fever,435
+2013-W41,Dengue Haemorrhagic Fever,3
+2013-W41,Malaria,0
+2013-W42,Dengue Fever,371
+2013-W42,Dengue Haemorrhagic Fever,3
+2013-W42,Malaria,0
+2013-W43,Dengue Fever,495
+2013-W43,Dengue Haemorrhagic Fever,0
+2013-W43,Malaria,1
+2013-W44,Dengue Fever,457
+2013-W44,Dengue Haemorrhagic Fever,1
+2013-W44,Malaria,0
+2013-W45,Dengue Fever,401
+2013-W45,Dengue Haemorrhagic Fever,1
+2013-W45,Malaria,2
+2013-W46,Dengue Fever,442
+2013-W46,Dengue Haemorrhagic Fever,2
+2013-W46,Malaria,1
+2013-W47,Dengue Fever,365
+2013-W47,Dengue Haemorrhagic Fever,0
+2013-W47,Malaria,2
+2013-W48,Dengue Fever,372
+2013-W48,Dengue Haemorrhagic Fever,0
+2013-W48,Malaria,3
+2013-W49,Dengue Fever,347
+2013-W49,Dengue Haemorrhagic Fever,0
+2013-W49,Malaria,1
+2013-W50,Dengue Fever,380
+2013-W50,Dengue Haemorrhagic Fever,1
+2013-W50,Malaria,1
+2013-W51,Dengue Fever,371
+2013-W51,Dengue Haemorrhagic Fever,0
+2013-W51,Malaria,1
+2013-W52,Dengue Fever,414
+2013-W52,Dengue Haemorrhagic Fever,0
+2013-W52,Malaria,3
+2014-W01,Dengue Fever,436
+2014-W01,Dengue Haemorrhagic Fever,1
+2014-W01,Malaria,1
+2014-W02,Dengue Fever,479
+2014-W02,Dengue Haemorrhagic Fever,0
+2014-W02,Malaria,1
+2014-W03,Dengue Fever,401
+2014-W03,Dengue Haemorrhagic Fever,0
+2014-W03,Malaria,2
+2014-W04,Dengue Fever,336
+2014-W04,Dengue Haemorrhagic Fever,0
+2014-W04,Malaria,1
+2014-W05,Dengue Fever,234
+2014-W05,Dengue Haemorrhagic Fever,0
+2014-W05,Malaria,0
+2014-W06,Dengue Fever,273
+2014-W06,Dengue Haemorrhagic Fever,1
+2014-W06,Malaria,0
+2014-W07,Dengue Fever,369
+2014-W07,Dengue Haemorrhagic Fever,0
+2014-W07,Malaria,0
+2014-W08,Dengue Fever,193
+2014-W08,Dengue Haemorrhagic Fever,1
+2014-W08,Malaria,0
+2014-W09,Dengue Fever,186
+2014-W09,Dengue Haemorrhagic Fever,1
+2014-W09,Malaria,0
+2014-W10,Dengue Fever,209
+2014-W10,Dengue Haemorrhagic Fever,1
+2014-W10,Malaria,0
+2014-W11,Dengue Fever,224
+2014-W11,Dengue Haemorrhagic Fever,1
+2014-W11,Malaria,1
+2014-W12,Dengue Fever,210
+2014-W12,Dengue Haemorrhagic Fever,0
+2014-W12,Malaria,2
+2014-W13,Dengue Fever,225
+2014-W13,Dengue Haemorrhagic Fever,0
+2014-W13,Malaria,3
+2014-W14,Dengue Fever,240
+2014-W14,Dengue Haemorrhagic Fever,0
+2014-W14,Malaria,0
+2014-W15,Dengue Fever,244
+2014-W15,Dengue Haemorrhagic Fever,1
+2014-W15,Malaria,0
+2014-W16,Dengue Fever,235
+2014-W16,Dengue Haemorrhagic Fever,0
+2014-W16,Malaria,4
+2014-W17,Dengue Fever,282
+2014-W17,Dengue Haemorrhagic Fever,0
+2014-W17,Malaria,3
+2014-W18,Dengue Fever,251
+2014-W18,Dengue Haemorrhagic Fever,0
+2014-W18,Malaria,1
+2014-W19,Dengue Fever,261
+2014-W19,Dengue Haemorrhagic Fever,0
+2014-W19,Malaria,0
+2014-W20,Dengue Fever,291
+2014-W20,Dengue Haemorrhagic Fever,0
+2014-W20,Malaria,1
+2014-W21,Dengue Fever,427
+2014-W21,Dengue Haemorrhagic Fever,1
+2014-W21,Malaria,0
+2014-W22,Dengue Fever,456
+2014-W22,Dengue Haemorrhagic Fever,0
+2014-W22,Malaria,1
+2014-W23,Dengue Fever,458
+2014-W23,Dengue Haemorrhagic Fever,1
+2014-W23,Malaria,2
+2014-W24,Dengue Fever,506
+2014-W24,Dengue Haemorrhagic Fever,0
+2014-W24,Malaria,1
+2014-W25,Dengue Fever,550
+2014-W25,Dengue Haemorrhagic Fever,1
+2014-W25,Malaria,3
+2014-W26,Dengue Fever,671
+2014-W26,Dengue Haemorrhagic Fever,0
+2014-W26,Malaria,2
+2014-W27,Dengue Fever,888
+2014-W27,Dengue Haemorrhagic Fever,3
+2014-W27,Malaria,1
+2014-W28,Dengue Fever,818
+2014-W28,Dengue Haemorrhagic Fever,1
+2014-W28,Malaria,3
+2014-W29,Dengue Fever,744
+2014-W29,Dengue Haemorrhagic Fever,2
+2014-W29,Malaria,1
+2014-W30,Dengue Fever,633
+2014-W30,Dengue Haemorrhagic Fever,1
+2014-W30,Malaria,1
+2014-W31,Dengue Fever,484
+2014-W31,Dengue Haemorrhagic Fever,0
+2014-W31,Malaria,1
+2014-W32,Dengue Fever,545
+2014-W32,Dengue Haemorrhagic Fever,0
+2014-W32,Malaria,1
+2014-W33,Dengue Fever,438
+2014-W33,Dengue Haemorrhagic Fever,0
+2014-W33,Malaria,4
+2014-W34,Dengue Fever,418
+2014-W34,Dengue Haemorrhagic Fever,0
+2014-W34,Malaria,1
+2014-W35,Dengue Fever,367
+2014-W35,Dengue Haemorrhagic Fever,0
+2014-W35,Malaria,0
+2014-W36,Dengue Fever,339
+2014-W36,Dengue Haemorrhagic Fever,0
+2014-W36,Malaria,1
+2014-W37,Dengue Fever,362
+2014-W37,Dengue Haemorrhagic Fever,0
+2014-W37,Malaria,2
+2014-W38,Dengue Fever,396
+2014-W38,Dengue Haemorrhagic Fever,1
+2014-W38,Malaria,1
+2014-W39,Dengue Fever,344
+2014-W39,Dengue Haemorrhagic Fever,1
+2014-W39,Malaria,0
+2014-W40,Dengue Fever,339
+2014-W40,Dengue Haemorrhagic Fever,0
+2014-W40,Malaria,2
+2014-W41,Dengue Fever,278
+2014-W41,Dengue Haemorrhagic Fever,0
+2014-W41,Malaria,2
+2014-W42,Dengue Fever,297
+2014-W42,Dengue Haemorrhagic Fever,0
+2014-W42,Malaria,1
+2014-W43,Dengue Fever,213
+2014-W43,Dengue Haemorrhagic Fever,0
+2014-W43,Malaria,1
+2014-W44,Dengue Fever,186
+2014-W44,Dengue Haemorrhagic Fever,0
+2014-W44,Malaria,1
+2014-W45,Dengue Fever,168
+2014-W45,Dengue Haemorrhagic Fever,1
+2014-W45,Malaria,4
+2014-W46,Dengue Fever,158
+2014-W46,Dengue Haemorrhagic Fever,0
+2014-W46,Malaria,1
+2014-W47,Dengue Fever,149
+2014-W47,Dengue Haemorrhagic Fever,0
+2014-W47,Malaria,0
+2014-W48,Dengue Fever,162
+2014-W48,Dengue Haemorrhagic Fever,0
+2014-W48,Malaria,0
+2014-W49,Dengue Fever,212
+2014-W49,Dengue Haemorrhagic Fever,0
+2014-W49,Malaria,1
+2014-W50,Dengue Fever,177
+2014-W50,Dengue Haemorrhagic Fever,0
+2014-W50,Malaria,1
+2014-W51,Dengue Fever,198
+2014-W51,Dengue Haemorrhagic Fever,0
+2014-W51,Malaria,0
+2014-W52,Dengue Fever,188
+2014-W52,Dengue Haemorrhagic Fever,0
+2014-W52,Malaria,1
+2014-W53,Dengue Fever,158
+2014-W53,Dengue Haemorrhagic Fever,0
+2014-W53,Malaria,1
+2015-W01,Dengue Fever,256
+2015-W01,Dengue Haemorrhagic Fever,1
+2015-W01,Malaria,1
+2015-W02,Dengue Fever,228
+2015-W02,Dengue Haemorrhagic Fever,0
+2015-W02,Malaria,0
+2015-W03,Dengue Fever,237
+2015-W03,Dengue Haemorrhagic Fever,0
+2015-W03,Malaria,0
+2015-W04,Dengue Fever,259
+2015-W04,Dengue Haemorrhagic Fever,0
+2015-W04,Malaria,0
+2015-W05,Dengue Fever,212
+2015-W05,Dengue Haemorrhagic Fever,0
+2015-W05,Malaria,0
+2017-W09,Malaria,0
+2015-W06,Dengue Fever,173
+2015-W06,Dengue Haemorrhagic Fever,0
+2015-W06,Malaria,1
+2015-W07,Dengue Fever,99
+2015-W07,Dengue Haemorrhagic Fever,1
+2015-W07,Malaria,0
+2015-W08,Dengue Fever,172
+2015-W08,Dengue Haemorrhagic Fever,0
+2015-W08,Malaria,0
+2015-W09,Dengue Fever,189
+2015-W09,Dengue Haemorrhagic Fever,1
+2015-W09,Malaria,0
+2015-W10,Dengue Fever,110
+2015-W10,Dengue Haemorrhagic Fever,0
+2015-W10,Malaria,1
+2015-W11,Dengue Fever,91
+2015-W11,Dengue Haemorrhagic Fever,0
+2015-W11,Malaria,1
+2015-W12,Dengue Fever,129
+2015-W12,Dengue Haemorrhagic Fever,1
+2015-W12,Malaria,0
+2015-W13,Dengue Fever,90
+2015-W13,Dengue Haemorrhagic Fever,1
+2015-W13,Malaria,0
+2015-W14,Dengue Fever,107
+2015-W14,Dengue Haemorrhagic Fever,0
+2015-W14,Malaria,5
+2015-W15,Dengue Fever,137
+2015-W15,Dengue Haemorrhagic Fever,0
+2015-W15,Malaria,0
+2015-W16,Dengue Fever,113
+2015-W16,Dengue Haemorrhagic Fever,0
+2015-W16,Malaria,1
+2015-W17,Dengue Fever,120
+2015-W17,Dengue Haemorrhagic Fever,0
+2015-W17,Malaria,1
+2015-W18,Dengue Fever,135
+2015-W18,Dengue Haemorrhagic Fever,0
+2015-W18,Malaria,1
+2015-W19,Dengue Fever,157
+2015-W19,Dengue Haemorrhagic Fever,1
+2015-W19,Malaria,1
+2015-W20,Dengue Fever,109
+2015-W20,Dengue Haemorrhagic Fever,0
+2015-W20,Malaria,0
+2015-W21,Dengue Fever,178
+2015-W21,Dengue Haemorrhagic Fever,2
+2015-W21,Malaria,1
+2015-W22,Dengue Fever,151
+2015-W22,Dengue Haemorrhagic Fever,1
+2015-W22,Malaria,1
+2015-W23,Dengue Fever,192
+2015-W23,Dengue Haemorrhagic Fever,1
+2015-W23,Malaria,1
+2015-W24,Dengue Fever,207
+2015-W24,Dengue Haemorrhagic Fever,0
+2015-W24,Malaria,1
+2015-W25,Dengue Fever,240
+2015-W25,Dengue Haemorrhagic Fever,0
+2015-W25,Malaria,3
+2015-W26,Dengue Fever,242
+2015-W26,Dengue Haemorrhagic Fever,0
+2015-W26,Malaria,0
+2015-W27,Dengue Fever,272
+2015-W27,Dengue Haemorrhagic Fever,0
+2015-W27,Malaria,2
+2015-W28,Dengue Fever,263
+2015-W28,Dengue Haemorrhagic Fever,0
+2015-W28,Malaria,2
+2015-W29,Dengue Fever,293
+2015-W29,Dengue Haemorrhagic Fever,0
+2015-W29,Malaria,1
+2015-W30,Dengue Fever,250
+2015-W30,Dengue Haemorrhagic Fever,0
+2015-W30,Malaria,2
+2015-W31,Dengue Fever,226
+2015-W31,Dengue Haemorrhagic Fever,0
+2015-W31,Malaria,2
+2015-W32,Dengue Fever,221
+2015-W32,Dengue Haemorrhagic Fever,0
+2015-W32,Malaria,1
+2015-W33,Dengue Fever,250
+2015-W33,Dengue Haemorrhagic Fever,0
+2015-W33,Malaria,2
+2015-W34,Dengue Fever,225
+2015-W34,Dengue Haemorrhagic Fever,0
+2015-W34,Malaria,1
+2015-W35,Dengue Fever,246
+2015-W35,Dengue Haemorrhagic Fever,0
+2015-W35,Malaria,0
+2015-W36,Dengue Fever,217
+2015-W36,Dengue Haemorrhagic Fever,0
+2015-W36,Malaria,3
+2015-W37,Dengue Fever,303
+2015-W37,Dengue Haemorrhagic Fever,0
+2015-W37,Malaria,1
+2015-W38,Dengue Fever,214
+2015-W38,Dengue Haemorrhagic Fever,0
+2015-W38,Malaria,1
+2015-W39,Dengue Fever,257
+2015-W39,Dengue Haemorrhagic Fever,0
+2015-W39,Malaria,2
+2015-W40,Dengue Fever,235
+2015-W40,Dengue Haemorrhagic Fever,0
+2015-W40,Malaria,1
+2015-W41,Dengue Fever,235
+2015-W41,Dengue Haemorrhagic Fever,0
+2015-W41,Malaria,1
+2015-W42,Dengue Fever,224
+2015-W42,Dengue Haemorrhagic Fever,0
+2015-W42,Malaria,0
+2015-W43,Dengue Fever,246
+2015-W43,Dengue Haemorrhagic Fever,0
+2015-W43,Malaria,1
+2015-W44,Dengue Fever,266
+2015-W44,Dengue Haemorrhagic Fever,0
+2015-W44,Malaria,0
+2015-W45,Dengue Fever,198
+2015-W45,Dengue Haemorrhagic Fever,0
+2015-W45,Malaria,0
+2015-W46,Dengue Fever,254
+2015-W46,Dengue Haemorrhagic Fever,0
+2015-W46,Malaria,0
+2015-W47,Dengue Fever,285
+2015-W47,Dengue Haemorrhagic Fever,1
+2015-W47,Malaria,4
+2015-W48,Dengue Fever,259
+2015-W48,Dengue Haemorrhagic Fever,0
+2015-W48,Malaria,1
+2015-W49,Dengue Fever,356
+2015-W49,Dengue Haemorrhagic Fever,1
+2015-W49,Malaria,0
+2015-W50,Dengue Fever,333
+2015-W50,Dengue Haemorrhagic Fever,0
+2015-W50,Malaria,0
+2015-W51,Dengue Fever,372
+2015-W51,Dengue Haemorrhagic Fever,0
+2015-W51,Malaria,1
+2015-W52,Dengue Fever,458
+2015-W52,Dengue Haemorrhagic Fever,0
+2015-W52,Malaria,0
+2016-W01,Dengue Fever,549
+2016-W01,Dengue Haemorrhagic Fever,0
+2016-W01,Malaria,1
+2016-W02,Dengue Fever,628
+2016-W02,Dengue Haemorrhagic Fever,0
+2016-W02,Malaria,0
+2016-W03,Dengue Fever,635
+2016-W03,Dengue Haemorrhagic Fever,1
+2016-W03,Malaria,0
+2016-W04,Dengue Fever,629
+2016-W04,Dengue Haemorrhagic Fever,1
+2016-W04,Malaria,0
+2016-W05,Dengue Fever,528
+2016-W05,Dengue Haemorrhagic Fever,2
+2016-W05,Malaria,0
+2016-W06,Dengue Fever,420
+2016-W06,Dengue Haemorrhagic Fever,0
+2016-W06,Malaria,0
+2016-W07,Dengue Fever,592
+2016-W07,Dengue Haemorrhagic Fever,1
+2016-W07,Malaria,0
+2016-W08,Dengue Fever,508
+2016-W08,Dengue Haemorrhagic Fever,4
+2016-W08,Malaria,0
+2016-W09,Dengue Fever,412
+2016-W09,Dengue Haemorrhagic Fever,0
+2016-W09,Malaria,0
+2016-W10,Dengue Fever,396
+2016-W10,Dengue Haemorrhagic Fever,1
+2016-W10,Malaria,0
+2016-W11,Dengue Fever,373
+2016-W11,Dengue Haemorrhagic Fever,1
+2016-W11,Malaria,1
+2016-W12,Dengue Fever,306
+2016-W12,Dengue Haemorrhagic Fever,2
+2016-W12,Malaria,1
+2016-W13,Dengue Fever,376
+2016-W13,Dengue Haemorrhagic Fever,1
+2016-W13,Malaria,0
+2016-W14,Dengue Fever,290
+2016-W14,Dengue Haemorrhagic Fever,2
+2016-W14,Malaria,0
+2016-W15,Dengue Fever,225
+2016-W15,Dengue Haemorrhagic Fever,0
+2016-W15,Malaria,1
+2016-W16,Dengue Fever,231
+2016-W16,Dengue Haemorrhagic Fever,0
+2016-W16,Malaria,1
+2016-W17,Dengue Fever,244
+2016-W17,Dengue Haemorrhagic Fever,0
+2016-W17,Malaria,0
+2016-W18,Dengue Fever,181
+2016-W18,Dengue Haemorrhagic Fever,0
+2016-W18,Malaria,0
+2016-W19,Dengue Fever,217
+2016-W19,Dengue Haemorrhagic Fever,0
+2016-W19,Malaria,0
+2016-W20,Dengue Fever,212
+2016-W20,Dengue Haemorrhagic Fever,0
+2016-W20,Malaria,1
+2016-W21,Dengue Fever,198
+2016-W21,Dengue Haemorrhagic Fever,0
+2016-W21,Malaria,0
+2016-W22,Dengue Fever,219
+2016-W22,Dengue Haemorrhagic Fever,1
+2016-W22,Malaria,0
+2016-W23,Dengue Fever,159
+2016-W23,Dengue Haemorrhagic Fever,1
+2016-W23,Malaria,0
+2016-W24,Dengue Fever,192
+2016-W24,Dengue Haemorrhagic Fever,1
+2016-W24,Malaria,2
+2016-W25,Dengue Fever,215
+2016-W25,Dengue Haemorrhagic Fever,0
+2016-W25,Malaria,0
+2016-W26,Dengue Fever,234
+2016-W26,Dengue Haemorrhagic Fever,0
+2016-W26,Malaria,1
+2016-W27,Dengue Fever,246
+2016-W27,Dengue Haemorrhagic Fever,1
+2016-W27,Malaria,0
+2016-W28,Dengue Fever,223
+2016-W28,Dengue Haemorrhagic Fever,0
+2016-W28,Malaria,1
+2016-W29,Dengue Fever,266
+2016-W29,Dengue Haemorrhagic Fever,0
+2016-W29,Malaria,0
+2016-W30,Dengue Fever,221
+2016-W30,Dengue Haemorrhagic Fever,1
+2016-W30,Malaria,0
+2016-W31,Dengue Fever,211
+2016-W31,Dengue Haemorrhagic Fever,0
+2016-W31,Malaria,1
+2016-W32,Dengue Fever,197
+2016-W32,Dengue Haemorrhagic Fever,1
+2016-W32,Malaria,1
+2016-W33,Dengue Fever,221
+2016-W33,Dengue Haemorrhagic Fever,1
+2016-W33,Malaria,3
+2016-W34,Dengue Fever,274
+2016-W34,Dengue Haemorrhagic Fever,0
+2016-W34,Malaria,1
+2016-W35,Dengue Fever,310
+2016-W35,Dengue Haemorrhagic Fever,1
+2016-W35,Malaria,2
+2016-W36,Dengue Fever,242
+2016-W36,Dengue Haemorrhagic Fever,0
+2016-W36,Malaria,2
+2016-W37,Dengue Fever,174
+2016-W37,Dengue Haemorrhagic Fever,0
+2016-W37,Malaria,2
+2016-W38,Dengue Fever,173
+2016-W38,Dengue Haemorrhagic Fever,0
+2016-W38,Malaria,2
+2016-W39,Dengue Fever,138
+2016-W39,Dengue Haemorrhagic Fever,0
+2016-W39,Malaria,0
+2016-W40,Dengue Fever,125
+2016-W40,Dengue Haemorrhagic Fever,0
+2016-W40,Malaria,0
+2016-W41,Dengue Fever,94
+2016-W41,Dengue Haemorrhagic Fever,0
+2016-W41,Malaria,2
+2016-W42,Dengue Fever,108
+2016-W42,Dengue Haemorrhagic Fever,0
+2016-W42,Malaria,0
+2016-W43,Dengue Fever,84
+2016-W43,Dengue Haemorrhagic Fever,0
+2016-W43,Malaria,0
+2016-W44,Dengue Fever,85
+2016-W44,Dengue Haemorrhagic Fever,1
+2016-W44,Malaria,0
+2016-W45,Dengue Fever,84
+2016-W45,Dengue Haemorrhagic Fever,0
+2016-W45,Malaria,0
+2016-W46,Dengue Fever,72
+2016-W46,Dengue Haemorrhagic Fever,0
+2016-W46,Malaria,0
+2016-W47,Dengue Fever,74
+2016-W47,Dengue Haemorrhagic Fever,1
+2016-W47,Malaria,0
+2016-W48,Dengue Fever,86
+2016-W48,Dengue Haemorrhagic Fever,0
+2016-W48,Malaria,0
+2016-W49,Dengue Fever,59
+2016-W49,Dengue Haemorrhagic Fever,0
+2016-W49,Malaria,3
+2016-W50,Dengue Fever,81
+2016-W50,Dengue Haemorrhagic Fever,0
+2016-W50,Malaria,1
+2016-W51,Dengue Fever,72
+2016-W51,Dengue Haemorrhagic Fever,0
+2016-W51,Malaria,0
+2016-W52,Dengue Fever,64
+2016-W52,Dengue Haemorrhagic Fever,0
+2016-W52,Malaria,0
+2017-W01,Dengue Fever,70
+2017-W01,Dengue Haemorrhagic Fever,0
+2017-W01,Malaria,0
+2017-W02,Dengue Fever,90
+2017-W02,Dengue Haemorrhagic Fever,1
+2017-W02,Malaria,0
+2017-W03,Dengue Fever,74
+2017-W03,Dengue Haemorrhagic Fever,1
+2017-W03,Malaria,1
+2017-W04,Dengue Fever,66
+2017-W04,Dengue Haemorrhagic Fever,0
+2017-W04,Malaria,0
+2017-W05,Dengue Fever,62
+2017-W05,Dengue Haemorrhagic Fever,0
+2017-W05,Malaria,0
+2017-W06,Dengue Fever,77
+2017-W06,Dengue Haemorrhagic Fever,0
+2017-W06,Malaria,1
+2017-W07,Dengue Fever,51
+2017-W07,Dengue Haemorrhagic Fever,2
+2017-W07,Malaria,0
+2017-W08,Dengue Fever,54
+2017-W08,Dengue Haemorrhagic Fever,0
+2017-W08,Malaria,0
+2017-W09,Dengue Fever,41
+2017-W09,Dengue Haemorrhagic Fever,0
+2017-W10,Dengue Fever,32
+2017-W10,Dengue Haemorrhagic Fever,0
+2017-W10,Malaria,1
+2017-W11,Dengue Fever,34
+2017-W11,Dengue Haemorrhagic Fever,1
+2017-W11,Malaria,1
+2017-W12,Dengue Fever,32
+2017-W12,Dengue Haemorrhagic Fever,0
+2017-W12,Malaria,0
+2017-W13,Dengue Fever,49
+2017-W13,Dengue Haemorrhagic Fever,1
+2017-W13,Malaria,0
+2017-W14,Dengue Fever,37
+2017-W14,Dengue Haemorrhagic Fever,0
+2017-W14,Malaria,1
+2017-W15,Dengue Fever,32
+2017-W15,Dengue Haemorrhagic Fever,0
+2017-W15,Malaria,1
+2017-W16,Dengue Fever,51
+2017-W16,Dengue Haemorrhagic Fever,0
+2017-W16,Malaria,2
+2017-W17,Dengue Fever,37
+2017-W17,Dengue Haemorrhagic Fever,0
+2017-W17,Malaria,0
+2017-W18,Dengue Fever,42
+2017-W18,Dengue Haemorrhagic Fever,0
+2017-W18,Malaria,2
+2017-W19,Dengue Fever,48
+2017-W19,Dengue Haemorrhagic Fever,0
+2017-W19,Malaria,0
+2017-W20,Dengue Fever,48
+2017-W20,Dengue Haemorrhagic Fever,2
+2017-W20,Malaria,0
+2017-W21,Dengue Fever,50
+2017-W21,Dengue Haemorrhagic Fever,0
+2017-W21,Malaria,2
+2017-W22,Dengue Fever,66
+2017-W22,Dengue Haemorrhagic Fever,0
+2017-W22,Malaria,0
+2017-W23,Dengue Fever,62
+2017-W23,Dengue Haemorrhagic Fever,0
+2017-W23,Malaria,0
+2017-W24,Dengue Fever,79
+2017-W24,Dengue Haemorrhagic Fever,1
+2017-W24,Malaria,0
+2017-W25,Dengue Fever,73
+2017-W25,Dengue Haemorrhagic Fever,0
+2017-W25,Malaria,1
+2017-W26,Dengue Fever,75
+2017-W26,Dengue Haemorrhagic Fever,0
+2017-W26,Malaria,1
+2017-W27,Dengue Fever,63
+2017-W27,Dengue Haemorrhagic Fever,0
+2017-W27,Malaria,3
+2017-W28,Dengue Fever,53
+2017-W28,Dengue Haemorrhagic Fever,0
+2017-W28,Malaria,0
+2017-W29,Dengue Fever,51
+2017-W29,Dengue Haemorrhagic Fever,0
+2017-W29,Malaria,0
+2017-W30,Dengue Fever,66
+2017-W30,Dengue Haemorrhagic Fever,1
+2017-W30,Malaria,1
+2017-W31,Dengue Fever,60
+2017-W31,Dengue Haemorrhagic Fever,0
+2017-W31,Malaria,1
+2017-W32,Dengue Fever,56
+2017-W32,Dengue Haemorrhagic Fever,0
+2017-W32,Malaria,1
+2017-W33,Dengue Fever,52
+2017-W33,Dengue Haemorrhagic Fever,1
+2017-W33,Malaria,1
+2017-W34,Dengue Fever,51
+2017-W34,Dengue Haemorrhagic Fever,1
+2017-W34,Malaria,1
+2017-W35,Dengue Fever,33
+2017-W35,Dengue Haemorrhagic Fever,0
+2017-W35,Malaria,3
+2017-W36,Dengue Fever,40
+2017-W36,Dengue Haemorrhagic Fever,0
+2017-W36,Malaria,1
+2017-W37,Dengue Fever,53
+2017-W37,Dengue Haemorrhagic Fever,0
+2017-W37,Malaria,1
+2017-W38,Dengue Fever,58
+2017-W38,Dengue Haemorrhagic Fever,1
+2017-W38,Malaria,1
+2017-W39,Dengue Fever,39
+2017-W39,Dengue Haemorrhagic Fever,0
+2017-W39,Malaria,0
+2017-W40,Dengue Fever,51
+2017-W40,Dengue Haemorrhagic Fever,1
+2017-W40,Malaria,1
+2017-W41,Dengue Fever,55
+2017-W41,Dengue Haemorrhagic Fever,0
+2017-W41,Malaria,0
+2017-W42,Dengue Fever,62
+2017-W42,Dengue Haemorrhagic Fever,1
+2017-W42,Malaria,1
+2017-W43,Dengue Fever,77
+2017-W43,Dengue Haemorrhagic Fever,0
+2017-W43,Malaria,1
+2017-W44,Dengue Fever,62
+2017-W44,Dengue Haemorrhagic Fever,0
+2017-W44,Malaria,1
+2017-W45,Dengue Fever,44
+2017-W45,Dengue Haemorrhagic Fever,0
+2017-W45,Malaria,1
+2017-W46,Dengue Fever,50
+2017-W46,Dengue Haemorrhagic Fever,0
+2017-W46,Malaria,1
+2017-W48,Malaria,2
+2017-W47,Dengue Fever,24
+2017-W47,Dengue Haemorrhagic Fever,0
+2017-W47,Malaria,1
+2017-W48,Dengue Fever,37
+2017-W48,Dengue Haemorrhagic Fever,1
+2017-W49,Dengue Fever,33
+2017-W49,Dengue Haemorrhagic Fever,1
+2017-W49,Malaria,2
+2017-W50,Dengue Fever,40
+2017-W50,Dengue Haemorrhagic Fever,0
+2017-W50,Malaria,0
+2017-W51,Dengue Fever,51
+2017-W51,Dengue Haemorrhagic Fever,0
+2017-W51,Malaria,0
+2017-W52,Dengue Fever,66
+2017-W52,Dengue Haemorrhagic Fever,0
+2017-W52,Malaria,0
