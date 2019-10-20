@@ -18,3 +18,4 @@
 ## To deactivate virtual environment, run:
 `deactivate`
 
+# Steps to run

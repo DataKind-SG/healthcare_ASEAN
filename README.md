@@ -6,11 +6,10 @@ Open data project on exploration of healthcare data for the ASEAN region, curren
 Trello board: https://trello.com/b/NtM7qDC5/project-healthcare-asean  
 Slack Channel on DataKindSG team: #healthcare_asean  
 
-The data folder is currently not uploaded to the github repo (see .gitignore)  
-For new repositories, run: `python download.py` from `.\src\data\`  
-To get latest data, run: `python .\src\data\download_lastmonth_data.py`  
+The data folder has been uploaded to the github repo data\ folder.
 
-Previously collected data is available in the Project Google drive folder.  
+Further information: 
+docs\README.md
 
 Granularity
 ------------
